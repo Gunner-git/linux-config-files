@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Người xây dựng"
+   },
+   "description": {
+      "message": "Thay đổi thanh tiến trình Youtube™ thành tùy chỉnh từ bộ sưu tập thú vị. Làm cho trình phát Youtube™ của bạn trở nên tuyệt vời!"
+   },
+   "go_to_site": {
+      "message": "Mở trang YouTube"
+   },
+   "go_to_site_pb": {
+      "message": "Tới trang web"
+   },
+   "more": {
+      "message": "Hơn"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "Bạn phải mở YouTube trong tab đang hoạt động để tiện ích mở rộng hoạt động!"
+   },
+   "noresult": {
+      "message": "Không kết quả? Hãy truy cập trang web của chúng tôi và lấy cho mình một thanh tiến trình hoàn toàn mới, sáng bóng miễn phí!"
+   },
+   "search_placeholder": {
+      "message": "Tìm kiếm ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

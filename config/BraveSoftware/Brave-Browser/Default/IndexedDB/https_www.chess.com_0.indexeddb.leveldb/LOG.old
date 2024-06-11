@@ -1,0 +1,13 @@
+2024/06/11-15:18:36.259 2b62 Reusing MANIFEST /home/light/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/11-15:18:36.262 2b62 Recovering log #292
+2024/06/11-15:18:36.385 2b62 Reusing old log /home/light/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/000292.log 
+2024/06/11-15:19:48.526 2b57 Level-0 table #298: started
+2024/06/11-15:19:48.552 2b57 Level-0 table #298: 866205 bytes OK
+2024/06/11-15:19:48.557 2b57 Delete type=0 #292
+2024/06/11-15:20:07.870 2b56 Compacting 1@1 + 1@2 files
+2024/06/11-15:20:07.912 2b56 Generated table #299@1: 21092 keys, 2181070 bytes
+2024/06/11-15:20:07.919 2b56 Generated table #300@1: 1156 keys, 364362 bytes
+2024/06/11-15:20:07.919 2b56 Compacted 1@1 + 1@2 files => 2545432 bytes
+2024/06/11-15:20:07.923 2b56 compacted to: files[ 0 0 10 0 0 0 0 ]
+2024/06/11-15:20:07.923 2b56 Delete type=2 #294
+2024/06/11-15:20:07.923 2b56 Delete type=2 #298

@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Construtor"
+   },
+   "description": {
+      "message": "Altere a barra de progresso do Youtube para personalizada a partir de uma coleção divertida. Faça o seu jogador do YouTube ™ incrível!"
+   },
+   "go_to_site": {
+      "message": "Abra a página do YouTube"
+   },
+   "go_to_site_pb": {
+      "message": "Ir para o site"
+   },
+   "more": {
+      "message": "Mais"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "Você deve ter o YouTube aberto na aba ativa para que a extensão funcione!"
+   },
+   "noresult": {
+      "message": "Nada encontrado? Acesse nosso site e ganhe uma barra de progresso totalmente nova e brilhante de graça!"
+   },
+   "search_placeholder": {
+      "message": "Procurar ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

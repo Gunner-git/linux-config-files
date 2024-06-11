@@ -1,0 +1,39 @@
+2024/06/10-16:33:59.169 b58 Reusing MANIFEST /home/light/.config/google-chrome/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/10-16:33:59.169 b58 Recovering log #182
+2024/06/10-16:33:59.196 b58 Reusing old log /home/light/.config/google-chrome/Default/IndexedDB/https_www.chess.com_0.indexeddb.leveldb/000182.log 
+2024/06/10-17:05:02.582 b59 Level-0 table #188: started
+2024/06/10-17:05:02.603 b59 Level-0 table #188: 873321 bytes OK
+2024/06/10-17:05:02.608 b59 Delete type=0 #182
+2024/06/10-17:05:45.778 b5d Compacting 1@1 + 2@2 files
+2024/06/10-17:05:45.811 b5d Generated table #189@1: 23313 keys, 2174499 bytes
+2024/06/10-17:05:45.831 b5d Generated table #190@1: 44802 keys, 1539088 bytes
+2024/06/10-17:05:45.831 b5d Compacted 1@1 + 2@2 files => 3713587 bytes
+2024/06/10-17:05:45.834 b5d compacted to: files[ 0 0 15 0 0 0 0 ]
+2024/06/10-17:05:45.834 b5d Delete type=2 #188
+2024/06/10-17:05:45.835 b5d Delete type=2 #185
+2024/06/10-17:05:45.835 b5d Delete type=2 #184
+2024/06/10-19:11:07.567 b5d Level-0 table #192: started
+2024/06/10-19:11:07.600 b5d Level-0 table #192: 873164 bytes OK
+2024/06/10-19:11:07.605 b5d Delete type=0 #187
+2024/06/10-19:11:58.796 b5d Compacting 1@1 + 2@2 files
+2024/06/10-19:11:58.832 b5d Generated table #193@1: 23321 keys, 2174656 bytes
+2024/06/10-19:11:58.860 b5d Generated table #194@1: 51689 keys, 1912069 bytes
+2024/06/10-19:11:58.860 b5d Compacted 1@1 + 2@2 files => 4086725 bytes
+2024/06/10-19:11:58.864 b5d compacted to: files[ 0 0 15 0 0 0 0 ]
+2024/06/10-19:11:58.864 b5d Delete type=2 #189
+2024/06/10-19:11:58.864 b5d Delete type=2 #192
+2024/06/10-19:11:58.864 b5d Delete type=2 #190
+2024/06/10-20:00:57.788 b59 Level-0 table #196: started
+2024/06/10-20:00:57.800 b59 Level-0 table #196: 363986 bytes OK
+2024/06/10-20:00:57.805 b59 Delete type=0 #191
+2024/06/10-20:00:57.805 b59 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/10-20:00:57.805 b59 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\x00\xa0\xf6\xe2@' @ 1132544 : 1
+2024/06/10-20:00:57.805 b59 Compacting 1@1 + 2@2 files
+2024/06/10-20:00:57.831 b59 Generated table #197@1: 23330 keys, 2175193 bytes
+2024/06/10-20:00:57.859 b59 Generated table #198@1: 54540 keys, 2064558 bytes
+2024/06/10-20:00:57.859 b59 Compacted 1@1 + 2@2 files => 4239751 bytes
+2024/06/10-20:00:57.863 b59 compacted to: files[ 0 0 15 0 0 0 0 ]
+2024/06/10-20:00:57.863 b59 Delete type=2 #196
+2024/06/10-20:00:57.863 b59 Delete type=2 #194
+2024/06/10-20:00:57.863 b59 Delete type=2 #193
+2024/06/10-20:00:57.864 b59 Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\x00\xa0\xf6\xe2@' @ 1132544 : 1 .. (end); will stop at (end)

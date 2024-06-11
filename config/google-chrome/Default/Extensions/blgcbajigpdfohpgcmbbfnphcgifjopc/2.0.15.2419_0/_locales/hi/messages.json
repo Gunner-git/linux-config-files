@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "अपने ब्राउज़र में सुरक्षित तौर पर असीमित पासवर्ड  सेव और फ़िल करें और साइटों पर तेजी से साइन इन करें।"
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "अपने ब्राउज़र में सुरक्षित तौर पर असीमित पासवर्ड  सेव और फ़िल करें और साइटों पर तेजी से साइन इन करें।"
+   },
+   "app_description_text": {
+      "message": "अपने ब्राउज़र में सुरक्षित तौर पर असीमित पासवर्ड  सेव और फ़िल करें और साइटों पर तेजी से साइन इन करें।"
+   },
+   "app_description_text_alpha": {
+      "message": "अपने ब्राउज़र में सुरक्षित तौर पर असीमित पासवर्ड  सेव और फ़िल करें और साइटों पर तेजी से साइन इन करें।"
+   },
+   "app_description_text_beta": {
+      "message": "अपने ब्राउज़र में सुरक्षित तौर पर असीमित पासवर्ड  सेव और फ़िल करें और साइटों पर तेजी से साइन इन करें।"
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN कीज़: पासवर्ड मैनेजर"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN कीज़: पासवर्ड मैनेजर Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN कीज़: पासवर्ड मैनेजर Beta"
+   }
+}

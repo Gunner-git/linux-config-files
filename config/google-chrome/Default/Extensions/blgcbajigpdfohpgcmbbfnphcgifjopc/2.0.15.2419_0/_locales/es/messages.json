@@ -1,0 +1,2075 @@
+{
+   "account_verified_header": {
+      "message": "Cuenta verificada"
+   },
+   "account_verified_hint": {
+      "message": "Este dispositivo ahora está autorizado para usar ExpressVPN Keys."
+   },
+   "account_verified_text_p1": {
+      "message": "Ahora puede cerrar esta pestaña y abrir la extensión para ver sus inicios de sesión, o comenzar a navegar y autorrellenar sus inicios de sesión."
+   },
+   "account_verified_text_p2": {
+      "message": "Si tiene alguna pregunta, por favor [contacte al soporte técnico]."
+   },
+   "add_logins_back": {
+      "message": "Agregar inicio de sesión para {HOST}"
+   },
+   "add_logins_choose_website_header": {
+      "message": "Elija una página web para comenzar"
+   },
+   "add_logins_choose_website_text": {
+      "message": "¿No encuentra la página web a la que quiere agregar una contraseña? Haga clic en el ícono de la extensión y comience a agregar inicios de sesión ahí."
+   },
+   "add_logins_header": {
+      "message": "Agregue su primera contraseña"
+   },
+   "add_logins_open_website": {
+      "message": "Abrir {HOST}"
+   },
+   "add_logins_step1": {
+      "message": "Abra {HOST}"
+   },
+   "add_logins_step2": {
+      "message": "Si tiene la sesión abierta en su cuenta, por favor ciérrela."
+   },
+   "add_logins_step3": {
+      "message": "Inicie sesión de nuevo con su nombre de usuario y contraseña."
+   },
+   "add_logins_step4": {
+      "message": "Haga clic en '\u003Cb>Guardar\u003C/b>' cuando ExpressVPN le pida guardar sus detalles de inicio de sesión."
+   },
+   "add_logins_text_p1": {
+      "message": "Elija una página web popular entre las indicadas a la derecha y le mostraremos cómo agregar su primera contraseña."
+   },
+   "add_logins_text_p2_1": {
+      "message": "Si tiene inicios de sesión guardados en otro gestor de contraseñas,"
+   },
+   "add_logins_text_p2_2": {
+      "message": "puede importarlos fácilmente"
+   },
+   "add_logins_text_p2_3": {
+      "message": "a su cuenta de ExpressVPN Keys."
+   },
+   "add_logins_text_p3": {
+      "message": "¿Quiere guardar una \u003Cb>nota segura\u003C/b> o \u003Cb>tarjeta de crédito/débito\u003C/b>? Abra la extensión y haga clic en el botón de \"signo más\" verde."
+   },
+   "app_default_title": {
+      "message": "ExpressVPN Keys"
+   },
+   "app_default_title_alpha": {
+      "message": "ExpressVPN Keys (Alfa)"
+   },
+   "app_default_title_beta": {
+      "message": "ExpressVPN Keys (Beta)"
+   },
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Guarde y rellene un número ilimitado de contraseñas en su navegador con seguridad e inicie sesión más rápido en páginas web."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Guarde y rellene un número ilimitado de contraseñas en su navegador con seguridad e inicie sesión más rápido en páginas web."
+   },
+   "app_description_text": {
+      "message": "Guarde y rellene un número ilimitado de contraseñas en su navegador con seguridad e inicie sesión más rápido en páginas web."
+   },
+   "app_description_text_alpha": {
+      "message": "Guarde y rellene un número ilimitado de contraseñas en su navegador con seguridad e inicie sesión más rápido en páginas web."
+   },
+   "app_description_text_beta": {
+      "message": "Guarde y rellene un número ilimitado de contraseñas en su navegador con seguridad e inicie sesión más rápido en páginas web."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Gestor de contraseñas"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN: Gestor de contraseñas Alfa"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN: Gestor de contraseñas Beta"
+   },
+   "app_not_installed_have_expressvpn_Linux_p1": {
+      "message": "Inicie sesión para obtener la última versión de la aplicación de ExpressVPN para Linux. Necesitará tenerla  instalada y activada para usar la extensión de Keys para Chrome."
+   },
+   "app_not_installed_have_expressvpn_Mac_p1": {
+      "message": "Inicie sesión para obtener la última versión de la aplicación de ExpressVPN para Mac. Necesitará tenerla  instalada y activada para usar la extensión de Keys para Chrome."
+   },
+   "app_not_installed_have_expressvpn_Windows_p1": {
+      "message": "Inicie sesión para obtener la última versión de la aplicación de ExpressVPN para Windows. Necesitará tenerla  instalada y activada para usar la extensión de Keys para Chrome."
+   },
+   "app_not_installed_have_expressvpn_button_label": {
+      "message": "Iniciar sesión"
+   },
+   "app_not_installed_have_expressvpn_header": {
+      "message": "¿Ya tiene una cuenta de ExpressVPN?"
+   },
+   "app_not_installed_header": {
+      "message": "Gestione sus contraseñas de forma segura con ExpressVPN Keys"
+   },
+   "app_not_installed_no_account_button_label": {
+      "message": "Comprar ExpressVPN"
+   },
+   "app_not_installed_no_account_header": {
+      "message": "¿No tiene una cuenta de ExpressVPN?"
+   },
+   "app_not_installed_no_account_p1": {
+      "message": "Pruebe ExpressVPN sin compromiso, con una garantía de devolución de dinero a 30 días. Disfrute de protección VPN de primer nivel, además de un gestor de contraseñas incluido en la mayoría de los planes."
+   },
+   "app_not_installed_subheader": {
+      "message": "Disfrute de mayor protección, todo en una sola suscripción a ExpressVPN."
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN Keys"
+   },
+   "autofill_add_new_entry": {
+      "message": "Agregar inicio de sesión a Keys"
+   },
+   "autofill_from_different_subdomain_warning_cancel": {
+      "message": "Cancelar"
+   },
+   "autofill_from_different_subdomain_warning_proceed": {
+      "message": "Continuar"
+   },
+   "autofill_from_different_subdomain_warning_text": {
+      "message": "¿Está seguro? Está intentando rellenar sus datos de acceso para \u003Cb>{ENTRY_DOMAIN}\u003C/b> en \u003Cb>{CURRENT_DOMAIN}\u003C/b>."
+   },
+   "autofill_loading_card_documents": {
+      "message": "Cargando"
+   },
+   "autofill_loading_login_documents": {
+      "message": "Cargando"
+   },
+   "autofill_on_insecure_origin_warning_title": {
+      "message": "Alerta de seguridad"
+   },
+   "autofill_on_insecure_origin_warning_warning_cancel": {
+      "message": "Cancelar"
+   },
+   "autofill_on_insecure_origin_warning_warning_proceed": {
+      "message": "Rellenar de todos modos"
+   },
+   "autofill_on_insecure_origin_warning_warning_text": {
+      "message": "Está a punto de rellenar sus credenciales de \u003Cb>{ENTRY_DOMAIN}\u003C/b> en \u003Cb>{CURRENT_DOMAIN}\u003C/b>. Confirme que confía en este dominio y que desea continuar."
+   },
+   "autosave_existing_login_tab": {
+      "message": "Existente"
+   },
+   "autosave_modal_choose_entry_title": {
+      "message": "Actualizar inicio de sesión"
+   },
+   "autosave_modal_save_prompt_title": {
+      "message": "¿Guardar inicio de sesión?"
+   },
+   "autosave_modal_saved_title": {
+      "message": "Inicio de sesión guardado."
+   },
+   "autosave_modal_update_prompt_header": {
+      "message": "Actualizar {HOST}"
+   },
+   "autosave_modal_update_prompt_title": {
+      "message": "¿Actualizar credenciales de {HOST}?"
+   },
+   "autosave_modal_updated_title": {
+      "message": "Inicio de sesión actualizado para {HOST}"
+   },
+   "autosave_new_login_tab": {
+      "message": "Nuevo"
+   },
+   "back": {
+      "message": "Volver"
+   },
+   "beta_survey_notification_help_improve_header": {
+      "message": "Ayude a mejorar ExpressVPN Keys"
+   },
+   "beta_survey_notification_help_improve_text": {
+      "message": "Haga clic aquí para compartir su opinión sobre el nuevo gestor de contraseñas."
+   },
+   "business_account_header": {
+      "message": "¡Lo sentimos!"
+   },
+   "business_account_hint": {
+      "message": "¿Tiene una cuenta personal? Intente iniciar sesión con ella para acceder a Keys."
+   },
+   "business_account_p1": {
+      "message": "ExpressVPN Keys no está disponible en las suscripciones empresariales o de licencias al por mayor."
+   },
+   "business_account_p2": {
+      "message": "Si tiene alguna pregunta, \u003Ca href='https://www.expressvpn.com/support'>contacte al soporte técnico\u003C/a>."
+   },
+   "card_saved": {
+      "message": "Tarjeta guardada. Recordaremos esta tarjeta y la mantendremos segura."
+   },
+   "centuries": {
+      "message": "siglos"
+   },
+   "century": {
+      "message": "siglo"
+   },
+   "change_password_set_new_header": {
+      "message": "Su nueva contraseña principal"
+   },
+   "change_password_strong_passwords_link_text": {
+      "message": "Aprenda a crear contraseñas seguras"
+   },
+   "change_password_success_header": {
+      "message": "¡Listo!"
+   },
+   "change_password_success_hint": {
+      "message": "Su contraseña principal se cambió correctamente."
+   },
+   "change_password_success_text": {
+      "message": "Ahora puede cerrar esta pestaña. Haga clic en la extensión de ExpressVPN Keys para desbloquear su gestor de contraseñas usando su nueva contraseña principal."
+   },
+   "change_password_verify_button_label": {
+      "message": "Verificar"
+   },
+   "change_password_verify_header": {
+      "message": "Verificar la contraseña principal"
+   },
+   "change_password_verify_text": {
+      "message": "Ingrese su contraseña principal a la derecha para cambiar su contraseña principal de ExpressVPN Keys."
+   },
+   "character_limit_reached": {
+      "message": "Llegó al límite de caracteres"
+   },
+   "contact_support_anchor": {
+      "message": "contactar al soporte técnico"
+   },
+   "day": {
+      "message": "día"
+   },
+   "days": {
+      "message": "días"
+   },
+   "delete_2fa_confirm_modal_cancel_button": {
+      "message": "Cancelar"
+   },
+   "delete_2fa_confirm_modal_confirm_button": {
+      "message": "Borrar código"
+   },
+   "delete_2fa_confirm_modal_header": {
+      "message": "¿Está seguro?"
+   },
+   "delete_2fa_confirm_modal_text_p1": {
+      "message": "Es posible que necesite este código para iniciar sesión en su cuenta."
+   },
+   "delete_2fa_confirm_modal_text_p2": {
+      "message": "Antes de eliminar el código, compruebe que ha desactivado la 2FA en los ajustes de seguridad de la página web o aplicación y que puede iniciar sesión en su cuenta."
+   },
+   "delete_account_confirm_modal_cancel_button": {
+      "message": "Cancelar"
+   },
+   "delete_account_confirm_modal_confirm_button": {
+      "message": "Eliminar permanentemente"
+   },
+   "delete_account_confirm_modal_header": {
+      "message": "¿Está seguro?"
+   },
+   "delete_account_confirm_modal_text": {
+      "message": "Si tiene una cuenta de administrador de contraseñas, se eliminará permanentemente."
+   },
+   "delete_account_unlock_modal_confirm_button": {
+      "message": "Desbloquear"
+   },
+   "delete_account_unlock_modal_header": {
+      "message": "Desbloqueo requerido"
+   },
+   "delete_account_unlock_modal_text": {
+      "message": "Desbloquee su almacén para eliminar su cuenta."
+   },
+   "enter_label": {
+      "message": "Introducir"
+   },
+   "error_@chrome@_hide_text": {
+      "message": "Alternativamente, puede ocultar la extensión haciendo clic con el botón derecho en el ícono y seleccionando \"Ocultar en el menú de Chrome\"."
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Alternativamente, puede ocultar la extensión haciendo clic con el botón derecho en el ícono y seleccionando \"Eliminar de la barra de herramientas\" o \"Mover al menú\"."
+   },
+   "export_data_as_csv": {
+      "message": "Exportar datos como CSV"
+   },
+   "export_data_as_csv_button": {
+      "message": "Exportar datos de contraseñas"
+   },
+   "export_data_as_csv_file_hint": {
+      "message": "Una vez exportados como archivo CSV, sus datos de contraseñas se mostrarán sin encriptar."
+   },
+   "export_data_as_csv_file_label": {
+      "message": "Siga las instrucciones a la derecha para exportar los datos de sus contraseñas como un archivo CSV."
+   },
+   "export_data_as_csv_step_desc1": {
+      "message": "Haga clic en \"Exportar datos de contraseñas\" abajo."
+   },
+   "export_data_as_csv_step_desc2": {
+      "message": "Seleccione la ubicación de descarga."
+   },
+   "export_data_header": {
+      "message": "Exportar datos como un archivo CSV"
+   },
+   "export_data_success_header": {
+      "message": "¡Listo!"
+   },
+   "export_data_success_hint": {
+      "message": "Los datos de contraseñas se exportaron correctamente."
+   },
+   "export_data_success_label": {
+      "message": "Ahora puede cerrar esta pestaña y ver los datos de sus contraseñas como un archivo CSV en la ubicación de descarga que seleccionó."
+   },
+   "export_data_verify_password_label": {
+      "message": "Ingrese su contraseña principal a la derecha para exportar sus datos."
+   },
+   "generate_password_add_item": {
+      "message": "¿Necesita una nueva contraseña?"
+   },
+   "generate_password_edit_item": {
+      "message": "Generar contraseña segura"
+   },
+   "help_improve_header": {
+      "message": "Ayude a mejorar ExpressVPN Keys"
+   },
+   "help_improve_onboarding_expressvpn_keys": {
+      "message": "Ayude a mejorar ExpressVPN Keys"
+   },
+   "help_improve_onboarding_no_thanks": {
+      "message": "No, gracias"
+   },
+   "help_improve_onboarding_ok": {
+      "message": "Aceptar"
+   },
+   "help_improve_onboarding_share_crash": {
+      "message": "Comparta los informes de errores y los diagnósticos de uso. Estos informes nunca contienen información personal identificable."
+   },
+   "help_improve_p": {
+      "message": "Comparta los informes de errores y los diagnósticos de uso. Estos informes nunca contienen información personal identificable."
+   },
+   "help_improve_primary_btn": {
+      "message": "Aceptar"
+   },
+   "help_improve_secondary_btn": {
+      "message": "No, gracias"
+   },
+   "help_menu_item_acknowledgements_label": {
+      "message": "Reconocimientos"
+   },
+   "help_menu_item_app_version": {
+      "message": "Versión de la aplicación para {OS}: {VERSION}"
+   },
+   "help_menu_item_chat_label": {
+      "message": "Hablar con nosotros"
+   },
+   "help_menu_item_extension_version": {
+      "message": "Versión de la extensión: {VERSION}"
+   },
+   "help_menu_item_improvements_label": {
+      "message": "Sugerir una mejora"
+   },
+   "help_menu_item_report_label": {
+      "message": "Informar de un problema"
+   },
+   "help_menu_section_about_title": {
+      "message": "Acerca de"
+   },
+   "help_menu_section_articles_cat1": {
+      "message": "Cómo usar ExpressVPN Keys"
+   },
+   "help_menu_section_articles_cat1_sub1": {
+      "message": "¿Necesito un gestor de contraseñas?"
+   },
+   "help_menu_section_articles_cat1_sub10": {
+      "message": "Cómo usar el autorrelleno"
+   },
+   "help_menu_section_articles_cat1_sub11": {
+      "message": "Cómo cambiar la contraseña principal"
+   },
+   "help_menu_section_articles_cat1_sub12": {
+      "message": "Configurar su e-mail y contraseña"
+   },
+   "help_menu_section_articles_cat1_sub2": {
+      "message": "¿Cuánto cuesta?"
+   },
+   "help_menu_section_articles_cat1_sub3": {
+      "message": "¿Se requiere una suscripción activa?"
+   },
+   "help_menu_section_articles_cat1_sub4": {
+      "message": "¿ExpressVPN Keys es seguro?"
+   },
+   "help_menu_section_articles_cat1_sub5": {
+      "message": "¿Qué dispositivos son compatibles?"
+   },
+   "help_menu_section_articles_cat1_sub6": {
+      "message": "¿Cómo se gestionan mis datos?"
+   },
+   "help_menu_section_articles_cat1_sub7": {
+      "message": "¿Qué funcionalidades tiene?"
+   },
+   "help_menu_section_articles_cat1_sub8": {
+      "message": "Cómo importar credenciales existentes"
+   },
+   "help_menu_section_articles_cat1_sub9": {
+      "message": "Cómo guardar inicios de sesión"
+   },
+   "help_menu_section_articles_cat2": {
+      "message": "Problemas con ExpressVPN Keys"
+   },
+   "help_menu_section_articles_cat2_sub1": {
+      "message": "No puedo crear una cuenta"
+   },
+   "help_menu_section_articles_cat2_sub2": {
+      "message": "No puedo verificar la cuenta"
+   },
+   "help_menu_section_articles_cat2_sub3": {
+      "message": "No puedo desbloquear"
+   },
+   "help_menu_section_articles_cat2_sub4": {
+      "message": "Las credenciales no se sincronizan"
+   },
+   "help_menu_section_articles_cat2_sub5": {
+      "message": "No puedo guardar o actualizar inicios de sesión"
+   },
+   "help_menu_section_articles_cat2_sub6": {
+      "message": "El autorrelleno no funciona bien"
+   },
+   "help_menu_section_articles_cat2_sub7": {
+      "message": "No puedo cambiar la contraseña principal"
+   },
+   "help_menu_section_articles_title": {
+      "message": "Artículos de soporte técnico"
+   },
+   "help_menu_section_support_title": {
+      "message": "Póngase en contacto "
+   },
+   "hint_copy_text": {
+      "message": "Copiado"
+   },
+   "hour": {
+      "message": "hora"
+   },
+   "hours": {
+      "message": "horas"
+   },
+   "icloud_keychain": {
+      "message": "Safari/iCloud"
+   },
+   "import_chrome_password_settings": {
+      "message": "la configuración de contraseñas de Chrome"
+   },
+   "import_document_already_exists": {
+      "message": "El documento ya existe"
+   },
+   "import_edge_password_settings": {
+      "message": "la configuración de contraseñas de Edge"
+   },
+   "import_expressvpn": {
+      "message": "otra cuenta de ExpressVPN Keys"
+   },
+   "import_expressvpn_exported_step1": {
+      "message": "Compruebe si ha iniciado sesión en la cuenta correcta a la que quiere importar."
+   },
+   "import_expressvpn_exported_step2": {
+      "message": "Haga clic en \u003Cb>Seleccionar archivo\u003C/b> abajo."
+   },
+   "import_expressvpn_exported_step3": {
+      "message": "Seleccione el archivo CSV para importar sus contraseñas."
+   },
+   "import_expressvpn_exported_title": {
+      "message": "He exportado mis datos de contraseñas"
+   },
+   "import_expressvpn_header": {
+      "message": "Puede importar sus datos de contraseñas de ExpressVPN Keys si desea transferir sus inicios de sesión de una cuenta a otra, o restaurar inicios de sesión tras eliminar una cuenta."
+   },
+   "import_expressvpn_important_header": {
+      "message": "\u003Cb>Importante\u003C/b>: Solo puede tener una cuenta de ExpressVPN Keys por cada suscripción. Asegúrese de que ha iniciado sesión en la cuenta correcta antes de importar, o podría causar inicios de sesión duplicados."
+   },
+   "import_expressvpn_need_to_export_step1": {
+      "message": "Inicie sesión en la cuenta desde la que desea exportar en su aplicación de ExpressVPN."
+   },
+   "import_expressvpn_need_to_export_step2": {
+      "message": "Haga clic en la extensión para navegador de ExpressVPN Keys."
+   },
+   "import_expressvpn_need_to_export_step3": {
+      "message": "Haga clic en la \u003Cb>pestaña Opciones\u003C/b>, y luego en \u003Cb>Configuración\u003C/b> > \u003Cb>Datos\u003C/b> > \u003Cb>Exportar datos como CSV\u003C/b>."
+   },
+   "import_expressvpn_need_to_export_step4": {
+      "message": "Ingrese su contraseña principal."
+   },
+   "import_expressvpn_need_to_export_step5": {
+      "message": "Haga clic en \u003Cb>Exportar datos de contraseñas\u003C/b>. Se guardará automáticamente un archivo CSV en su dispositivo."
+   },
+   "import_expressvpn_need_to_export_step6": {
+      "message": "Cierre sesión en la cuenta, luego inicie sesión en la cuenta a la que desea importar."
+   },
+   "import_expressvpn_need_to_export_step7": {
+      "message": "Haga clic en la extensión para navegador de ExpressVPN Keys."
+   },
+   "import_expressvpn_need_to_export_step8": {
+      "message": "Haga clic en la \u003Cb>pestaña Opciones\u003C/b>, y luego en \u003Cb>Configuración\u003C/b> > \u003Cb>Datos\u003C/b> > \u003Cb>Importar desde servicios existentes\u003C/b>."
+   },
+   "import_expressvpn_need_to_export_step9": {
+      "message": "Haga clic en \"\u003Cb>...importar desde otra cuenta de ExpressVPN Keys...\u003C/b>\" y siga las instrucciones."
+   },
+   "import_expressvpn_need_to_export_title": {
+      "message": "Necesito exportar mis datos de contraseñas"
+   },
+   "import_from_a_service": {
+      "message": "Importar desde uno de estos servicios:"
+   },
+   "import_from_existing_services": {
+      "message": "Importar desde servicios existentes"
+   },
+   "import_logins_1password_1pw7_header": {
+      "message": "Instrucciones para 1Password 7"
+   },
+   "import_logins_1password_1pw7_mac_step1": {
+      "message": "Abra y desbloquee 1Password."
+   },
+   "import_logins_1password_1pw7_mac_step2": {
+      "message": "Elija el almacén que desea exportar."
+   },
+   "import_logins_1password_1pw7_mac_step3": {
+      "message": "Elija el menú \u003Cb>Archivo\u003C/b> > \u003Cb>Exportar\u003C/b> > \u003Cb>Todos los elementos\u003C/b>."
+   },
+   "import_logins_1password_1pw7_mac_step4": {
+      "message": "Ingrese su contraseña maestra."
+   },
+   "import_logins_1password_1pw7_mac_step5": {
+      "message": "Seleccione el formato de archivo \u003Cb>iCloud Keychain (.csv)\u003C/b>. Si no ve esta opción, compruebe que está ejecutando la \u003Ca target='_blank' href='https://app-updates.agilebits.com/download/OPM7'>última versión de 1Password 7\u003C/a>."
+   },
+   "import_logins_1password_1pw7_mac_step6": {
+      "message": "Guarde el archivo en su dispositivo."
+   },
+   "import_logins_1password_1pw7_mac_step7": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo\u003C/b>."
+   },
+   "import_logins_1password_1pw7_mac_step8": {
+      "message": "Seleccione el archivo CSV."
+   },
+   "import_logins_1password_1pw7_win_step1": {
+      "message": "Abra y desbloquee 1Password."
+   },
+   "import_logins_1password_1pw7_win_step2": {
+      "message": "Seleccione todos los elementos que desee exportar."
+   },
+   "import_logins_1password_1pw7_win_step3": {
+      "message": "Haga clic con el botón derecho y seleccione \u003Cb>Exportar\u003C/b>."
+   },
+   "import_logins_1password_1pw7_win_step4": {
+      "message": "Seleccione guardar como tipo \u003Cb>Valores separados por comas (.csv)\u003C/b>."
+   },
+   "import_logins_1password_1pw7_win_step5": {
+      "message": "Guarde el archivo en su dispositivo."
+   },
+   "import_logins_1password_1pw7_win_step6": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo\u003C/b>."
+   },
+   "import_logins_1password_1pw7_win_step7": {
+      "message": "Seleccione el archivo CSV."
+   },
+   "import_logins_1password_1pw8_header": {
+      "message": "Instrucciones para 1Password 8"
+   },
+   "import_logins_1password_1pw8_mac_step1": {
+      "message": "Abra y desbloquee 1Password."
+   },
+   "import_logins_1password_1pw8_mac_step2": {
+      "message": "Elija el menú \u003Cb>Archivo\u003C/b> > \u003Cb>Exportar\u003C/b>."
+   },
+   "import_logins_1password_1pw8_mac_step3": {
+      "message": "Ingrese su contraseña."
+   },
+   "import_logins_1password_1pw8_mac_step4": {
+      "message": "Elija el formato de archivo \u003Cb>CSV (sólo inicios de sesión y contraseñas)\u003C/b>."
+   },
+   "import_logins_1password_1pw8_mac_step5": {
+      "message": "Guarde el archivo en su dispositivo."
+   },
+   "import_logins_1password_1pw8_mac_step6": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo\u003C/b>."
+   },
+   "import_logins_1password_1pw8_mac_step7": {
+      "message": "Seleccione el archivo CSV."
+   },
+   "import_logins_1password_1pw8_win_step1": {
+      "message": "Abra y desbloquee 1Password."
+   },
+   "import_logins_1password_1pw8_win_step2": {
+      "message": "Haga clic en ... y elija \u003Cb>Exportar\u003C/b>."
+   },
+   "import_logins_1password_1pw8_win_step3": {
+      "message": "Ingrese su contraseña."
+   },
+   "import_logins_1password_1pw8_win_step4": {
+      "message": "Elija el formato de archivo \u003Cb>CSV (sólo inicios de sesión y contraseñas)\u003C/b>."
+   },
+   "import_logins_1password_1pw8_win_step5": {
+      "message": "Guarde el archivo en su dispositivo."
+   },
+   "import_logins_1password_1pw8_win_step6": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo\u003C/b>."
+   },
+   "import_logins_1password_1pw8_win_step7": {
+      "message": "Seleccione el archivo CSV."
+   },
+   "import_logins_1password_import_limitation_header": {
+      "message": "\u003Cb>Importante\u003C/b>: ExpressVPN Keys sólo permite importar inicios de sesión. Otros datos, como detalles de tarjetas de crédito o notas guardadas, no se importarán."
+   },
+   "import_logins_add_your_password_link": {
+      "message": "agregar sus contraseñas manualmente"
+   },
+   "import_logins_back": {
+      "message": "Importar desde {HOST}"
+   },
+   "import_logins_choose_a_password_manager_service": {
+      "message": "Elija un servicio de gestión de contraseñas a la derecha y le mostraremos cómo importar sus contraseñas desde el mismo."
+   },
+   "import_logins_choose_file": {
+      "message": "Elegir archivo"
+   },
+   "import_logins_contact_support": {
+      "message": "Contacte al soporte técnico"
+   },
+   "import_logins_contact_support_text": {
+      "message": "{import_logins_need_help}{import_logins_contact_support}, para que le orienten paso a paso con las instrucciones."
+   },
+   "import_logins_error_failed_table_header": {
+      "message": "Importaciones con errores ({TOTAL_BAD_LOGINS})"
+   },
+   "import_logins_error_import_again_btn": {
+      "message": "Importar de nuevo"
+   },
+   "import_logins_error_incomplete_header": {
+      "message": "Importación incompleta"
+   },
+   "import_logins_error_incomplete_reimport_header": {
+      "message": "Para importar sus inicios de sesión restantes:"
+   },
+   "import_logins_error_incomplete_reimport_step_1": {
+      "message": "Abra el CSV importado en el paso anterior en su editor de hojas de cálculo."
+   },
+   "import_logins_error_incomplete_reimport_step_2": {
+      "message": "Eliminar todas las filas, excepto las que no se pudieron importar."
+   },
+   "import_logins_error_incomplete_reimport_step_3": {
+      "message": "Actualice las filas restantes basándose en las sugerencias a la derecha."
+   },
+   "import_logins_error_incomplete_reimport_step_4": {
+      "message": "Guarde el archivo y después haga clic en \"Importar de nuevo\" para importar el archivo actualizado."
+   },
+   "import_logins_error_number_of_failed_logins_hint": {
+      "message": "{TOTAL_BAD_LOGINS} de {TOTAL_LOGINS} inicios de sesión no se pudieron importar."
+   },
+   "import_logins_error_success_table_header": {
+      "message": "Importaciones realizadas correctamente ({TOTAL_GOOD_LOGINS})"
+   },
+   "import_logins_error_table_domain_too_long": {
+      "message": "La URL de la página web es demasiado larga"
+   },
+   "import_logins_error_table_failed_status": {
+      "message": "Error"
+   },
+   "import_logins_error_table_login_column": {
+      "message": "Nombre de inicio de sesión"
+   },
+   "import_logins_error_table_name_too_long": {
+      "message": "El nombre es demasiado largo"
+   },
+   "import_logins_error_table_note_too_long": {
+      "message": "El nombre es demasiado largo"
+   },
+   "import_logins_error_table_password_too_long": {
+      "message": "La contraseña es demasiado larga"
+   },
+   "import_logins_error_table_see_success_logins_btn": {
+      "message": "Ver las importaciones exitosas ({TOTAL_GOOD_LOGINS})"
+   },
+   "import_logins_error_table_status_column": {
+      "message": "Estado"
+   },
+   "import_logins_error_table_success_status": {
+      "message": "Realizado correctamente"
+   },
+   "import_logins_error_table_username_too_long": {
+      "message": "El nombre de usuario es demasiado largo"
+   },
+   "import_logins_error_total_failure_header": {
+      "message": "Error en la importación"
+   },
+   "import_logins_error_total_failure_reimport_header": {
+      "message": "Para importar de nuevo sus inicios de sesión:"
+   },
+   "import_logins_error_total_failure_reimport_step_1": {
+      "message": "Abra el archivo CSV importado en el paso anterior en su editor de hojas de cálculo."
+   },
+   "import_logins_error_total_failure_reimport_step_2": {
+      "message": "Actualice las filas basándose en las sugerencias indicadas a la derecha."
+   },
+   "import_logins_error_total_failure_reimport_step_3": {
+      "message": "Guarde el archivo y después haga clic en \"Importar de nuevo\" para importar el archivo actualizado."
+   },
+   "import_logins_error_untitled": {
+      "message": "Sin título"
+   },
+   "import_logins_estimated_time": {
+      "message": "Tiempo estimado: menos de 2 minutos"
+   },
+   "import_logins_from_another_express_account_link": {
+      "message": "importar desde otra cuenta de ExpressVPN Keys o desde una copia de seguridad anterior"
+   },
+   "import_logins_from_another_express_account_text": {
+      "message": "¿Quiere {import_logins_from_another_express_account_link}?"
+   },
+   "import_logins_header": {
+      "message": "Importar sus contraseñas"
+   },
+   "import_logins_here": {
+      "message": "aquí"
+   },
+   "import_logins_icloud_for_windows": {
+      "message": "iCloud para Windows no ofrece una opción para exportar sus inicios de sesión y contraseñas. Puede hacer una de las siguientes cosas:"
+   },
+   "import_logins_if_you_do_not_have_a_mac": {
+      "message": "Si no tiene una Mac, puede copiar manualmente sus inicios de sesión guardados en iCloud y pegarlos en el gestor de contraseñas ExpressVPN Keys:"
+   },
+   "import_logins_if_you_have_a_mac": {
+      "message": "Si también posee una Mac, instale la extensión ExpressVPN Keys para Chrome para importar sus inicios de sesión y contraseñas almacenadas {import_logins_if_you_have_a_mac_text}."
+   },
+   "import_logins_if_you_have_a_mac_text": {
+      "message": "siguiendo los pasos de nuestras instrucciones para Mac"
+   },
+   "import_logins_instructions_header_dashlane": {
+      "message": "\u003Cb>Importante\u003C/b>: ExpressVPN Keys sólo permite importar inicios de sesión. Otros datos, como detalles de tarjetas de crédito o notas guardadas, no se importarán."
+   },
+   "import_logins_instructions_header_lastpass": {
+      "message": "\u003Cb>Importante\u003C/b>: Necesitará la \u003Ca target='_blank' href='https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd'>extensión de LastPass\u003C/a> para exportar sus inicios de sesión y contraseñas."
+   },
+   "import_logins_manual_instructions_for_macos": {
+      "message": "Instrucciones manuales para las versiones de macOS anteriores a la 10.15"
+   },
+   "import_logins_need_help": {
+      "message": "¿Necesita ayuda?"
+   },
+   "import_logins_other": {
+      "message": "Otros"
+   },
+   "import_logins_other_apps": {
+      "message": "Importar desde otros gestores de contraseñas"
+   },
+   "import_logins_other_apps_instructions_advanced_users_p1": {
+      "message": "\u003Cb>Importante:\u003C/b> ExpressVPN Keys sólo admite la importación de inicios de sesión. No puede importar detalles de tarjetas de crédito, notas guardadas, etc."
+   },
+   "import_logins_other_apps_instructions_advanced_users_p2": {
+      "message": "Si se siente cómodo usando un editor de hojas de cálculo (Google Sheets, Microsoft Excel, etc.), puede importar sus inicios de sesión siguiendo estas instrucciones:"
+   },
+   "import_logins_other_apps_instructions_advanced_users_text": {
+      "message": "Usuarios avanzados: importar manualmente"
+   },
+   "import_logins_other_apps_instructions_hint": {
+      "message": "Lamentamos informarle de que actualmente no admitimos la importación de los inicios de sesión desde su gestor de contraseñas."
+   },
+   "import_logins_other_apps_instructions_let_us_know_text": {
+      "message": "Por favor, [infórmenos cuál está usando] para que lo investiguemos."
+   },
+   "import_logins_other_apps_instructions_step1": {
+      "message": "Abra su gestor de contraseñas actual."
+   },
+   "import_logins_other_apps_instructions_step2": {
+      "message": "Exporte sus inicios de sesión guardados como un archivo CSV."
+   },
+   "import_logins_other_apps_instructions_step3": {
+      "message": "Abra el archivo CSV exportado en su editor de hojas de cálculo."
+   },
+   "import_logins_other_apps_instructions_step4": {
+      "message": "Borre cualquier elemento que no sea \u003Cb>inicio de sesión\u003C/b> (por ejemplo, los datos de la tarjeta de crédito, las notas guardadas)."
+   },
+   "import_logins_other_apps_instructions_step5": {
+      "message": "Elimine cualquier columna que \u003Cb>no sea una de las siguientes\u003C/b>:"
+   },
+   "import_logins_other_apps_instructions_step5_sub1": {
+      "message": "Nombre o título del inicio de sesión"
+   },
+   "import_logins_other_apps_instructions_step5_sub2": {
+      "message": "URL"
+   },
+   "import_logins_other_apps_instructions_step5_sub3": {
+      "message": "Nombre de usuario o correo electrónico"
+   },
+   "import_logins_other_apps_instructions_step5_sub4": {
+      "message": "Contraseña"
+   },
+   "import_logins_other_apps_instructions_step6": {
+      "message": "Asegúrese de nombrar así el resto de las columnas (en minúsculas):"
+   },
+   "import_logins_other_apps_instructions_step6_sub1": {
+      "message": "name"
+   },
+   "import_logins_other_apps_instructions_step6_sub2": {
+      "message": "url"
+   },
+   "import_logins_other_apps_instructions_step6_sub3": {
+      "message": "username"
+   },
+   "import_logins_other_apps_instructions_step6_sub4": {
+      "message": "password"
+   },
+   "import_logins_other_apps_instructions_step7": {
+      "message": "Guarde su archivo actualizado como CSV."
+   },
+   "import_logins_other_apps_instructions_step8": {
+      "message": "Haga clic en \"\u003Cb>Seleccionar archivo\u003C/b>\" abajo y seleccione el archivo que acaba de guardar."
+   },
+   "import_logins_safari_mac_step1": {
+      "message": "Abra \u003Cb>Safari\u003C/b>."
+   },
+   "import_logins_safari_mac_step2": {
+      "message": "Haga clic en el menú \u003Cb>Safari\u003C/b> > \u003Cb>Preferencias\u003C/b>..."
+   },
+   "import_logins_safari_mac_step3": {
+      "message": "Haga clic en la pestaña \u003Cb>Contraseñas\u003C/b> y, a continuación, autentifique."
+   },
+   "import_logins_safari_mac_step4": {
+      "message": "En la esquina inferior izquierda de la barra lateral, haga clic en ... > \u003Cb>Exportar contraseñas\u003C/b> > \u003Cb>Exportar todas las contraseñas\u003C/b>."
+   },
+   "import_logins_safari_mac_step4_extra": {
+      "message": "Si no ve el botón ... , {import_logins_update_safari_mac_text}. Si sigue teniendo problemas, haga clic {import_logins_here}."
+   },
+   "import_logins_safari_mac_step5": {
+      "message": "Guarde el archivo en su dispositivo."
+   },
+   "import_logins_safari_mac_step6": {
+      "message": "Haga clic en \u003Cb>Elegir archivo\u003C/b> abajo y seleccione el archivo que acaba de guardar."
+   },
+   "import_logins_safari_old_mac_step1": {
+      "message": "Abra \u003Cb>Safari\u003C/b>."
+   },
+   "import_logins_safari_old_mac_step2": {
+      "message": "Haga clic en el menú \u003Cb>Safari\u003C/b> > \u003Cb>Preferencias...\u003C/b>"
+   },
+   "import_logins_safari_old_mac_step3": {
+      "message": "Haga clic en la pestaña \u003Cb>Contraseñas\u003C/b> y, a continuación, autentifique."
+   },
+   "import_logins_safari_old_mac_step4": {
+      "message": "Seleccione una contraseña guardada y, a continuación, seleccione \u003Cb>Editar\u003C/b>."
+   },
+   "import_logins_safari_old_mac_step5": {
+      "message": "Copie el nombre de usuario, la contraseña y la URL."
+   },
+   "import_logins_safari_old_mac_step6": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>+\u003C/b>."
+   },
+   "import_logins_safari_old_mac_step7": {
+      "message": "Asigne un nombre al inicio de sesión, luego pegue el nombre de usuario, la contraseña y la URL."
+   },
+   "import_logins_safari_old_mac_step8": {
+      "message": "Haga clic en \u003Cb>Guardar\u003C/b>."
+   },
+   "import_logins_safari_windows_step1": {
+      "message": "Abra la aplicación de \u003Cb>iCloud Passwords\u003C/b> en su dispositivo Windows."
+   },
+   "import_logins_safari_windows_step2": {
+      "message": "Haga clic en un inicio de sesión guardado."
+   },
+   "import_logins_safari_windows_step3": {
+      "message": "Haga clic en el \u003Cb>icono copiar\u003C/b> de la parte superior derecha para copiar tu nombre de usuario, contraseña o URL."
+   },
+   "import_logins_safari_windows_step4": {
+      "message": "En la extensión ExpressVPN Keys, haga clic en \u003Cb>+\u003C/b>."
+   },
+   "import_logins_safari_windows_step5": {
+      "message": "Asigne un nombre al inicio de sesión, luego pegue el nombre de usuario, la contraseña y la URL."
+   },
+   "import_logins_safari_windows_step6": {
+      "message": "Haga clic en \u003Cb>Guardar\u003C/b>."
+   },
+   "import_logins_safari_you_are_running_an_old_version": {
+      "message": "Está ejecutando una versión antigua macOS que no permite la exportación de inicios de sesión y contraseñas desde el llavero de iCloud de Apple. Sin embargo, usted puede copiar manualmente sus inicios de sesión guardados en Safari y pegarlos en ExpressVPN Keys:"
+   },
+   "import_logins_step1": {
+      "message": "Abra {PASSWORD_SETTINGS}."
+   },
+   "import_logins_step1_bitwarden": {
+      "message": "Inicie sesión en \u003Ca target='_blank' href='https://vault.bitwarden.com'>https://vault.bitwarden.com\u003C/a>"
+   },
+   "import_logins_step1_dashlane": {
+      "message": "\u003Ca target='_blank' href='https://app.dashlane.com/login'>Visite la página de inicio de sesión de Dashlane.\u003C/a>"
+   },
+   "import_logins_step1_lastpass": {
+      "message": "Haga clic en la extensión para navegador de LastPass."
+   },
+   "import_logins_step2": {
+      "message": "Haga clic en {ICON} arriba de la lista de contraseñas guardadas > \u003Cb>Exportar contraseñas...\u003C/b>"
+   },
+   "import_logins_step2_bitwarden": {
+      "message": "En la parte superior, haga clic en \u003Cb>Herramientas\u003C/b>."
+   },
+   "import_logins_step2_dashlane": {
+      "message": "Ingrese su dirección de correo electrónico. Haga clic en \u003Cb>Siguiente\u003C/b>."
+   },
+   "import_logins_step2_lastpass": {
+      "message": "Haga clic en \u003Cb>Opciones de la cuenta\u003C/b> > \u003Cb>Avanzado\u003C/b> > \u003Cb>Exportar\u003C/b>"
+   },
+   "import_logins_step3": {
+      "message": "Haga clic en \u003Cb>Exportar contraseñas...\u003C/b>"
+   },
+   "import_logins_step3_bitwarden": {
+      "message": "En la barra lateral izquierda, haga clic en \u003Cb>Exportar almacén\u003C/b>."
+   },
+   "import_logins_step3_dashlane": {
+      "message": "Haga clic en \u003Cb>Mi cuenta\u003C/b> en la parte superior derecha."
+   },
+   "import_logins_step3_lastpass": {
+      "message": "Seleccione \u003Cb>Archivo CSV de LastPass\u003C/b>."
+   },
+   "import_logins_step4": {
+      "message": "Si se le pide, ingrese la contraseña de su dispositivo. Haga clic en \u003Cb>Aceptar.\u003C/b>"
+   },
+   "import_logins_step4_bitwarden": {
+      "message": "En \u003Cb>Formato de archivo\u003C/b>, seleccione \u003Cb>.csv\u003C/b>."
+   },
+   "import_logins_step4_dashlane": {
+      "message": "Haga clic en \u003Cb>Configuración > Exportar datos\u003C/b>."
+   },
+   "import_logins_step4_lastpass": {
+      "message": "Ingrese su contraseña maestra."
+   },
+   "import_logins_step5": {
+      "message": "Guarde el archivo CSV en su dispositivo."
+   },
+   "import_logins_step5_bitwarden": {
+      "message": "Ingrese su contraseña maestra."
+   },
+   "import_logins_step5_dashlane": {
+      "message": "Ingrese su contraseña maestra."
+   },
+   "import_logins_step5_lastpass": {
+      "message": "Se guardará automáticamente un archivo CSV en su dispositivo."
+   },
+   "import_logins_step6": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo.\u003C/b>"
+   },
+   "import_logins_step6_bitwarden": {
+      "message": "Haga clic en \u003Cb>Exportar almacén\u003C/b> y siga las instrucciones."
+   },
+   "import_logins_step6_dashlane": {
+      "message": "Haga clic en \u003Cb>Exportar a CSV\u003C/b>."
+   },
+   "import_logins_step6_lastpass": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo.\u003C/b>"
+   },
+   "import_logins_step7": {
+      "message": "Seleccione el archivo CSV."
+   },
+   "import_logins_step7_bitwarden": {
+      "message": "Se guardará automáticamente un archivo CSV en su dispositivo."
+   },
+   "import_logins_step7_dashlane": {
+      "message": "Haga doble clic en el archivo ZIP para extraer los archivos CSV."
+   },
+   "import_logins_step7_lastpass": {
+      "message": "Seleccione el archivo CSV para importar sus contraseñas."
+   },
+   "import_logins_step8_bitwarden": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo\u003C/b>."
+   },
+   "import_logins_step8_dashlane": {
+      "message": "En la extensión de ExpressVPN Keys, haga clic en \u003Cb>Elegir archivo\u003C/b>."
+   },
+   "import_logins_step9_bitwarden": {
+      "message": "Seleccione el archivo CSV para importar sus contraseñas."
+   },
+   "import_logins_step9_dashlane": {
+      "message": "Seleccione el archivo \u003Cb>credentials.csv\u003C/b> para importar sus contraseñas."
+   },
+   "import_logins_success_close": {
+      "message": "Cerrar pestaña"
+   },
+   "import_logins_success_header": {
+      "message": "¡Listo!"
+   },
+   "import_logins_success_hint": {
+      "message": "Los {TOTAL_LOGINS} inicios de sesión se importaron correctamente."
+   },
+   "import_logins_success_import_more": {
+      "message": "Importar más inicios de sesión"
+   },
+   "import_logins_success_text": {
+      "message": "Haga clic en la extensión de Keys para ver sus inicios de sesión importados, o bien cierre esta pestaña y comience a navegar y autorrellenar sus inicios de sesión."
+   },
+   "import_logins_success_text_2": {
+      "message": "Si necesita más ayuda o tiene problemas con sus importaciones, puede {contact_support_anchor} para recibir ayuda."
+   },
+   "import_logins_update_safari_mac_text": {
+      "message": "actualice macOS y/o Safari"
+   },
+   "import_logins_verify_password_label": {
+      "message": "Ingrese su contraseña principal a la derecha para importar desde los servicios existentes."
+   },
+   "import_password_error": {
+      "message": "Ocurrió un error al cargar los archivos. Inténtelo de nuevo."
+   },
+   "import_password_file": {
+      "message": "Importar archivo de contraseñas (.csv)"
+   },
+   "imports_logins_you_can_also_choose_to": {
+      "message": "También puede optar por {ROUTER_LINK} en su lugar."
+   },
+   "info_banner_deactivate_password_managers": {
+      "message": "Desactive otros gestores de contraseñas para sacar el máximo partido a Keys."
+   },
+   "info_banner_learn_more": {
+      "message": "Más información"
+   },
+   "info_banner_warning_api_unreachable_vpn_off": {
+      "message": "No se puede sincronizar. Intente conectarse a la VPN, o contacte al soporte técnico."
+   },
+   "info_banner_warning_api_unreachable_vpn_on": {
+      "message": "No se puede sincronizar. Pruebe otra ubicación de VPN, o contacte al soporte técnico."
+   },
+   "info_banner_warning_offline": {
+      "message": "No hay conexión a internet. Sus cambios se sincronizarán cuando se reanude la conexión."
+   },
+   "ksp_item_text_1": {
+      "message": "Keys puede generar, almacenar y rellenar sus contraseñas en todos sus dispositivos.\u003Cbr/>Además, viene incluido en su plan de VPN."
+   },
+   "ksp_item_text_2": {
+      "message": "La encriptación de conociminto nulo garantiza que nadie puede acceder a su información, ni siquiera ExpressVPN."
+   },
+   "ksp_item_text_3": {
+      "message": "Aclamado por TechRadar por su “seguridad básica sólida“ y por haber sido auditado de forma independiente por Cure53."
+   },
+   "ksp_item_text_4": {
+      "message": "[Importe sus inicios de sesión] de Chrome, Safari, 1Password, LastPass y otros."
+   },
+   "ksp_item_text_5": {
+      "message": "Keys puede almacenar notas y tarjetas de crédito, así como generar códigos de uso único y más.\u003Cbr/>[Más información sobre Keys]"
+   },
+   "ksp_item_title_1": {
+      "message": "Un gestor de contraseñas fácil y seguro de usar"
+   },
+   "ksp_item_title_2": {
+      "message": "Solo usted puede ver sus datos"
+   },
+   "ksp_item_title_3": {
+      "message": "Diseñado para la seguridad, avalado por los expertos"
+   },
+   "ksp_item_title_4": {
+      "message": "Importar inicios de sesión de otros gestores de contraseñas"
+   },
+   "ksp_item_title_5": {
+      "message": "Protección más allá de las contraseñas"
+   },
+   "ksp_next_button": {
+      "message": "Siguiente"
+   },
+   "ksp_set_up_button": {
+      "message": "Configurar ExpressVPN Keys"
+   },
+   "ksp_skip_button": {
+      "message": "Omitir"
+   },
+   "less_than_a_second": {
+      "message": "Menos de un segundo"
+   },
+   "login_saved": {
+      "message": "Inicio de sesión guardado. Recordaremos este inicio de sesión y lo guardaremos en un lugar seguro."
+   },
+   "minute": {
+      "message": "minuto"
+   },
+   "minutes": {
+      "message": "minutos"
+   },
+   "modal_password_page_app_not_activated_Linux_text": {
+      "message": "Se necesita la aplicación de ExpressVPN para Linux para activar la extensión."
+   },
+   "modal_password_page_app_not_activated_Linux_text_p1": {
+      "message": "Inicie sesión en su cuenta de ExpressVPN para encontrar su código de activación. A continuación, ejecute este comando: {ACTIVATE_COMMAND} e ingrese su código."
+   },
+   "modal_password_page_app_not_activated_Mac_text": {
+      "message": "Se necesita la aplicación de ExpressVPN para Mac para activar la extensión."
+   },
+   "modal_password_page_app_not_activated_Mac_text_p1": {
+      "message": "Inicie sesión en su cuenta de ExpressVPN para encontrar su código de activación."
+   },
+   "modal_password_page_app_not_activated_Windows_text": {
+      "message": "Se necesita la aplicación de ExpressVPN para Windows para activar la extensión."
+   },
+   "modal_password_page_app_not_activated_Windows_text_p1": {
+      "message": "Inicie sesión en su cuenta de ExpressVPN para encontrar su código de activación."
+   },
+   "modal_password_page_app_not_activated_btn_primary": {
+      "message": "Obtener el código de activación"
+   },
+   "modal_password_page_app_not_activated_btn_secondary": {
+      "message": "Ingresar el código"
+   },
+   "modal_password_page_app_not_activated_text_p2": {
+      "message": "¿Necesita ayuda?  [Contacte al soporte técnico]."
+   },
+   "modal_password_page_app_not_activated_title": {
+      "message": "Activar aplicación"
+   },
+   "modal_password_page_update_app_Linux_text_p1": {
+      "message": "Esta extensión necesita la versión más reciente de la aplicación de ExpressVPN para Linux."
+   },
+   "modal_password_page_update_app_Mac_text_p1": {
+      "message": "Esta extensión necesita la versión más reciente de la aplicación de ExpressVPN para Mac."
+   },
+   "modal_password_page_update_app_Windows_text_p1": {
+      "message": "Esta extensión necesita la versión más reciente de la aplicación de ExpressVPN para Windows."
+   },
+   "modal_password_page_update_app_button": {
+      "message": "Actualizar la aplicación"
+   },
+   "modal_password_page_update_app_text_p2": {
+      "message": "¿Necesita ayuda? [Contacte al soporte técnico]."
+   },
+   "modal_password_page_update_app_title": {
+      "message": "Actualizar la aplicación"
+   },
+   "month": {
+      "message": "mes"
+   },
+   "months": {
+      "message": "meses"
+   },
+   "n_logins_saved_for_website": {
+      "message": "{N_ENTRIES} inicios de sesión guardados para \u003Cb>{HOST}\u003C/b>"
+   },
+   "nav_item_help": {
+      "message": "Ayuda"
+   },
+   "nav_item_keys": {
+      "message": "Keys"
+   },
+   "nav_item_options": {
+      "message": "Opciones"
+   },
+   "no_logins_saved_for_website": {
+      "message": "No hay inicios de sesión guardados para\u003Cbr/>\u003Cb>{HOST}\u003C/b>"
+   },
+   "notification_clipboard_cleared_message": {
+      "message": "Datos borrados para proteger su privacidad"
+   },
+   "notification_clipboard_cleared_title": {
+      "message": "Portapapeles borrado"
+   },
+   "notification_extension_update_message": {
+      "message": "Haga clic aquí para ver las novedades."
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN Keys fue actualizada"
+   },
+   "notification_totp_available_message": {
+      "message": "Haga clic aquí para copiar su código de {DOMAIN}"
+   },
+   "notification_totp_available_title": {
+      "message": "Este es su código: {CODE}"
+   },
+   "options_menu_get_30_days_free_label": {
+      "message": "Obtenga 30 días gratis"
+   },
+   "options_menu_item_settings_label": {
+      "message": "Configuración"
+   },
+   "options_menu_rate_expressvpn_label": {
+      "message": "Calificar ExpressVPN Keys"
+   },
+   "options_menu_section_options_title": {
+      "message": "Opciones"
+   },
+   "options_menu_setup_other_devices_label": {
+      "message": "Configurar otros dispositivos"
+   },
+   "options_modal_not_yet_available_generic_text": {
+      "message": "Por favor, intente de nuevo en unos minutos."
+   },
+   "options_modal_not_yet_available_header": {
+      "message": "Aún no disponible"
+   },
+   "other_logins": {
+      "message": "Otros inicios de sesión"
+   },
+   "password_generator_capitals": {
+      "message": "Mayúsculas"
+   },
+   "password_generator_characters": {
+      "message": "{NUMBER} caracteres"
+   },
+   "password_generator_choose_criteria": {
+      "message": "Elegir criterio"
+   },
+   "password_generator_close": {
+      "message": "Cerrar"
+   },
+   "password_generator_length": {
+      "message": "Longitud de la contraseña"
+   },
+   "password_generator_numbers": {
+      "message": "Números"
+   },
+   "password_generator_password_label": {
+      "message": "Haga clic para usar"
+   },
+   "password_generator_symbols": {
+      "message": "Símbolo"
+   },
+   "password_generator_title": {
+      "message": "Contraseña sugerida"
+   },
+   "password_generator_use_password": {
+      "message": "Usar contraseña"
+   },
+   "password_strength_0": {
+      "message": "{password_strength_0_bold} Sería muy fácil de descifrar."
+   },
+   "password_strength_0_bold": {
+      "message": "¡Insegura!"
+   },
+   "password_strength_1": {
+      "message": "{password_strength_1_bold} Sería muy fácil de descifrar."
+   },
+   "password_strength_1_bold": {
+      "message": "Débil."
+   },
+   "password_strength_2": {
+      "message": "{password_strength_2_bold} Podrí­a llevar {TIME} descifrarla."
+   },
+   "password_strength_2_bold": {
+      "message": "Intermedia."
+   },
+   "password_strength_3": {
+      "message": "{password_strength_3_bold} Podría llevar {TIME} descifrarla."
+   },
+   "password_strength_3_bold": {
+      "message": "Fuerte."
+   },
+   "password_strength_4": {
+      "message": "{password_strength_4_bold} Podría llevar {TIME} descifrarla."
+   },
+   "password_strength_4_bold": {
+      "message": "¡Muy segura!"
+   },
+   "password_suggestion_add_another_word_or_two": {
+      "message": "Agregue una o dos palabras más."
+   },
+   "password_suggestion_avoid_dates": {
+      "message": "Evite las fechas y los años asociados a usted."
+   },
+   "password_suggestion_avoid_obvious_patterns": {
+      "message": "Evite los patrones del teclado obvios."
+   },
+   "password_suggestion_avoid_recent_years": {
+      "message": "Evite los años recientes."
+   },
+   "password_suggestion_avoid_repeats": {
+      "message": "Evite las palabras y los caracteres repetidos."
+   },
+   "password_suggestion_avoid_sequences": {
+      "message": "Evite las secuencias."
+   },
+   "password_suggestion_avoid_years": {
+      "message": "Evite los años asociados a usted."
+   },
+   "password_suggestion_capitalization_does_not_help": {
+      "message": "Las mayúsculas no ayudan mucho."
+   },
+   "password_suggestion_no_need_for_extra_chars": {
+      "message": "No es necesario utilizar símbolos, dígitos o mayúsculas."
+   },
+   "password_suggestion_reversed_word_does_not_help": {
+      "message": "Las palabras invertidas son fáciles de adivinar."
+   },
+   "password_suggestion_substitution_does_not_help": {
+      "message": "Las sustituciones como \"{'@'}\" en vez de \"a\" son fáciles de adivinar."
+   },
+   "password_suggestion_uppercase_does_not_help": {
+      "message": "Las mayúsculas no ayudan mucho."
+   },
+   "password_suggestion_use_uncommon_words": {
+      "message": "Intente utilizar varias palabras poco comunes."
+   },
+   "password_warning_common_names_are_easy_to_guess": {
+      "message": "No utilice nombres o apellidos comunes."
+   },
+   "password_warning_dates_are_easy_to_guess": {
+      "message": "Las fechas suelen ser fáciles de adivinar."
+   },
+   "password_warning_names_are_easy_to_guess": {
+      "message": "Los nombres por sí solos son fáciles de adivinar."
+   },
+   "password_warning_repeats_are_easy_to_guess": {
+      "message": "Las repeticiones como \"aaa\" son fáciles de adivinar."
+   },
+   "password_warning_repeats_are_slightly_harder_to_guess": {
+      "message": "Las repeticiones como \"abcabcabc\" son fáciles de adivinar."
+   },
+   "password_warning_sequences_are_easy_to_guess": {
+      "message": "Las secuencias como \"6543\" son fáciles de adivinar."
+   },
+   "password_warning_short_patterns_are_easy_to_guess": {
+      "message": "Los patrones del teclado no son seguros."
+   },
+   "password_warning_simmilar_to_common_password": {
+      "message": "Demasiado similar a una contraseña de uso común."
+   },
+   "password_warning_straight_rows_are_easy_to_guess": {
+      "message": "Las filas directas de teclas son fáciles de adivinar."
+   },
+   "password_warning_top_100_common_password": {
+      "message": "Esta es una de las 100 contraseñas más comunes."
+   },
+   "password_warning_top_10_common_password": {
+      "message": "Esta es una de las 10 contraseñas más comunes."
+   },
+   "password_warning_very_common_password": {
+      "message": "Esta es una contraseña muy común."
+   },
+   "password_warning_word_is_easy_to_guess": {
+      "message": "Una palabra por sí sola es fácil de adivinar."
+   },
+   "password_warning_years_are_easy_to_guess": {
+      "message": "Los años recientes son fáciles de adivinar."
+   },
+   "primary_password_strength_0": {
+      "message": "{primary_password_strength_0_bold}, intente agregar algunas palabras más."
+   },
+   "primary_password_strength_0_bold": {
+      "message": "Buen comienzo"
+   },
+   "primary_password_strength_1": {
+      "message": "{primary_password_strength_1_bold}, siga escribiendo."
+   },
+   "primary_password_strength_1_bold": {
+      "message": "Ya casi"
+   },
+   "primary_password_strength_2": {
+      "message": "{primary_password_strength_2_bold}, intente agregar más palabras."
+   },
+   "primary_password_strength_2_bold": {
+      "message": "Siga así"
+   },
+   "primary_password_strength_3": {
+      "message": "{primary_password_strength_3_bold}. ¡Es cada vez más fuerte!"
+   },
+   "primary_password_strength_3_bold": {
+      "message": "Muy buena"
+   },
+   "primary_password_strength_4": {
+      "message": "{primary_password_strength_4_bold} Está listo para continuar."
+   },
+   "primary_password_strength_4_bold": {
+      "message": "¡Muy segura!"
+   },
+   "primary_password_strength_empty": {
+      "message": "Escriba algunas palabras. Por ejemplo, {primary_password_strength_empty_bold}"
+   },
+   "primary_password_strength_empty_bold": {
+      "message": "AguaLámparaJaleaCarpa"
+   },
+   "primary_password_strength_new_empty": {
+      "message": "Ingrese una contraseña, por ejemplo: {primary_password_strength_new_empty_bold}"
+   },
+   "primary_password_strength_new_empty_bold": {
+      "message": "¡R{'@'}bbitPresentFather12!"
+   },
+   "pwm_2fa_added_close": {
+      "message": "Cerrar"
+   },
+   "pwm_2fa_added_header": {
+      "message": "Código de verificación 2FA añadido"
+   },
+   "pwm_2fa_added_message": {
+      "message": "Introduzca el código en la página web o aplicación para completar la configuración de 2FA."
+   },
+   "pwm_2fa_popup_subtitle": {
+      "message": "Código de 2FA: {CODE}"
+   },
+   "pwm_card_coming_soon_modal_p": {
+      "message": "Pronto podrá agregar y editar tarjetas de crédito/débito."
+   },
+   "pwm_card_expiry_date_label": {
+      "message": "Fecha de vencimiento"
+   },
+   "pwm_card_name_on_card_label": {
+      "message": "Nombre en la tarjeta"
+   },
+   "pwm_card_notes_label": {
+      "message": "Notas"
+   },
+   "pwm_card_number_label": {
+      "message": "Número de tarjeta de crédito"
+   },
+   "pwm_card_security_code_label": {
+      "message": "Código de seguridad"
+   },
+   "pwm_card_title_label": {
+      "message": "Nombre de la tarjeta"
+   },
+   "pwm_card_zip_code_label": {
+      "message": "Código postal"
+   },
+   "pwm_contact_us_label": {
+      "message": "Contactarnos"
+   },
+   "pwm_create_account_error_modal_title": {
+      "message": "No se puede crear la cuenta"
+   },
+   "pwm_create_card_option_text": {
+      "message": "Agregar tarjeta de débito/crédito"
+   },
+   "pwm_create_login_option_text": {
+      "message": "Añadir nuevo inicio de sesión"
+   },
+   "pwm_create_login_set_up_2fa": {
+      "message": "Configurar código de verificación 2FA"
+   },
+   "pwm_create_secure_note_option_text": {
+      "message": "Añadir nota segura"
+   },
+   "pwm_document_filter_entry_all_categories": {
+      "message": "Todas las categorías"
+   },
+   "pwm_document_filter_entry_credit_debit_cards": {
+      "message": "Tarjetas de crédito/débito"
+   },
+   "pwm_document_filter_entry_logins": {
+      "message": "Inicios de sesión"
+   },
+   "pwm_document_filter_entry_secure_notes": {
+      "message": "Notas seguras"
+   },
+   "pwm_enter_2fa_setup_confirm": {
+      "message": "Confirmar"
+   },
+   "pwm_enter_2fa_setup_header": {
+      "message": "Introduzca su clave de configuración"
+   },
+   "pwm_enter_2fa_setup_invalid_key": {
+      "message": "Clave de configuración no válida"
+   },
+   "pwm_enter_2fa_setup_message_1": {
+      "message": "Siga \u003Ca target='_blank' href='{INSTRUCTIONS_URL}'>estas instrucciones\u003C/a> para activar la 2FA en {DOMAIN} y obtener su clave de configuración."
+   },
+   "pwm_enter_2fa_setup_message_2": {
+      "message": "Habilite la 2FA en sus ajustes de seguridad en \u003Ca target='_blank' href='{URL}'>{DOMAIN}\u003C/a>, luego introduzca la clave de configuración más abajo."
+   },
+   "pwm_enter_2fa_setup_message_3": {
+      "message": "Habilite la 2FA en los ajustes de seguridad de la página web o la aplicación para obtener su clave de configuración."
+   },
+   "pwm_enter_2fa_setup_scan_page_qr": {
+      "message": "Escanear página para código QR"
+   },
+   "pwm_enter_2fa_setup_textinput_hint": {
+      "message": "p. ej.: FGPZA75GN46JAK76"
+   },
+   "pwm_enter_2fa_setup_textinput_label": {
+      "message": "Clave de configuración"
+   },
+   "pwm_enter_password_again_code_label": {
+      "message": "Reingresar contraseña"
+   },
+   "pwm_entry_add_card_new_header": {
+      "message": "Agregar tarjeta"
+   },
+   "pwm_entry_add_new_header": {
+      "message": "Añadir nuevo inicio de sesión"
+   },
+   "pwm_entry_add_secure_note_new_header": {
+      "message": "Añadir nota segura"
+   },
+   "pwm_entry_list_add_first_login_header": {
+      "message": "¡Todo listo!"
+   },
+   "pwm_entry_list_add_first_login_text": {
+      "message": "Comience por agregar un inicio de sesión, nota o tarjeta de crédito para que pueda almacenar, sincronizar o rellenar esos datos de manera sencilla y segura en todos sus dispositivos."
+   },
+   "pwm_entry_list_add_first_login_tooltip": {
+      "message": "Haga clic aquí para agregar su primer inicio de sesión"
+   },
+   "pwm_entry_no_result_found": {
+      "message": "No hay resultados"
+   },
+   "pwm_entry_preview_name_label": {
+      "message": "Nombre"
+   },
+   "pwm_entry_search_all_items": {
+      "message": "Buscar todos los elementos"
+   },
+   "pwm_entry_view_2FA_label": {
+      "message": "Código de verificación de 2FA"
+   },
+   "pwm_entry_view_created_on_label": {
+      "message": "Creado el {DATE}"
+   },
+   "pwm_entry_view_delete_btn": {
+      "message": "Eliminar"
+   },
+   "pwm_entry_view_edit_btn": {
+      "message": "Editar"
+   },
+   "pwm_entry_view_email_label": {
+      "message": "Correo o nombre de usuario"
+   },
+   "pwm_entry_view_login_btn": {
+      "message": "Iniciar sesión ahora"
+   },
+   "pwm_entry_view_name_label": {
+      "message": "Nombre (obligatorio)"
+   },
+   "pwm_entry_view_notes_label": {
+      "message": "Notas"
+   },
+   "pwm_entry_view_pw_label": {
+      "message": "Contraseña"
+   },
+   "pwm_entry_view_save_btn": {
+      "message": "Guardar"
+   },
+   "pwm_entry_view_updated_on_label": {
+      "message": "Editado por última vez el {DATE}"
+   },
+   "pwm_entry_view_url_label": {
+      "message": "URL de la página web"
+   },
+   "pwm_error_api_unreachable_step_1": {
+      "message": "Encienda su VPN."
+   },
+   "pwm_error_api_unreachable_step_2": {
+      "message": "Elija una ubicación de VPN diferente."
+   },
+   "pwm_error_api_unreachable_step_3": {
+      "message": "Si todo lo demás falla, [contacte al soporte técnico]."
+   },
+   "pwm_error_api_unreachable_text_1": {
+      "message": "Para resolver el problema, siga estos pasos:"
+   },
+   "pwm_error_no_access_btn_primary": {
+      "message": "Intentar de nuevo"
+   },
+   "pwm_error_no_access_btn_secondary": {
+      "message": "Contactar a soporte"
+   },
+   "pwm_error_no_access_header": {
+      "message": "No se puede acceder a ExpressVPN Keys"
+   },
+   "pwm_error_no_access_text_1": {
+      "message": "Intente acceder al gestor de contraseñas de nuevo en unos minutos."
+   },
+   "pwm_error_offline_text_1": {
+      "message": "Verifique su conexión a internet e inténtelo de nuevo."
+   },
+   "pwm_generic_error_modal_text": {
+      "message": "Espere unos minutos y vuelva a intentarlo."
+   },
+   "pwm_hint_entry_edit_saved": {
+      "message": "Guardado. Asegúrese de actualizar su información de inicio de sesión en {URL}."
+   },
+   "pwm_import_existing_logins_option_text": {
+      "message": "Importar inicios de sesión existentes"
+   },
+   "pwm_locked_vault_password_manager": {
+      "message": "ExpressVPN Keys"
+   },
+   "pwm_locked_vault_unlock": {
+      "message": "Pulse en la extensión o en {COMMAND} para desbloquear su gestor de contraseñas."
+   },
+   "pwm_modal_cancel_entry_confirm_header": {
+      "message": "¿Está seguro?"
+   },
+   "pwm_modal_cancel_entry_confirm_text": {
+      "message": "Sus cambios no se guardarán."
+   },
+   "pwm_modal_delete_entry_cancel_button": {
+      "message": "Cancelar"
+   },
+   "pwm_modal_delete_entry_confirm_button": {
+      "message": "Eliminar permanentemente"
+   },
+   "pwm_modal_delete_entry_confirm_header": {
+      "message": "¿Está seguro?"
+   },
+   "pwm_modal_delete_entry_confirm_text": {
+      "message": "Este elemento se eliminará permanentemente."
+   },
+   "pwm_modal_discard_changes_cancel_button": {
+      "message": "Seguir editando"
+   },
+   "pwm_modal_discard_changes_confirm_button": {
+      "message": "Descartar ediciones"
+   },
+   "pwm_modal_expiry_date_confirm_button": {
+      "message": "Guardar"
+   },
+   "pwm_modal_save_entry_error_cancel_button": {
+      "message": "Cancelar"
+   },
+   "pwm_modal_save_entry_error_header": {
+      "message": "No se puede guardar"
+   },
+   "pwm_modal_save_entry_error_retry_button": {
+      "message": "Intentar de nuevo"
+   },
+   "pwm_modal_save_entry_error_text": {
+      "message": "Inténtelo de nuevo en unos minutos."
+   },
+   "pwm_network_error_modal_text": {
+      "message": "Verifique su conexión a internet e inténtelo de nuevo."
+   },
+   "pwm_no_cards_saved_add_card": {
+      "message": "Agregar tarjeta"
+   },
+   "pwm_no_cards_saved_description": {
+      "message": "Almacene con seguridad los datos de pago para las tarjetas que usa online con frecuencia."
+   },
+   "pwm_no_cards_saved_title": {
+      "message": "No hay tarjetas guardadas"
+   },
+   "pwm_no_logins_saved_add_login": {
+      "message": "Añadir inicio de sesión"
+   },
+   "pwm_no_logins_saved_description": {
+      "message": "¿Por qué no comenzar con una cuenta de que usa frecuentemente, como su correo electrónico?"
+   },
+   "pwm_no_logins_saved_title": {
+      "message": "No hay inicios de sesión guardados"
+   },
+   "pwm_no_notes_saved_add_note": {
+      "message": "Añadir nota segura"
+   },
+   "pwm_no_notes_saved_description": {
+      "message": "Almacene notas e información confidencial de forma segura, a las que podrá acceder en cualquier momento."
+   },
+   "pwm_no_notes_saved_title": {
+      "message": "No hay notas seguras guardadas"
+   },
+   "pwm_popover_card_copy_card_number_text": {
+      "message": "Copiar el número de la tarjeta"
+   },
+   "pwm_popover_card_copy_name_text": {
+      "message": "Copiar el nombre de la tarjeta"
+   },
+   "pwm_popover_card_copy_security_code_text": {
+      "message": "Copiar el código de seguridad"
+   },
+   "pwm_popover_card_delete_text": {
+      "message": "Eliminar"
+   },
+   "pwm_popover_card_edit_details_text": {
+      "message": "Editar detalles"
+   },
+   "pwm_popover_login_copy_2fa_text": {
+      "message": "Copiar código 2FA"
+   },
+   "pwm_popover_login_copy_password_text": {
+      "message": "Copiar contraseña"
+   },
+   "pwm_popover_login_copy_username_text": {
+      "message": "Copiar correo electrónico/usuario"
+   },
+   "pwm_popover_login_delete_text": {
+      "message": "Eliminar inicio de sesión"
+   },
+   "pwm_popover_login_edit_details_text": {
+      "message": "Editar detalles de inicio de sesión"
+   },
+   "pwm_popover_note_copy_content_text": {
+      "message": "Copiar contenido"
+   },
+   "pwm_popover_note_delete_text": {
+      "message": "Eliminar"
+   },
+   "pwm_popover_note_edit_details_text": {
+      "message": "Editar detalles"
+   },
+   "pwm_primary_pw_modal_generic_error_btn_primary": {
+      "message": "Intentar de nuevo"
+   },
+   "pwm_primary_pw_modal_generic_error_header": {
+      "message": "No se puede establecer la contraseña"
+   },
+   "pwm_primary_pw_modal_generic_error_text": {
+      "message": "Verifique su conexión a internet e inténtelo de nuevo."
+   },
+   "pwm_primary_pw_modal_pw_exists_btn_primary": {
+      "message": "Más información"
+   },
+   "pwm_primary_pw_modal_pw_exists_header": {
+      "message": "No se puede establecer la contraseña"
+   },
+   "pwm_primary_pw_modal_pw_exists_text": {
+      "message": "El gestor de contraseñas ya está configurado en esta cuenta de ExpressVPN. Haga clic en la extensión  de ExpressVPN Keys para desbloquear."
+   },
+   "pwm_primary_pw_set_form_pw": {
+      "message": "Su contraseña principal"
+   },
+   "pwm_primary_pw_set_form_pw_error_match": {
+      "message": "La contraseña no coincide con la anterior"
+   },
+   "pwm_primary_pw_set_form_pw_error_strength": {
+      "message": "Su contraseña no es lo suficientemente segura"
+   },
+   "pwm_primary_pw_set_form_pw_info_strength": {
+      "message": "Escriba algunas palabras. Por ejemplo, {pwm_primary_pw_set_form_pw_info_strength_bold}"
+   },
+   "pwm_primary_pw_set_form_pw_info_strength_bold": {
+      "message": "AguaLámparaJaleaCarpa"
+   },
+   "pwm_primary_pw_set_form_pw_label": {
+      "message": "Contraseña principal"
+   },
+   "pwm_primary_pw_set_form_pw_reenter": {
+      "message": "Reingrese la contraseña principal"
+   },
+   "pwm_primary_pw_set_form_submit": {
+      "message": "Establecer la contraseña principal"
+   },
+   "pwm_primary_pw_set_header": {
+      "message": "Su contraseña principal"
+   },
+   "pwm_primary_pw_set_help_link": {
+      "message": "¿Necesita ayuda con su contraseña?"
+   },
+   "pwm_primary_pw_set_learn": {
+      "message": "¿Necesita ayuda con su contraseña?"
+   },
+   "pwm_primary_pw_set_new_learn": {
+      "message": "Consejos para una contraseña segura y memorable"
+   },
+   "pwm_primary_pw_set_new_text": {
+      "message": "Escriba su propia contraseña segura y fácil de recordar, que encriptará los inicios de sesión almacenados en Keys."
+   },
+   "pwm_primary_pw_set_security_modal_edit_password": {
+      "message": "Editar contraseña"
+   },
+   "pwm_primary_pw_set_security_modal_p1": {
+      "message": "Agregue más palabras para que su contraseña principal sea más segura."
+   },
+   "pwm_primary_pw_set_security_modal_p2": {
+      "message": "¿Necesita ayuda? Consulte nuestros consejos para crear contraseñas seguras."
+   },
+   "pwm_primary_pw_set_security_modal_read_tips": {
+      "message": "Ver los consejos"
+   },
+   "pwm_primary_pw_set_security_modal_title": {
+      "message": "La seguridad de la contraseña es insuficiente"
+   },
+   "pwm_primary_pw_set_text": {
+      "message": "Cree una contraseña principal para encriptar sus inicios de sesión guardados. No puede ser la misma que su contraseña de ExpressVPN."
+   },
+   "pwm_recovery_code_cancel": {
+      "message": "Cancelar"
+   },
+   "pwm_recovery_code_continue": {
+      "message": "Continuar"
+   },
+   "pwm_recovery_code_copied_hint": {
+      "message": "Ha copiado el código de recuperación. Imprima el código o guárdelo en un lugar seguro."
+   },
+   "pwm_recovery_code_copy_code": {
+      "message": "Copiar código"
+   },
+   "pwm_recovery_code_download_pdf": {
+      "message": "Descargar como PDF"
+   },
+   "pwm_recovery_code_downloaded_hint": {
+      "message": "Ha descargado el código de recuperación. Imprima el código o guárdelo en un lugar seguro."
+   },
+   "pwm_recovery_code_header": {
+      "message": "Su código de recuperación"
+   },
+   "pwm_recovery_code_pdf_content_date_text": {
+      "message": "Generado el {TIME}"
+   },
+   "pwm_recovery_code_pdf_content_header_text": {
+      "message": "Gestor de contraseñas"
+   },
+   "pwm_recovery_code_pdf_content_instruction_text": {
+      "message": "Si pierde su contraseña principal, solo podrá acceder a sus elementos con su código de recuperación."
+   },
+   "pwm_recovery_code_pdf_content_reset_instruction_text": {
+      "message": "Siempre puede restablecer su código de recuperación en la pestaña Opciones."
+   },
+   "pwm_recovery_code_pdf_content_title_text": {
+      "message": "Su código de recuperación"
+   },
+   "pwm_recovery_code_pdf_content_warning_text": {
+      "message": "Guarde su código de recuperación en un lugar seguro."
+   },
+   "pwm_recovery_code_pdf_document_file_name": {
+      "message": "Código de recuperación de ExpressVPN Keys - {TIME}"
+   },
+   "pwm_recovery_code_text": {
+      "message": "\u003Cb>Copie o guarde su código de recuperación y manténgalo en un lugar seguro.\u003C/b> Si pierde su contraseña principal, este código es la única manera de acceder a sus elementos."
+   },
+   "pwm_recovery_code_warning_modal_text_p1": {
+      "message": "No ha copiado o guardado su código de recuperación."
+   },
+   "pwm_recovery_code_warning_modal_text_p2": {
+      "message": "ExpressVPN no puede acceder a su contraseña principal, a su código de recuperación ni a sus inicios de sesión guardados, así que le recomendamos que copie el código o lo guarde en una ubicación segura."
+   },
+   "pwm_recovery_code_warning_modal_title": {
+      "message": "¿Ir al siguiente paso?"
+   },
+   "pwm_report_another": {
+      "message": "Informar de otro problema"
+   },
+   "pwm_report_auto_fill": {
+      "message": "Informar problema de relleno"
+   },
+   "pwm_request_mfa_error_modal_title": {
+      "message": "No se pudo enviar el correo electrónico"
+   },
+   "pwm_reset_recovery_code_header": {
+      "message": "Su nuevo código de recuperación"
+   },
+   "pwm_reset_recovery_code_success_hint": {
+      "message": "Código de recuperación restablecido."
+   },
+   "pwm_reset_recovery_code_success_p1": {
+      "message": "{pwm_reset_recovery_code_success_p1_bold} Si pierde su contraseña principal, este código es la única forma de acceder a sus elementos."
+   },
+   "pwm_reset_recovery_code_success_p1_bold": {
+      "message": "Recuerde mantenerlo en un lugar seguro."
+   },
+   "pwm_reset_recovery_code_success_p2": {
+      "message": "Ahora puede cerrar esta pestaña."
+   },
+   "pwm_reset_recovery_code_text": {
+      "message": "{pwm_reset_recovery_code_text_bold} Si pierde su contraseña principal, este código es la única forma de acceder a sus elementos."
+   },
+   "pwm_reset_recovery_code_text_bold": {
+      "message": "Copie o guarde su código de recuperación y manténgalo en un lugar seguro."
+   },
+   "pwm_secure_note_coming_soon_modal_continue": {
+      "message": "Aceptar"
+   },
+   "pwm_secure_note_coming_soon_modal_title": {
+      "message": "Pronto"
+   },
+   "pwm_secure_note_notes_label": {
+      "message": "Notas"
+   },
+   "pwm_secure_note_notes_placeholder": {
+      "message": "Escriba todo lo que desee mantener en privado, como su pasaporte, datos médicos o información de seguros."
+   },
+   "pwm_secure_note_title_label": {
+      "message": "Título (obligatorio)"
+   },
+   "pwm_setup_add_first_item": {
+      "message": "Añada su primer elemento"
+   },
+   "pwm_setup_add_new_logins": {
+      "message": "Añadir un nuevo inicio de sesión"
+   },
+   "pwm_setup_import_existing_logins": {
+      "message": "Importar inicios de sesión existentes"
+   },
+   "pwm_setup_success_add_logins": {
+      "message": "Agregar inicio de sesión"
+   },
+   "pwm_setup_success_header": {
+      "message": "¡Todo listo para usar Keys!"
+   },
+   "pwm_setup_success_import_logins": {
+      "message": "Importar sus datos"
+   },
+   "pwm_setup_success_text": {
+      "message": "¿Tiene contraseñas, notas o tarjetas de crédito o débito guardadas en su navegador o en uno de estos gestores de contraseñas?"
+   },
+   "pwm_setup_success_text_p2": {
+      "message": "¿Tiene inicios de sesión guardados en otro gestor de contraseñas?"
+   },
+   "pwm_setup_success_text_p3": {
+      "message": "Puede importar sus inicios de sesión guardados para:"
+   },
+   "pwm_setup_success_text_p4": {
+      "message": "¿No tiene nada que importar? Añada su primer {pwm_setup_success_text_p4_login_bold}, o abra la extensión para añadir una {pwm_setup_success_text_p4_secure_note_bold} o {pwm_setup_success_text_p4_credit_card_bold}."
+   },
+   "pwm_setup_success_text_p4_credit_card_bold": {
+      "message": "tarjeta de crédito/débito"
+   },
+   "pwm_setup_success_text_p4_login_bold": {
+      "message": "inicio de sesión"
+   },
+   "pwm_setup_success_text_p4_secure_note_bold": {
+      "message": "nota segura"
+   },
+   "pwm_unlock_vault_forgot_primary_password_link": {
+      "message": "¿Olvidó su contraseña principal?"
+   },
+   "pwm_unlock_vault_incorrect_pw_error": {
+      "message": "Contraseña principal incorrecta"
+   },
+   "pwm_unlock_vault_locked_header": {
+      "message": "ExpressVPN Keys está bloqueado"
+   },
+   "pwm_unlock_vault_need_help_link": {
+      "message": "¿Necesita ayuda?"
+   },
+   "pwm_unlock_vault_need_help_modal_text": {
+      "message": "Si no puede desbloquear ExpressVPN Keys con su contraseña principal, puede usar su código de recuperación o contactarnos para recibir ayuda."
+   },
+   "pwm_unlock_vault_unlock_btn": {
+      "message": "Desbloquear"
+   },
+   "pwm_unlock_vault_unlocking_header": {
+      "message": "Desbloqueando"
+   },
+   "pwm_use_recovery_code_label": {
+      "message": "Usar código de recuperación"
+   },
+   "pwm_validate_mfa_network_error_modal_title": {
+      "message": "No se puede verificar la cuenta"
+   },
+   "pwm_verify_account_code_contact_support_label": {
+      "message": "Contactar al soporte técnico"
+   },
+   "pwm_verify_account_code_help_link": {
+      "message": "¿No ha recibido su código?"
+   },
+   "pwm_verify_account_code_input_label": {
+      "message": "Ingrese el código de verificación de 6 dígitos"
+   },
+   "pwm_verify_account_code_invalid_code": {
+      "message": "El código no es válido, inténtelo de nuevo"
+   },
+   "pwm_verify_account_code_modal_text1": {
+      "message": "Si no recibió el correo de verificación en su bandeja de entrada, espere unos minutos más y revise también su bandeja de correo no deseado."
+   },
+   "pwm_verify_account_code_modal_text2": {
+      "message": "¿Todavía no lo recibe? Intente reenviar su código o contacte al soporte técnico para recibir asistencia."
+   },
+   "pwm_verify_account_code_modal_title": {
+      "message": "¿No ha recibido su código?"
+   },
+   "pwm_verify_account_code_resend_code_label": {
+      "message": "Reenviar código"
+   },
+   "pwm_verify_account_code_resend_code_please_wait_label": {
+      "message": "Por favor, espere {SECONDS} segundos"
+   },
+   "pwm_verify_account_code_submit_button_label": {
+      "message": "Siguiente"
+   },
+   "pwm_verify_account_code_text_p1": {
+      "message": "Hemos enviado un código a su correo electrónico para confirmar que usted es el titular de la cuenta."
+   },
+   "pwm_verify_account_code_text_p2": {
+      "message": "Revise su bandeja de entrada e ingrese el código de verificación de 6 dígitos para terminar de configurar su cuenta de ExpressVPN Keys."
+   },
+   "pwm_verify_account_header": {
+      "message": "Verifique su cuenta"
+   },
+   "pwm_verify_account_need_help": {
+      "message": "¿Necesita ayuda? [Contactar a soporte]."
+   },
+   "pwm_verify_account_send_email_button": {
+      "message": "Enviar correo electrónico"
+   },
+   "pwm_verify_account_text_p1": {
+      "message": "Para configurar ExpressVPN Keys en este dispositivo, debemos confirmar que usted es el titular de la cuenta."
+   },
+   "pwm_verify_account_text_p2": {
+      "message": "Seleccione \"Enviar correo electrónico\" a continuación, e ingrese el código de verificación de 6 dígitos recibido en el correo electrónico."
+   },
+   "pwm_verify_password_need_help_modal_text": {
+      "message": "Si no puede verificar su contraseña principal, puede utilizar su código de recuperación o {pwm_contact_us_label} para recibir asistencia."
+   },
+   "recovery_code_cancel_setup": {
+      "message": "Cancelar configuración"
+   },
+   "reset_recovery_code_verify_password_text": {
+      "message": "Ingrese su contraseña principal a la derecha para restablecer su código de recuperación de ExpressVPN Keys."
+   },
+   "save_diagnostics": {
+      "message": "Guardar diagnósticos"
+   },
+   "second": {
+      "message": "segundo"
+   },
+   "seconds": {
+      "message": "segundos"
+   },
+   "settings_help_improve_expressvpn_keys": {
+      "message": "Ayude a mejorar ExpressVPN Keys"
+   },
+   "settings_help_improve_share_crash": {
+      "message": "Comparta los informes de errores y los diagnósticos de uso. Estos informes nunca contienen información personal identificable."
+   },
+   "settings_menu_item_auto_lock_settings_label": {
+      "message": "Ajustes de autobloqueo"
+   },
+   "settings_menu_item_change_password_label": {
+      "message": "Cambiar la contraseña principal"
+   },
+   "settings_menu_item_open_shortcut_label": {
+      "message": "Abrir con método abreviado"
+   },
+   "settings_menu_item_reset_recovery_code_label": {
+      "message": "Restablecer su código de recuperación"
+   },
+   "settings_menu_reset_recovery_code_modal_cancel_label": {
+      "message": "Cancelar"
+   },
+   "settings_menu_reset_recovery_code_modal_continue_label": {
+      "message": "Restablecer código de recuperación"
+   },
+   "settings_menu_reset_recovery_code_modal_p": {
+      "message": "Recibirá un nuevo código de recuperación y su código anterior dejará de funcionar."
+   },
+   "settings_menu_reset_recovery_code_modal_title": {
+      "message": "¿Está seguro?"
+   },
+   "settings_menu_section_data_title": {
+      "message": "Datos"
+   },
+   "settings_menu_section_general_title": {
+      "message": "General"
+   },
+   "settings_menu_section_other_title": {
+      "message": "Otros"
+   },
+   "settings_menu_section_security_title": {
+      "message": "Seguridad"
+   },
+   "settings_system_goes_to_sleep": {
+      "message": "Luego de que el sistema entre en suspensión"
+   },
+   "settings_system_idle": {
+      "message": "Luego de que el sistema esté inactivo durante"
+   },
+   "some_logins_saved_for_website": {
+      "message": "Inicios de sesión para {HOST}"
+   },
+   "step_X_of_Y": {
+      "message": "{STEP} de {TOTAL} pasos"
+   },
+   "try_again_label": {
+      "message": "Probar de nuevo"
+   },
+   "update_btn_label": {
+      "message": "Actualizar"
+   },
+   "use_recovery_code_header": {
+      "message": "Usar código de recuperación"
+   },
+   "use_recovery_code_incorrect_code_error": {
+      "message": "Código de recuperación no válido"
+   },
+   "use_recovery_code_input_label": {
+      "message": "Código de recuperación"
+   },
+   "use_recovery_code_text": {
+      "message": "Ingrese su código de recuperación para restablecer su contraseña principal para ExpressVPN Keys."
+   },
+   "year": {
+      "message": "año"
+   },
+   "years": {
+      "message": "años"
+   }
+}

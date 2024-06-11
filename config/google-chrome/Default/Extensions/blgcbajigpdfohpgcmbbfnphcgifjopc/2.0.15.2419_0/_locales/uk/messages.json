@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Безпечно зберігайте й заповнюйте необмежену кількість паролів у своєму браузері та швидко заходьте в облікові записи на сайтах."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Безпечно зберігайте й заповнюйте необмежену кількість паролів у своєму браузері та швидко заходьте в облікові записи на сайтах."
+   },
+   "app_description_text": {
+      "message": "Безпечно зберігайте й заповнюйте необмежену кількість паролів у своєму браузері та швидко заходьте в облікові записи на сайтах."
+   },
+   "app_description_text_alpha": {
+      "message": "Безпечно зберігайте й заповнюйте необмежену кількість паролів у своєму браузері та швидко заходьте в облікові записи на сайтах."
+   },
+   "app_description_text_beta": {
+      "message": "Безпечно зберігайте й заповнюйте необмежену кількість паролів у своєму браузері та швидко заходьте в облікові записи на сайтах."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: менеджер паролів"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: менеджер паролів Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: менеджер паролів Beta"
+   }
+}

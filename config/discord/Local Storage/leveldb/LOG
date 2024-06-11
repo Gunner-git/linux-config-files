@@ -1,0 +1,23 @@
+2024/06/09-19:39:15.454 124a Reusing MANIFEST /home/light/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/06/09-19:39:15.460 124a Recovering log #49
+2024/06/09-19:39:15.461 124a Reusing old log /home/light/.config/discord/Local Storage/leveldb/000049.log 
+2024/06/09-19:41:54.866 124b Level-0 table #53: started
+2024/06/09-19:41:54.889 124b Level-0 table #53: 788600 bytes OK
+2024/06/09-19:41:54.893 124b Delete type=0 #49
+2024/06/10-16:31:15.242 124a Level-0 table #55: started
+2024/06/10-16:31:15.285 124a Level-0 table #55: 26179 bytes OK
+2024/06/10-16:31:15.313 124a Delete type=0 #52
+2024/06/10-22:38:19.785 124b Level-0 table #57: started
+2024/06/10-22:38:19.797 124b Level-0 table #57: 27100 bytes OK
+2024/06/10-22:38:19.801 124b Delete type=0 #54
+2024/06/10-22:38:19.801 124b Compacting 4@0 + 2@1 files
+2024/06/10-22:38:19.815 124b Generated table #58@0: 10 keys, 2349785 bytes
+2024/06/10-22:38:19.829 124b Generated table #59@0: 71 keys, 20275 bytes
+2024/06/10-22:38:19.829 124b Compacted 4@0 + 2@1 files => 2370060 bytes
+2024/06/10-22:38:19.832 124b compacted to: files[ 0 2 0 0 0 0 0 ]
+2024/06/10-22:38:19.832 124b Delete type=2 #57
+2024/06/10-22:38:19.832 124b Delete type=2 #47
+2024/06/10-22:38:19.833 124b Delete type=2 #50
+2024/06/10-22:38:19.833 124b Delete type=2 #46
+2024/06/10-22:38:19.833 124b Delete type=2 #55
+2024/06/10-22:38:19.833 124b Delete type=2 #53

@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Varno shranite in vnesite neomejeno število gesel v brskalniku ter se hitreje prijavite na spletna mesta."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Varno shranite in vnesite neomejeno število gesel v brskalniku ter se hitreje prijavite na spletna mesta."
+   },
+   "app_description_text": {
+      "message": "Varno shranite in vnesite neomejeno število gesel v brskalniku ter se hitreje prijavite na spletna mesta."
+   },
+   "app_description_text_alpha": {
+      "message": "Varno shranite in vnesite neomejeno število gesel v brskalniku ter se hitreje prijavite na spletna mesta."
+   },
+   "app_description_text_beta": {
+      "message": "Varno shranite in vnesite neomejeno število gesel v brskalniku ter se hitreje prijavite na spletna mesta."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Upravitelj gesel"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Upravitelj gesel Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Upravitelj gesel Beta"
+   }
+}

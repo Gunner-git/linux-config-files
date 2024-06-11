@@ -1,0 +1,2075 @@
+{
+   "account_verified_header": {
+      "message": "Hesap doğrulandı"
+   },
+   "account_verified_hint": {
+      "message": "Bu cihaz artık ExpressVPN Keys'i kullanabilir."
+   },
+   "account_verified_text_p1": {
+      "message": "Artık bu sekmeyi kapatabilir ve giriş bilgilerinizi görüntülemek veya gezinmeye ve giriş bilgilerini otomatik doldurmaya başlamak için uzantıyı açabilirsiniz."
+   },
+   "account_verified_text_p2": {
+      "message": "Herhangi bir sorunuz varsa lütfen [Destek ile iletişime geçin]."
+   },
+   "add_logins_back": {
+      "message": "{HOST} için giriş bilgisi ekleyin"
+   },
+   "add_logins_choose_website_header": {
+      "message": "Başlamak için bir web sitesi seçin"
+   },
+   "add_logins_choose_website_text": {
+      "message": "Giriş bilgisini eklemek istediğiniz web sitesini bulamıyor musunuz? Uzantı simgesine tıklayın ve giriş bilgisini oradan eklemeye başlayın."
+   },
+   "add_logins_header": {
+      "message": "İlk şifrenizi ekleyin"
+   },
+   "add_logins_open_website": {
+      "message": "{HOST} sitesini açın."
+   },
+   "add_logins_step1": {
+      "message": "{HOST} Aç"
+   },
+   "add_logins_step2": {
+      "message": "Hesabınıza giriş yapmışsanız lütfen çıkış yapın."
+   },
+   "add_logins_step3": {
+      "message": "Kullanıcı adınızı ve şifrenizi girerek tekrar giriş yapın."
+   },
+   "add_logins_step4": {
+      "message": "Giriş bilginizi kaydetmek için ExpressVPN bilgi istemi göründüğünde '\u003Cb>Kaydet\u003C/b>'e tıklayın."
+   },
+   "add_logins_text_p1": {
+      "message": "Sağ taraftan popüler bir web sitesini seçin ve ilk şifrenizi nasıl ekleyeceğinizi gösterelim."
+   },
+   "add_logins_text_p2_1": {
+      "message": "Başka bir şifre yöneticisinde kayıtlı giriş bilgileriniz varsa"
+   },
+   "add_logins_text_p2_2": {
+      "message": "onları ExpressVPN Keys hesabınıza"
+   },
+   "add_logins_text_p2_3": {
+      "message": "kolayca aktarabilirsiniz."
+   },
+   "add_logins_text_p3": {
+      "message": "\u003Cb>Güvenli not\u003C/b> veya \u003Cb>kredi/banka\u003C/b> kartı kaydetmek ister misiniz? Uzantıyı açın ve yeşil artı düğmesine tıklayın."
+   },
+   "app_default_title": {
+      "message": "ExpressVPN Keys"
+   },
+   "app_default_title_alpha": {
+      "message": "ExpressVPN Keys (Alpha)"
+   },
+   "app_default_title_beta": {
+      "message": "ExpressVPN Keys (Beta)"
+   },
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Tarayıcınıza sınırsız sayıda şifreyi güvenli bir şekilde kaydedin ve doldurun ve böylece sitelerde daha hızlı oturum açın."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Tarayıcınıza sınırsız sayıda şifreyi güvenli bir şekilde kaydedin ve doldurun ve böylece sitelerde daha hızlı oturum açın."
+   },
+   "app_description_text": {
+      "message": "Tarayıcınıza sınırsız sayıda şifreyi güvenli bir şekilde kaydedin ve doldurun ve böylece sitelerde daha hızlı oturum açın."
+   },
+   "app_description_text_alpha": {
+      "message": "Tarayıcınıza sınırsız sayıda şifreyi güvenli bir şekilde kaydedin ve doldurun ve böylece sitelerde daha hızlı oturum açın."
+   },
+   "app_description_text_beta": {
+      "message": "Tarayıcınıza sınırsız sayıda şifreyi güvenli bir şekilde kaydedin ve doldurun ve böylece sitelerde daha hızlı oturum açın."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Şifre Yöneticisi"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Şifre Yöneticisi Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Şifre Yöneticisi Beta"
+   },
+   "app_not_installed_have_expressvpn_Linux_p1": {
+      "message": "Linux için ExpressVPN uygulamasının en son sürümünü edinmek için oturum açın. Keys Chrome uzantısını kullanmak için bunun yüklü ve etkinleştirilmesi gerekir."
+   },
+   "app_not_installed_have_expressvpn_Mac_p1": {
+      "message": "Mac için ExpressVPN uygulamasının en son sürümünü edinmek için oturum açın. Keys Chrome uzantısını kullanmak için bunun yüklü ve etkinleştirilmesi gerekir."
+   },
+   "app_not_installed_have_expressvpn_Windows_p1": {
+      "message": "Windows için ExpressVPN uygulamasının en son sürümünü edinmek için oturum açın. Keys Chrome uzantısını kullanmak için bunun yüklü ve etkinleştirilmesi gerekir."
+   },
+   "app_not_installed_have_expressvpn_button_label": {
+      "message": "Giriş Yap"
+   },
+   "app_not_installed_have_expressvpn_header": {
+      "message": "ExpressVPN hesabınız var mı?"
+   },
+   "app_not_installed_header": {
+      "message": "ExpressVPN Keys ile şifrelerinizi güvenle yönetin"
+   },
+   "app_not_installed_no_account_button_label": {
+      "message": "ExpressVPN Edinin"
+   },
+   "app_not_installed_no_account_header": {
+      "message": "ExpressVPN hesabınız yok mu?"
+   },
+   "app_not_installed_no_account_p1": {
+      "message": "ExpressVPN'i 30 günlük para iade garantisi ile risksiz deneyin. Premium VPN korumasının yanı sıra çoğu plana dahil olan bir şifre yöneticisinin keyfini çıkarın."
+   },
+   "app_not_installed_subheader": {
+      "message": "Hepsi bir arada ExpressVPN planı ile daha fazla korumanın keyfini çıkarın."
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN Keys"
+   },
+   "autofill_add_new_entry": {
+      "message": "Keys'e giriş bilgisi ekleyin"
+   },
+   "autofill_from_different_subdomain_warning_cancel": {
+      "message": "İptal"
+   },
+   "autofill_from_different_subdomain_warning_proceed": {
+      "message": "İlerle"
+   },
+   "autofill_from_different_subdomain_warning_text": {
+      "message": "Emin misiniz? \u003Cb>{CURRENT_DOMAIN}\u003C/b> üzerinde \u003Cb>{ENTRY_DOMAIN}\u003C/b> için giriş bilgilerini doldurmaya çalışıyorsunuz."
+   },
+   "autofill_loading_card_documents": {
+      "message": "Yükleniyor"
+   },
+   "autofill_loading_login_documents": {
+      "message": "Yükleniyor"
+   },
+   "autofill_on_insecure_origin_warning_title": {
+      "message": "Güvenlik uyarısı"
+   },
+   "autofill_on_insecure_origin_warning_warning_cancel": {
+      "message": "İptal"
+   },
+   "autofill_on_insecure_origin_warning_warning_proceed": {
+      "message": "Yine de Doldur"
+   },
+   "autofill_on_insecure_origin_warning_warning_text": {
+      "message": "\u003Cb>{CURRENT_DOMAIN}\u003C/b> üzerinde \u003Cb>{ENTRY_DOMAIN}\u003C/b>  için giriş bilgilerinizi girmek üzeresiniz. Lütfen bu alana güvendiğinizi ve ilerlemek istediğinizi doğrulayın."
+   },
+   "autosave_existing_login_tab": {
+      "message": "Mevcut Giriş Bilgisi"
+   },
+   "autosave_modal_choose_entry_title": {
+      "message": "Güncellenecek giriş bilgisini seçin"
+   },
+   "autosave_modal_save_prompt_title": {
+      "message": "Giriş bilgisi kaydedilsin mi?"
+   },
+   "autosave_modal_saved_title": {
+      "message": "Giriş bilgisi kaydedildi."
+   },
+   "autosave_modal_update_prompt_header": {
+      "message": "{HOST} Güncelle"
+   },
+   "autosave_modal_update_prompt_title": {
+      "message": "{HOST} giriş bilgisini güncelle?"
+   },
+   "autosave_modal_updated_title": {
+      "message": "{HOST} için giriş bilgisi güncellendi"
+   },
+   "autosave_new_login_tab": {
+      "message": "Yeni Giriş Bilgisi"
+   },
+   "back": {
+      "message": "Geri"
+   },
+   "beta_survey_notification_help_improve_header": {
+      "message": "ExpressVPN Keys'i iyileştirin"
+   },
+   "beta_survey_notification_help_improve_text": {
+      "message": "Yeni sunulan şifre yöneticisi hakkındaki düşüncelerinizi paylaşmak için buraya tıklayın."
+   },
+   "business_account_header": {
+      "message": "Üzgünüz!"
+   },
+   "business_account_hint": {
+      "message": "Kişisel bir hesabınız mı var? Keys'e erişmek için onunla oturum açmayı deneyin."
+   },
+   "business_account_p1": {
+      "message": "ExpressVPN Keys kurumsal veya Toplu Lisans aboneliğinde mevcut değildir."
+   },
+   "business_account_p2": {
+      "message": "Sorularınız varsa lütfen \u003Ca href='https://www.expressvpn.com/support'>Destek ile iletişime geçin\u003C/a>."
+   },
+   "card_saved": {
+      "message": "Kart kaydedildi. Bu kartı sizin için hatırlayacağız ve güvende tutacağız."
+   },
+   "centuries": {
+      "message": "yüzyıllar"
+   },
+   "century": {
+      "message": "yüzyıl"
+   },
+   "change_password_set_new_header": {
+      "message": "Yeni birincil şifreniz"
+   },
+   "change_password_strong_passwords_link_text": {
+      "message": "Güçlü şifrelerin nasıl oluşturulacağını öğrenin"
+   },
+   "change_password_success_header": {
+      "message": "Başarılı!"
+   },
+   "change_password_success_hint": {
+      "message": "Birincil şifre başarıyla değiştirildi."
+   },
+   "change_password_success_text": {
+      "message": "Artık bu sekmeyi kapatabilirsiniz. Yeni birincil şifrenizi kullanarak şifre yöneticinizin kilidini açmak için ExpressVPN Keys uzantısına tıklayın."
+   },
+   "change_password_verify_button_label": {
+      "message": "Doğrula"
+   },
+   "change_password_verify_header": {
+      "message": "Birincil şifreyi doğrulayın"
+   },
+   "change_password_verify_text": {
+      "message": "ExpressVPN Keys'in birincil şifresini değiştirmek için sağ tarafta birincil şifrenizi girin."
+   },
+   "character_limit_reached": {
+      "message": "Karaktere sınırına ulaşıldı"
+   },
+   "contact_support_anchor": {
+      "message": "Destek ile iletişime geçin"
+   },
+   "day": {
+      "message": "gün"
+   },
+   "days": {
+      "message": "gün"
+   },
+   "delete_2fa_confirm_modal_cancel_button": {
+      "message": "İptal"
+   },
+   "delete_2fa_confirm_modal_confirm_button": {
+      "message": "Kodu sil"
+   },
+   "delete_2fa_confirm_modal_header": {
+      "message": "Emin misiniz?"
+   },
+   "delete_2fa_confirm_modal_text_p1": {
+      "message": "Hesabınızda oturum açmak için bu koda ihtiyacınız olabilir."
+   },
+   "delete_2fa_confirm_modal_text_p2": {
+      "message": "Kodu silmeden önce web sitesinin veya uygulamanın güvenlik ayarlarında 2FA'yı devre dışı bıraktığınızdan ve hesabınızda oturum açabildiğinizden emin olun."
+   },
+   "delete_account_confirm_modal_cancel_button": {
+      "message": "İptal"
+   },
+   "delete_account_confirm_modal_confirm_button": {
+      "message": "Kalıcı Olarak Sil"
+   },
+   "delete_account_confirm_modal_header": {
+      "message": "Emin misiniz?"
+   },
+   "delete_account_confirm_modal_text": {
+      "message": "Bir şifre yönetimi hesabına sahipseniz kalıcı olarak silinecektir."
+   },
+   "delete_account_unlock_modal_confirm_button": {
+      "message": "Kilidi Aç"
+   },
+   "delete_account_unlock_modal_header": {
+      "message": "Kilidi Açmak Gerekiyor"
+   },
+   "delete_account_unlock_modal_text": {
+      "message": "Hesabınızı silmek için lütfen kasanızın kilidini açın."
+   },
+   "enter_label": {
+      "message": "Gir"
+   },
+   "error_@chrome@_hide_text": {
+      "message": "Alternatif olarak, simgeye sağ tıklayarak ve \"Chrome menüsünde gizle\"yi seçerek eklentiyi gizleyebilirsiniz."
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Alternatif olarak, simgeye sağ tıklayarak ve \"Araç Çubuğundan Kaldır\"ı veya \"Chrome menüsünde gizle\"yi seçerek eklentiyi gizleyebilirsiniz."
+   },
+   "export_data_as_csv": {
+      "message": "Verileri CSV olarak dışa aktar"
+   },
+   "export_data_as_csv_button": {
+      "message": "Şifre Verilerini Dışa Aktar"
+   },
+   "export_data_as_csv_file_hint": {
+      "message": "CSV dosyası olarak dışa aktarıldıktan sonra, şifre verileriniz şifrelenmemiş şekilde gösterilecektir."
+   },
+   "export_data_as_csv_file_label": {
+      "message": "Şifre verilerinizi CSV dosyası olarak dışa aktarmak için sağdaki talimatları izleyin."
+   },
+   "export_data_as_csv_step_desc1": {
+      "message": "Aşağıdaki \"Şifre Verilerini Dışa Aktar\"a tıklayın."
+   },
+   "export_data_as_csv_step_desc2": {
+      "message": "İndirme konumunu seçin."
+   },
+   "export_data_header": {
+      "message": "Verileri CSV dosyası olarak dışa aktar"
+   },
+   "export_data_success_header": {
+      "message": "Başarılı!"
+   },
+   "export_data_success_hint": {
+      "message": "Şifre verileri başarıyla dışa aktarıldı."
+   },
+   "export_data_success_label": {
+      "message": "Artık bu sekmeyi kapatabilir ve şifre verilerinizi seçtiğiniz indirme konumunda bir CSV dosyası olarak görüntüleyebilirsiniz."
+   },
+   "export_data_verify_password_label": {
+      "message": "Verilerinizi dışa aktarma seçeneği sağındaki birincil şifrenizi girin."
+   },
+   "generate_password_add_item": {
+      "message": "Yeni bir şifreye mi ihtiyacınız var?"
+   },
+   "generate_password_edit_item": {
+      "message": "Güçlü Şifre Oluşturun"
+   },
+   "help_improve_header": {
+      "message": "ExpressVPN Keys'i İyileştirin"
+   },
+   "help_improve_onboarding_expressvpn_keys": {
+      "message": "ExpressVPN Keys'i İyileştirin"
+   },
+   "help_improve_onboarding_no_thanks": {
+      "message": "Hayır Teşekkürler"
+   },
+   "help_improve_onboarding_ok": {
+      "message": "TAMAM"
+   },
+   "help_improve_onboarding_share_crash": {
+      "message": "Çökme raporlarını ve kullanılabilirlik tanılarını paylaşın. Bu raporlar hiçbir zaman kişisel bilgileri içermez."
+   },
+   "help_improve_p": {
+      "message": "Çökme raporlarını ve kullanılabilirlik tanılarını paylaşın. Bu raporlar hiçbir zaman kişisel bilgileri içermez."
+   },
+   "help_improve_primary_btn": {
+      "message": "TAMAM"
+   },
+   "help_improve_secondary_btn": {
+      "message": "Hayır Teşekkürler"
+   },
+   "help_menu_item_acknowledgements_label": {
+      "message": "Beyanlar"
+   },
+   "help_menu_item_app_version": {
+      "message": "{OS} uygulama sürümü: {VERSION}"
+   },
+   "help_menu_item_chat_label": {
+      "message": "Bizimle konuşun"
+   },
+   "help_menu_item_extension_version": {
+      "message": "Uzantı sürümü: {VERSION}"
+   },
+   "help_menu_item_improvements_label": {
+      "message": "Bir iyileştirme önerin"
+   },
+   "help_menu_item_report_label": {
+      "message": "Bir sorun bildirin"
+   },
+   "help_menu_section_about_title": {
+      "message": "Hakkında"
+   },
+   "help_menu_section_articles_cat1": {
+      "message": "ExpressVPN Keys nasıl kullanılır"
+   },
+   "help_menu_section_articles_cat1_sub1": {
+      "message": "Neden bir şifre yöneticisine ihtiyacım var?"
+   },
+   "help_menu_section_articles_cat1_sub10": {
+      "message": "Otomatik doldurma nasıl kullanılır"
+   },
+   "help_menu_section_articles_cat1_sub11": {
+      "message": "Birincil şifre nasıl değiştirilir"
+   },
+   "help_menu_section_articles_cat1_sub12": {
+      "message": "Bir şifre ve e-posta adresi belirleyin"
+   },
+   "help_menu_section_articles_cat1_sub2": {
+      "message": "Ücreti nedir?"
+   },
+   "help_menu_section_articles_cat1_sub3": {
+      "message": "Aktif bir abonelik gerekiyor mu?"
+   },
+   "help_menu_section_articles_cat1_sub4": {
+      "message": "ExpressVPN Keys güvenli mi?"
+   },
+   "help_menu_section_articles_cat1_sub5": {
+      "message": "Hangi cihazlar destekleniyor?"
+   },
+   "help_menu_section_articles_cat1_sub6": {
+      "message": "Verilerim nasıl yönetiliyor?"
+   },
+   "help_menu_section_articles_cat1_sub7": {
+      "message": "Hangi özellikler mevcut?"
+   },
+   "help_menu_section_articles_cat1_sub8": {
+      "message": "Mevcut giriş bilgileri nasıl aktarılır"
+   },
+   "help_menu_section_articles_cat1_sub9": {
+      "message": "Giriş bilgileri nasıl kaydedilir"
+   },
+   "help_menu_section_articles_cat2": {
+      "message": "ExpressVPN Keys ile İlgili Sorunlar"
+   },
+   "help_menu_section_articles_cat2_sub1": {
+      "message": "Hesap oluşturamıyorum"
+   },
+   "help_menu_section_articles_cat2_sub2": {
+      "message": "Hesap doğrulanamadı"
+   },
+   "help_menu_section_articles_cat2_sub3": {
+      "message": "Kilidi açamıyorum"
+   },
+   "help_menu_section_articles_cat2_sub4": {
+      "message": "Giriş bilgileri senkronize olmuyor"
+   },
+   "help_menu_section_articles_cat2_sub5": {
+      "message": "Giriş bilgilerini kaydedemiyorum/güncelleyemiyorum"
+   },
+   "help_menu_section_articles_cat2_sub6": {
+      "message": "Otomatik doldurma düzgün çalışmıyor"
+   },
+   "help_menu_section_articles_cat2_sub7": {
+      "message": "Birincil şifreyi değiştiremiyorum"
+   },
+   "help_menu_section_articles_title": {
+      "message": "Destek Makaleleri"
+   },
+   "help_menu_section_support_title": {
+      "message": "İletişime geçin"
+   },
+   "hint_copy_text": {
+      "message": "Kopyalandı"
+   },
+   "hour": {
+      "message": "saat"
+   },
+   "hours": {
+      "message": "saat"
+   },
+   "icloud_keychain": {
+      "message": "Safari/iCloud"
+   },
+   "import_chrome_password_settings": {
+      "message": "Chrome Şifre ayarları"
+   },
+   "import_document_already_exists": {
+      "message": "Belge var"
+   },
+   "import_edge_password_settings": {
+      "message": "Edge Şifre ayarları"
+   },
+   "import_expressvpn": {
+      "message": "başka bir ExpressVPN Keys hesabı"
+   },
+   "import_expressvpn_exported_step1": {
+      "message": "İçe aktarmak istediğiniz doğru hesapta oturum açıp açmadığınızı kontrol edin."
+   },
+   "import_expressvpn_exported_step2": {
+      "message": "Aşağıdan \u003Cb>Dosya Seç\u003C/b>'i tıklayın."
+   },
+   "import_expressvpn_exported_step3": {
+      "message": "Şifrelerinizi içe aktarmak için CSV dosyasını seçin."
+   },
+   "import_expressvpn_exported_title": {
+      "message": "Şifre verilerimi dışa aktardım"
+   },
+   "import_expressvpn_header": {
+      "message": "Giriş bilgilerini hesaplar arasında aktarmak veya hesap silme işleminden sonra giriş bilgilerini geri yüklemek istiyorsanız ExpressVPN Keys şifre verilerinizi içe aktarabilirsiniz."
+   },
+   "import_expressvpn_important_header": {
+      "message": "\u003Cb>Önemli\u003C/b>: Abonelik başına yalnızca bir ExpressVPN Keys hesabınız olabilir. Lütfen içe aktarmadan önce doğru hesapta oturum açtığınızdan emin olun, yoksa yinelenen giriş bilgileri görebilirsiniz."
+   },
+   "import_expressvpn_need_to_export_step1": {
+      "message": "ExpressVPN uygulamanızdan dışa aktarmak istediğiniz hesapta oturum açın."
+   },
+   "import_expressvpn_need_to_export_step2": {
+      "message": "ExpressVPN Keys tarayıcı uzantısına tıklayın."
+   },
+   "import_expressvpn_need_to_export_step3": {
+      "message": "\u003Cb>Seçenekler sekmesine\u003C/b>, ardından \u003Cb>Ayarlar\u003C/b> > \u003Cb>Veri\u003C/b> > \u003Cb>Verileri CSV olarak dışa aktar'a\u003C/b> tıklayın."
+   },
+   "import_expressvpn_need_to_export_step4": {
+      "message": "Birincil şifrenizi girin."
+   },
+   "import_expressvpn_need_to_export_step5": {
+      "message": "\u003Cb>Şifre Verilerini Dışa Aktar\u003C/b>'a tıklayın. Bir CSV dosyası cihazınıza otomatik olarak kaydedilir."
+   },
+   "import_expressvpn_need_to_export_step6": {
+      "message": "Hesaptan çıkış yapın, ardından içe aktarmak istediğiniz hesapta oturum açın."
+   },
+   "import_expressvpn_need_to_export_step7": {
+      "message": "ExpressVPN Keys tarayıcı uzantısına tıklayın."
+   },
+   "import_expressvpn_need_to_export_step8": {
+      "message": "\u003Cb>Seçenekler sekmesine\u003C/b>, ardından \u003Cb>Ayarlar\u003C/b> > \u003Cb>Veri\u003C/b> > \u003Cb>Verileri CSV olarak içe aktar'a\u003C/b> tıklayın."
+   },
+   "import_expressvpn_need_to_export_step9": {
+      "message": "\u003Cb>'Başka bir ExpressVPN Keys hesabından içe aktar...'\u003C/b> seçeneğine tıklayın ve talimatları izleyin."
+   },
+   "import_expressvpn_need_to_export_title": {
+      "message": "Şifre verilerimi dışa aktarmam gerekiyor"
+   },
+   "import_from_a_service": {
+      "message": "Aşağıdaki bir hizmetten içe aktarın"
+   },
+   "import_from_existing_services": {
+      "message": "Mevcut hizmetlerden içe aktarın"
+   },
+   "import_logins_1password_1pw7_header": {
+      "message": "1Password 7 için talimatlar"
+   },
+   "import_logins_1password_1pw7_mac_step1": {
+      "message": "1Password'u ve kilidini açın."
+   },
+   "import_logins_1password_1pw7_mac_step2": {
+      "message": "Dışa aktarmak istediğiniz kasayı seçin."
+   },
+   "import_logins_1password_1pw7_mac_step3": {
+      "message": "\u003Cb>Dosya\u003C/b> menüsü > \u003Cb>Dışa Aktar\u003C/b> > \u003Cb>Tüm Öğeler\u003C/b>'i seçin.\n"
+   },
+   "import_logins_1password_1pw7_mac_step4": {
+      "message": "Ana şifrenizi girin."
+   },
+   "import_logins_1password_1pw7_mac_step5": {
+      "message": "\u003Cb>iCloud Anahtar Zinciri (.csv)\u003C/b> dosya biçimini seçin. Bu seçeneği görmüyorsanız \u003Ca target='_blank' href='https://app-updates.agilebits.com/download/OPM7'>1Password 7'nin en son sürümünü\u003C/a> çalıştırdığınızdan emin olun."
+   },
+   "import_logins_1password_1pw7_mac_step6": {
+      "message": "Dosyayı cihazınıza kaydedin."
+   },
+   "import_logins_1password_1pw7_mac_step7": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç'e\u003C/b> tıklayın."
+   },
+   "import_logins_1password_1pw7_mac_step8": {
+      "message": "CSV dosyasını seçin."
+   },
+   "import_logins_1password_1pw7_win_step1": {
+      "message": "1Password'u ve kilidini açın."
+   },
+   "import_logins_1password_1pw7_win_step2": {
+      "message": "Dışa aktarmak istediğiniz tüm unsurları seçin."
+   },
+   "import_logins_1password_1pw7_win_step3": {
+      "message": "Sağ tıklayın ve \u003Cb>Dışa Aktar\u003C/b>'ı seçin."
+   },
+   "import_logins_1password_1pw7_win_step4": {
+      "message": "\u003Cb>Virgülle ayrılmış değerler (.csv)\u003C/b> türü olarak kaydet'i seçin."
+   },
+   "import_logins_1password_1pw7_win_step5": {
+      "message": "Dosyayı cihazınıza kaydedin."
+   },
+   "import_logins_1password_1pw7_win_step6": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç'e\u003C/b> tıklayın."
+   },
+   "import_logins_1password_1pw7_win_step7": {
+      "message": "CSV dosyasını seçin."
+   },
+   "import_logins_1password_1pw8_header": {
+      "message": "1Password için talimatlar 8"
+   },
+   "import_logins_1password_1pw8_mac_step1": {
+      "message": "1Password'u ve kilidini açın."
+   },
+   "import_logins_1password_1pw8_mac_step2": {
+      "message": "\u003Cb>Dosya\u003C/b> menüsü > \u003Cb>Dışa Aktar\u003C/b>'ı seçin.\n"
+   },
+   "import_logins_1password_1pw8_mac_step3": {
+      "message": "Şifrenizi girin."
+   },
+   "import_logins_1password_1pw8_mac_step4": {
+      "message": "\u003Cb>CSV (Yalnızca Giriş Bilgileri ve Şifreler)\u003C/b> dosya biçimini seçin."
+   },
+   "import_logins_1password_1pw8_mac_step5": {
+      "message": "Dosyayı cihazınıza kaydedin."
+   },
+   "import_logins_1password_1pw8_mac_step6": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç'e\u003C/b> tıklayın."
+   },
+   "import_logins_1password_1pw8_mac_step7": {
+      "message": "CSV dosyasını seçin."
+   },
+   "import_logins_1password_1pw8_win_step1": {
+      "message": "1Password'u ve kilidini açın."
+   },
+   "import_logins_1password_1pw8_win_step2": {
+      "message": "... ögesine tıklayın ve \u003Cb>Dışa Aktar\u003C/b>'ı seçin."
+   },
+   "import_logins_1password_1pw8_win_step3": {
+      "message": "Şifrenizi girin."
+   },
+   "import_logins_1password_1pw8_win_step4": {
+      "message": "\u003Cb>CSV (Yalnızca Giriş Bilgileri ve Şifreler)\u003C/b> dosya biçimini seçin."
+   },
+   "import_logins_1password_1pw8_win_step5": {
+      "message": "Dosyayı cihazınıza kaydedin."
+   },
+   "import_logins_1password_1pw8_win_step6": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç'e\u003C/b> tıklayın."
+   },
+   "import_logins_1password_1pw8_win_step7": {
+      "message": "CSV dosyasını seçin."
+   },
+   "import_logins_1password_import_limitation_header": {
+      "message": "\u003Cb>Önemli\u003C/b>: ExpressVPN Keys yalnızca giriş bilgilerinin içe aktarılmasını destekler. Kredi kartı ayrıntıları veya kaydedilen notlar gibi diğer veriler içe aktarılmaz."
+   },
+   "import_logins_add_your_password_link": {
+      "message": "şifrelerinizi manuel olarak ekleyin"
+   },
+   "import_logins_back": {
+      "message": "{HOST} üzerinden içe aktar"
+   },
+   "import_logins_choose_a_password_manager_service": {
+      "message": "Sağdan bir şifre yöneticisi hizmeti seçin; size şifrelerinizi nasıl içe aktaracağınızı gösterelim."
+   },
+   "import_logins_choose_file": {
+      "message": "Dosya Seç"
+   },
+   "import_logins_contact_support": {
+      "message": "Destek ile İletişime Geçin"
+   },
+   "import_logins_contact_support_text": {
+      "message": "{import_logins_need_help} {import_logins_contact_support}, talimatlar hakkında size rehberlik edebilir."
+   },
+   "import_logins_error_failed_table_header": {
+      "message": "Başarısız İçe Aktarmalar ({TOTAL_BAD_LOGINS})"
+   },
+   "import_logins_error_import_again_btn": {
+      "message": "Tekrar İçe Aktar"
+   },
+   "import_logins_error_incomplete_header": {
+      "message": "İçe aktarma tamamlanmadı"
+   },
+   "import_logins_error_incomplete_reimport_header": {
+      "message": "Kalan giriş bilgilerini içe aktarmak için:"
+   },
+   "import_logins_error_incomplete_reimport_step_1": {
+      "message": "Bir önceki adımda içe aktardığınız CSV dosyasını çalışma tablosu editörünüzde açın."
+   },
+   "import_logins_error_incomplete_reimport_step_2": {
+      "message": "İçe aktarılması başarısız olanlar hariç tüm satırları silin."
+   },
+   "import_logins_error_incomplete_reimport_step_3": {
+      "message": "Sağ taraftaki önerilerden yola çıkarak kalan satırları güncelleyin."
+   },
+   "import_logins_error_incomplete_reimport_step_4": {
+      "message": "Dosyayı kaydedin, güncellenen dosyayı içe aktarmak için 'Tekrar İçe Aktar'a tıklayın."
+   },
+   "import_logins_error_number_of_failed_logins_hint": {
+      "message": "Toplam {TOTAL_LOGINS} giriş bilgisinden {TOTAL_BAD_LOGINS} tanesi içe aktarılamadı."
+   },
+   "import_logins_error_success_table_header": {
+      "message": "Başarılı İçe Aktarmalar ({TOTAL_GOOD_LOGINS})"
+   },
+   "import_logins_error_table_domain_too_long": {
+      "message": "Website URL çok uzun"
+   },
+   "import_logins_error_table_failed_status": {
+      "message": "Başarısız"
+   },
+   "import_logins_error_table_login_column": {
+      "message": "GİRİŞ BİLGİSİ ADI"
+   },
+   "import_logins_error_table_name_too_long": {
+      "message": "Ad çok uzun"
+   },
+   "import_logins_error_table_note_too_long": {
+      "message": "Not çok uzun"
+   },
+   "import_logins_error_table_password_too_long": {
+      "message": "Şifre çok uzun"
+   },
+   "import_logins_error_table_see_success_logins_btn": {
+      "message": "Başarılı İçe Aktarmaları Görün ({TOTAL_GOOD_LOGINS})"
+   },
+   "import_logins_error_table_status_column": {
+      "message": "Durum"
+   },
+   "import_logins_error_table_success_status": {
+      "message": "Başarılı"
+   },
+   "import_logins_error_table_username_too_long": {
+      "message": "Kullanıcı adı çok uzun"
+   },
+   "import_logins_error_total_failure_header": {
+      "message": "İçe aktarma başarısız"
+   },
+   "import_logins_error_total_failure_reimport_header": {
+      "message": "Giriş bilgilerinizi tekrar içe aktarmak için:"
+   },
+   "import_logins_error_total_failure_reimport_step_1": {
+      "message": "Bir önceki adımda içe aktardığınız CSV dosyasını çalışma tablosu editörünüzde açın."
+   },
+   "import_logins_error_total_failure_reimport_step_2": {
+      "message": "Sağ taraftaki önerilerden yola çıkarak satırları güncelleyin."
+   },
+   "import_logins_error_total_failure_reimport_step_3": {
+      "message": "Dosyayı kaydedin, güncellenen dosyayı içe aktarmak için 'Tekrar İçe Aktar'a tıklayın."
+   },
+   "import_logins_error_untitled": {
+      "message": "İsimsiz"
+   },
+   "import_logins_estimated_time": {
+      "message": "Tahmini süre: 2 dakikadan az"
+   },
+   "import_logins_from_another_express_account_link": {
+      "message": "Başka bir ExpressVPN Keys hesabından veya önceki yedeklemeden içe aktarmak"
+   },
+   "import_logins_from_another_express_account_text": {
+      "message": "{import_logins_from_another_express_account_link} mı istiyorsunuz?"
+   },
+   "import_logins_header": {
+      "message": "Şifrelerinizi içe aktarın"
+   },
+   "import_logins_here": {
+      "message": "buraya"
+   },
+   "import_logins_icloud_for_windows": {
+      "message": "Windows için iCloud, giriş bilgilerinizi ve parolalarınızı dışa aktarma seçeneği sunmaz. Aşağıdakilerden birini yapabilirsiniz:"
+   },
+   "import_logins_if_you_do_not_have_a_mac": {
+      "message": "Mac'iniz yoksa iCloud'da kayıtlı giriş bilgilerinizi manuel olarak kopyalayabilir ve ExpressVPN Keys şifre yöneticisine yapıştırabilirsiniz:"
+   },
+   "import_logins_if_you_have_a_mac": {
+      "message": "Ayrıca bir Mac'iniz varsa, depolanan giriş bilgilerinizi ve şifrelerinizi {import_logins_if_you_have_a_mac_text} içe aktarmak için ExpressVPN Keys Chrome uzantısını yükleyin."
+   },
+   "import_logins_if_you_have_a_mac_text": {
+      "message": "Mac için talimat adımlarımızı takip ederek"
+   },
+   "import_logins_instructions_header_dashlane": {
+      "message": "\u003Cb>Önemli\u003C/b>: ExpressVPN Keys yalnızca giriş bilgilerinin içe aktarılmasını destekler. Kredi kartı ayrıntıları veya kaydedilen notlar gibi diğer veriler içe aktarılmaz."
+   },
+   "import_logins_instructions_header_lastpass": {
+      "message": " \u003Cb>Önemli\u003C/b>:  Giriş bilgilerinizi ve şifrelerinizi dışa aktarmak için \u003Ca target='_blank' href='https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd'>LastPass uzantısına \u003C/a> ihtiyacınız olacak.\n"
+   },
+   "import_logins_manual_instructions_for_macos": {
+      "message": "macOS sürümü \u003C10.15 için manuel talimatlar\n"
+   },
+   "import_logins_need_help": {
+      "message": "Yardıma ihtiyacınız mı var?"
+   },
+   "import_logins_other": {
+      "message": "Diğer"
+   },
+   "import_logins_other_apps": {
+      "message": "Diğer şifre yöneticilerinden içe aktar"
+   },
+   "import_logins_other_apps_instructions_advanced_users_p1": {
+      "message": "\u003Cb>Önemli:\u003C/b> ExpressVPN Keys yalnızca giriş bilgilerinin içe aktarılmasını destekler. Kredi kartı bilgilerini, kayıtlı notları vb. içe aktaramazsınız."
+   },
+   "import_logins_other_apps_instructions_advanced_users_p2": {
+      "message": "Bir tablo düzenleyici (Google Sheets, Microsoft Excel, vb.) kullanmak konusunda rahatsanız aşağıdaki talimatları izleyerek giriş bilgilerinizi içe aktarabilirsiniz:"
+   },
+   "import_logins_other_apps_instructions_advanced_users_text": {
+      "message": "İleri seviye kullanıcılar: Manuel olarak içe aktar"
+   },
+   "import_logins_other_apps_instructions_hint": {
+      "message": "Şu anda şifre yöneticinizden girişleri içe aktaramadığımız için üzgünüz."
+   },
+   "import_logins_other_apps_instructions_let_us_know_text": {
+      "message": "İnceleme yapabilmemiz için lütfen [hangisini kullandığınızı bize bildirin]."
+   },
+   "import_logins_other_apps_instructions_step1": {
+      "message": "Güncel şifre yöneticinizi açın."
+   },
+   "import_logins_other_apps_instructions_step2": {
+      "message": "Kaydedilmiş giriş bilgilerinizi bir CSV dosyası olarak dışa aktarın."
+   },
+   "import_logins_other_apps_instructions_step3": {
+      "message": "Dışa aktarılan CSV dosyasını tablo düzenleyicinizde açın."
+   },
+   "import_logins_other_apps_instructions_step4": {
+      "message": "\u003Cb>Giriş bilgisi olmayan\u003C/b> tüm öğeleri silin (ör. kredi kartı bilgileri, kayıtlı notlar)."
+   },
+   "import_logins_other_apps_instructions_step5": {
+      "message": "\u003Cb>Aşağıdakilerden biri olmayan\u003C/b> sütunları silin:"
+   },
+   "import_logins_other_apps_instructions_step5_sub1": {
+      "message": "Giriş başlığı veya isim"
+   },
+   "import_logins_other_apps_instructions_step5_sub2": {
+      "message": "URL"
+   },
+   "import_logins_other_apps_instructions_step5_sub3": {
+      "message": "Kullanıcı adı veya e-posta"
+   },
+   "import_logins_other_apps_instructions_step5_sub4": {
+      "message": "Şifre"
+   },
+   "import_logins_other_apps_instructions_step6": {
+      "message": "Kalan sütunların şu şekilde adlandırıldığından emin olun (küçük harf):"
+   },
+   "import_logins_other_apps_instructions_step6_sub1": {
+      "message": "name"
+   },
+   "import_logins_other_apps_instructions_step6_sub2": {
+      "message": "url"
+   },
+   "import_logins_other_apps_instructions_step6_sub3": {
+      "message": "username"
+   },
+   "import_logins_other_apps_instructions_step6_sub4": {
+      "message": "password"
+   },
+   "import_logins_other_apps_instructions_step7": {
+      "message": "Güncellenen dosyanızı CSV olarak kaydedin."
+   },
+   "import_logins_other_apps_instructions_step8": {
+      "message": "Aşağıdan \u003Cb>Dosya Seç\u003C/b>'e tıklayın ve az önce kaydettiğiniz dosyayı seçin."
+   },
+   "import_logins_safari_mac_step1": {
+      "message": "\u003Cb>Safari\u003C/b>'yi açın."
+   },
+   "import_logins_safari_mac_step2": {
+      "message": "\u003Cb>Safari\u003C/b>'de menü > \u003Cb>Tercihler...\u003C/b>'e tıklayın.\n"
+   },
+   "import_logins_safari_mac_step3": {
+      "message": "\u003Cb>Şifreler\u003C/b> sekmesine tıklayın, ardından kimlik doğrulama yapın."
+   },
+   "import_logins_safari_mac_step4": {
+      "message": "Kenar çubuğunun sol alt köşesinde, … > \u003Cb>Şifreleri Dışa Aktar\u003C/b> > \u003Cb>Tüm Şifreleri Dışa Aktar\u003C/b>'a tıklayın.\n"
+   },
+   "import_logins_safari_mac_step4_extra": {
+      "message": "… butonunu görmüyorsanız {import_logins_update_safari_mac_text}. Hâlâ sorun yaşıyorsanız {import_logins_here} tıklayın."
+   },
+   "import_logins_safari_mac_step5": {
+      "message": "Dosyayı cihazınıza kaydedin."
+   },
+   "import_logins_safari_mac_step6": {
+      "message": "Aşağıdan \u003Cb>Dosya Seç\u003C/b>'e tıklayın ve az önce kaydettiğiniz dosyayı seçin."
+   },
+   "import_logins_safari_old_mac_step1": {
+      "message": "\u003Cb>Safari\u003C/b>'yi açın."
+   },
+   "import_logins_safari_old_mac_step2": {
+      "message": "\u003Cb>Safari\u003C/b>'de menü > \u003Cb>Tercihler...\u003C/b>'e tıklayın.\n"
+   },
+   "import_logins_safari_old_mac_step3": {
+      "message": "\u003Cb>Şifreler\u003C/b> sekmesine tıklayın, ardından kimlik doğrulama yapın."
+   },
+   "import_logins_safari_old_mac_step4": {
+      "message": "Kaydedilmiş bir şifreyi ve ardından \u003Cb>Düzenle\u003C/b>'yi seçin."
+   },
+   "import_logins_safari_old_mac_step5": {
+      "message": "Kullanıcı adını, şifreyi ve URL'yi kopyalayın."
+   },
+   "import_logins_safari_old_mac_step6": {
+      "message": "ExpressVPN Keys uzantısında \u003Cb>+\u003C/b> öğesine tıklayın."
+   },
+   "import_logins_safari_old_mac_step7": {
+      "message": "Giriş bilgisine isim verin; ardından kullanıcı adını, parolayı ve URL'yi yapıştırın."
+   },
+   "import_logins_safari_old_mac_step8": {
+      "message": "\u003Cb>Kaydet\u003C/b>'e tıklayın."
+   },
+   "import_logins_safari_windows_step1": {
+      "message": "Windows cihazınızda \u003Cb>iCloud Parolalar\u003C/b> uygulamasını açın."
+   },
+   "import_logins_safari_windows_step2": {
+      "message": "Kayıtlı bir giriş bilgisine tıklayın."
+   },
+   "import_logins_safari_windows_step3": {
+      "message": "Kullanıcı adınızı, şifrenizi veya URL'nizi kopyalamak için sağ üstteki \u003Cb>kopyala simgesi\u003C/b>ne tıklayın."
+   },
+   "import_logins_safari_windows_step4": {
+      "message": "ExpressVPN Keys uzantısında \u003Cb>+\u003C/b> öğesine tıklayın."
+   },
+   "import_logins_safari_windows_step5": {
+      "message": "Giriş bilgisine isim verin; ardından kullanıcı adını, parolayı ve URL'yi yapıştırın."
+   },
+   "import_logins_safari_windows_step6": {
+      "message": "\u003Cb>Kaydet\u003C/b>'e tıklayın."
+   },
+   "import_logins_safari_you_are_running_an_old_version": {
+      "message": "Apple iCloud Anahtar Zinciri'nden giriş bilgilerini ve şifreleri dışa aktarmayı desteklemeyen eski bir macOS sürümünü kullanıyorsunuz. Ancak Safari'de kayıtlı giriş bilgilerinizi manuel olarak kopyalayabilir ve ExpressVPN Keys'e yapıştırabilirsiniz:"
+   },
+   "import_logins_step1": {
+      "message": "{PASSWORD_SETTINGS} öğesini açın."
+   },
+   "import_logins_step1_bitwarden": {
+      "message": "\u003Ca target='_blank' href='https://vault.bitwarden.com'>https://vault.bitwarden.com\u003C/a>'da giriş yapın\n"
+   },
+   "import_logins_step1_dashlane": {
+      "message": "\u003Ca target='_blank' href='https://app.dashlane.com/login'>Dashlane giriş sayfasını ziyaret edin.\u003C/a>"
+   },
+   "import_logins_step1_lastpass": {
+      "message": "LastPass tarayıcı uzantısına tıklayın."
+   },
+   "import_logins_step2": {
+      "message": "Kayıtlı şifre listesinin üzerindeki {ICON} simgesine > \u003Cb>Şifreleri dışa aktar…\u003C/b>'a tıklayın"
+   },
+   "import_logins_step2_bitwarden": {
+      "message": "Yukarıda, \u003Cb>Araçlar\u003C/b>'a tıklayın."
+   },
+   "import_logins_step2_dashlane": {
+      "message": "E-posta adresinizi giriniz. \u003Cb>İleri\u003C/b>'ye tıklayın."
+   },
+   "import_logins_step2_lastpass": {
+      "message": "\u003Cb>Hesap Seçenekleri\u003C/b> > \u003Cb>Gelişmiş\u003C/b> >\u003Cb>Dışa Aktar\u003C/b>'a tıklayın"
+   },
+   "import_logins_step3": {
+      "message": "\u003Cb>Şifreleri dışa aktar\u003C/b>a tıklayın."
+   },
+   "import_logins_step3_bitwarden": {
+      "message": "Sol kenar çubuğunda \u003Cb>Kasa'yı Dışa Aktar\u003C/b>'a tıklayın."
+   },
+   "import_logins_step3_dashlane": {
+      "message": "Sağ üstte \u003Cb>Hesabım\u003C/b>'a tıklayın."
+   },
+   "import_logins_step3_lastpass": {
+      "message": "\u003Cb>LastPass CSV Dosyası\u003C/b>'nı seçin."
+   },
+   "import_logins_step4": {
+      "message": "İstenirse cihazınızın şifresini girin. \u003Cb>Tamam\u003C/b>'a tıklayın."
+   },
+   "import_logins_step4_bitwarden": {
+      "message": "\u003Cb>Dosya Formatı\u003C/b> için \u003Cb>.csv\u003C/b>'yi seçin."
+   },
+   "import_logins_step4_dashlane": {
+      "message": "\u003Cb>Ayarlar > Verileri Dışa Aktar\u003C/b>'a tıklayın."
+   },
+   "import_logins_step4_lastpass": {
+      "message": "Ana şifrenizi girin"
+   },
+   "import_logins_step5": {
+      "message": "CSV dosyasını cihazınızda kaydedin."
+   },
+   "import_logins_step5_bitwarden": {
+      "message": "Ana şifrenizi girin."
+   },
+   "import_logins_step5_dashlane": {
+      "message": "Ana şifrenizi girin."
+   },
+   "import_logins_step5_lastpass": {
+      "message": "Cihazınıza otomatik olarak bir CSV dosyası kaydedilecektir."
+   },
+   "import_logins_step6": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç\u003C/b>'e tıklayın."
+   },
+   "import_logins_step6_bitwarden": {
+      "message": "\u003Cb>Kasayı Dışa Aktar\u003C/b>'a tıklayın ve talimatları izleyin."
+   },
+   "import_logins_step6_dashlane": {
+      "message": "\u003Cb>CSV'ye Dışa Aktar\u003C/b>'a tıklayın."
+   },
+   "import_logins_step6_lastpass": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç\u003C/b>'e tıklayın."
+   },
+   "import_logins_step7": {
+      "message": "CSV dosyasını seçin."
+   },
+   "import_logins_step7_bitwarden": {
+      "message": "Cihazınıza otomatik olarak bir CSV dosyası kaydedilecektir."
+   },
+   "import_logins_step7_dashlane": {
+      "message": "CSV dosyalarını çıkarmak için ZIP dosyasına çift tıklayın."
+   },
+   "import_logins_step7_lastpass": {
+      "message": "Şifrelerinizi içe aktarmak için CSV dosyasını seçin."
+   },
+   "import_logins_step8_bitwarden": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç'e\u003C/b> tıklayın."
+   },
+   "import_logins_step8_dashlane": {
+      "message": "ExpressVPN Keys uzantısında, \u003Cb>Dosya Seç'e\u003C/b> tıklayın."
+   },
+   "import_logins_step9_bitwarden": {
+      "message": "Şifrelerinizi içe aktarmak için CSV dosyasını seçin."
+   },
+   "import_logins_step9_dashlane": {
+      "message": "Şifrelerinizi içe aktarmak için \u003Cb>credentials.csv\u003C/b> dosyasını seçin."
+   },
+   "import_logins_success_close": {
+      "message": "Sekmeyi Kapat"
+   },
+   "import_logins_success_header": {
+      "message": "Başarılı!"
+   },
+   "import_logins_success_hint": {
+      "message": "{TOTAL_LOGINS} şifrenin tamamı başarıyla içe aktarıldı."
+   },
+   "import_logins_success_import_more": {
+      "message": "Daha Fazla Giriş Bilgisini İçe Aktar"
+   },
+   "import_logins_success_text": {
+      "message": "İçe aktarılan giriş bilgilerinizi görüntülemek veya gezinmeye ve giriş bilgilerini otomatik doldurmaya başlamak için Keys uzantısına tıklayın."
+   },
+   "import_logins_success_text_2": {
+      "message": "Daha fazla yardıma ihtiyacınız varsa veya dışa aktarım konusunda bir sorun olduğunu fark ederseniz yardım için {contact_support_anchor}."
+   },
+   "import_logins_update_safari_mac_text": {
+      "message": "macOS ve/veya Safari'yi güncelleyin"
+   },
+   "import_logins_verify_password_label": {
+      "message": "Mevcut hizmetlerden içe aktarım yapmak için sağda birincil şifrenizi girin."
+   },
+   "import_password_error": {
+      "message": "Dosya yükleme başarısız. Lütfen yeniden deneyin."
+   },
+   "import_password_file": {
+      "message": "Şifre dosyasını (.csv) içe aktarın"
+   },
+   "imports_logins_you_can_also_choose_to": {
+      "message": "Bunun yerine  {ROUTER_LINK} de seçebilirsiniz."
+   },
+   "info_banner_deactivate_password_managers": {
+      "message": "Keys'ten en iyi şekilde yararlanmak için diğer şifre yöneticilerini devre dışı bırakın."
+   },
+   "info_banner_learn_more": {
+      "message": "Daha fazlasını öğrenin"
+   },
+   "info_banner_warning_api_unreachable_vpn_off": {
+      "message": "Eşzamanlama başarısız. VPN'e bağlanmayı deneyin veya destek ile iletişime geçin."
+   },
+   "info_banner_warning_api_unreachable_vpn_on": {
+      "message": "Eşzamanlama başarısız. Farklı bir VPN sunucusu deneyin veya destek ile iletişime geçin."
+   },
+   "info_banner_warning_offline": {
+      "message": "Çevrimdışısınız. Bağlantı devam ettiğinde değişiklikler uygulanacak."
+   },
+   "ksp_item_text_1": {
+      "message": "Keys, tüm cihazlarınızda şifre oluşturabilir, saklayabilir ve doldurabilir.\u003Cbr/>Ayrıca, VPN planınıza dâhildir."
+   },
+   "ksp_item_text_2": {
+      "message": "Sır vermeyen şifreleme, ExpressVPN dâhil hiç kimsenin verilerinize erişememesini sağlar."
+   },
+   "ksp_item_text_3": {
+      "message": "TechRadar tarafından \"sağlam çekirdek güvenliği\" nedeniyle övüldü ve Cure53 tarafından bağımsız olarak denetlendi."
+   },
+   "ksp_item_text_4": {
+      "message": "Chrome, Safari, 1Password, LastPass ve diğerlerindeki [giriş bilgilerinizi taşıyın]."
+   },
+   "ksp_item_text_5": {
+      "message": "Keys, notları ve kredi kartlarını kaydedebilir, tek kullanımlık kodlar oluşturabilir ve daha fazlasını yapar.\u003Cbr/>[Keys hakkında daha fazlasını öğrenin]"
+   },
+   "ksp_item_title_1": {
+      "message": "Güvenli, kullanımı kolay şifre yöneticisi"
+   },
+   "ksp_item_title_2": {
+      "message": "Sizin verileriniz, yalnızca sizin gözleriniz"
+   },
+   "ksp_item_title_3": {
+      "message": "Tasarım olarak güvenli, uzmanlar güveniyor"
+   },
+   "ksp_item_title_4": {
+      "message": "Diğer şifre yöneticilerinden giriş bilgilerini içe aktarın"
+   },
+   "ksp_item_title_5": {
+      "message": "Şifrelerin ötesinde koruma"
+   },
+   "ksp_next_button": {
+      "message": "İleri"
+   },
+   "ksp_set_up_button": {
+      "message": "ExpressVPN Keys Kurun"
+   },
+   "ksp_skip_button": {
+      "message": "Atla"
+   },
+   "less_than_a_second": {
+      "message": "Bir saniyeden daha kısa"
+   },
+   "login_saved": {
+      "message": "Giriş bilgisi kaydedildi. Bu bilgileri sizin için kaydedeceğiz ve güvende tutacağız."
+   },
+   "minute": {
+      "message": "dakika"
+   },
+   "minutes": {
+      "message": "dakika"
+   },
+   "modal_password_page_app_not_activated_Linux_text": {
+      "message": "Uzantı, Linux için ExpressVPN uygulamasının etkinleştirilmesini gerektirir."
+   },
+   "modal_password_page_app_not_activated_Linux_text_p1": {
+      "message": "Aktivasyon kodunuzu bulmak için ExpressVPN hesabınıza giriş yapın, ardından şu komutu çalıştırın: {ACTIVATE_COMMAND} ve kodunuzu girin."
+   },
+   "modal_password_page_app_not_activated_Mac_text": {
+      "message": "Uzantı, Mac için ExpressVPN uygulamasının etkinleştirilmesini gerektirir."
+   },
+   "modal_password_page_app_not_activated_Mac_text_p1": {
+      "message": "Aktivasyon kodunuzu bulmak için ExpressVPN hesabınıza giriş yapın."
+   },
+   "modal_password_page_app_not_activated_Windows_text": {
+      "message": "Uzantı, Windows için ExpressVPN uygulamasının etkinleştirilmesini gerektirir."
+   },
+   "modal_password_page_app_not_activated_Windows_text_p1": {
+      "message": "Aktivasyon kodunuzu bulmak için ExpressVPN hesabınıza giriş yapın."
+   },
+   "modal_password_page_app_not_activated_btn_primary": {
+      "message": "Aktivasyon Kodu Alın"
+   },
+   "modal_password_page_app_not_activated_btn_secondary": {
+      "message": "Kodu Girin"
+   },
+   "modal_password_page_app_not_activated_text_p2": {
+      "message": "Yardıma ihtiyacınız mı var? Lütfen [Destek ile iletişime geçin]."
+   },
+   "modal_password_page_app_not_activated_title": {
+      "message": "Uygulamayı Etkinleştir"
+   },
+   "modal_password_page_update_app_Linux_text_p1": {
+      "message": "Bu uzantı Linux için ExpressVPN uygulamasının en son sürümüne ihtiyaç duymaktadır."
+   },
+   "modal_password_page_update_app_Mac_text_p1": {
+      "message": "Bu uzantı Mac için ExpressVPN uygulamasının en son sürümüne ihtiyaç duymaktadır."
+   },
+   "modal_password_page_update_app_Windows_text_p1": {
+      "message": "Bu uzantı Windows için ExpressVPN uygulamasının en son sürümüne ihtiyaç duymaktadır."
+   },
+   "modal_password_page_update_app_button": {
+      "message": "Uygulamayı Güncelle"
+   },
+   "modal_password_page_update_app_text_p2": {
+      "message": "Yardıma ihtiyacınız mı var? Lütfen [Destek ile iletişime geçin]."
+   },
+   "modal_password_page_update_app_title": {
+      "message": "Uygulamayı Güncelleyin"
+   },
+   "month": {
+      "message": "ay"
+   },
+   "months": {
+      "message": "ay"
+   },
+   "n_logins_saved_for_website": {
+      "message": "\u003Cb>{N_ENTRIES} {HOST} için kaydedilen giriş bilgileri\u003C/b>"
+   },
+   "nav_item_help": {
+      "message": "Yardım"
+   },
+   "nav_item_keys": {
+      "message": "Keys"
+   },
+   "nav_item_options": {
+      "message": "Seçenekler"
+   },
+   "no_logins_saved_for_website": {
+      "message": "\u003Cb>{HOST}\u003C/b>\u003Cbr/>için hiç giriş bilgisi kaydedilmedi."
+   },
+   "notification_clipboard_cleared_message": {
+      "message": "Veriler, gizliliğinizi korumak için temizlendi"
+   },
+   "notification_clipboard_cleared_title": {
+      "message": "Pano temizlendi"
+   },
+   "notification_extension_update_message": {
+      "message": "Yenilikleri görmek için tıklayın."
+   },
+   "notification_extension_update_title": {
+      "message": "ExpressVPN Keys Güncellendi"
+   },
+   "notification_totp_available_message": {
+      "message": "{DOMAIN} kodunuzu kopyalamak için burayı tıklayın"
+   },
+   "notification_totp_available_title": {
+      "message": "İşte kodunuz: {CODE}"
+   },
+   "options_menu_get_30_days_free_label": {
+      "message": "Ücretsiz 30 Gün Edinin"
+   },
+   "options_menu_item_settings_label": {
+      "message": "Ayarlar"
+   },
+   "options_menu_rate_expressvpn_label": {
+      "message": "ExpressVPN Keys'i Oylayın"
+   },
+   "options_menu_section_options_title": {
+      "message": "Seçenekler"
+   },
+   "options_menu_setup_other_devices_label": {
+      "message": "Diğer Cihazlara Kurun"
+   },
+   "options_modal_not_yet_available_generic_text": {
+      "message": "Lütfen sonra tekrar deneyin."
+   },
+   "options_modal_not_yet_available_header": {
+      "message": "Henüz kullanılamıyor"
+   },
+   "other_logins": {
+      "message": "Diğer giriş bilgileri"
+   },
+   "password_generator_capitals": {
+      "message": "Büyük harf"
+   },
+   "password_generator_characters": {
+      "message": "{NUMBER} karakter"
+   },
+   "password_generator_choose_criteria": {
+      "message": "Kriter seçin"
+   },
+   "password_generator_close": {
+      "message": "Kapat"
+   },
+   "password_generator_length": {
+      "message": "Şifre uzunluğu"
+   },
+   "password_generator_numbers": {
+      "message": "Sayı"
+   },
+   "password_generator_password_label": {
+      "message": "Kullanmak için tıklayın"
+   },
+   "password_generator_symbols": {
+      "message": "Simge"
+   },
+   "password_generator_title": {
+      "message": "Önerilen şifre"
+   },
+   "password_generator_use_password": {
+      "message": "Şifreyi Kullan"
+   },
+   "password_strength_0": {
+      "message": "{password_strength_0_bold} Çok hızlı bir şekilde kırılabilir."
+   },
+   "password_strength_0_bold": {
+      "message": "Güvenli değil!"
+   },
+   "password_strength_1": {
+      "message": "{password_strength_1_bold} Çok hızlı bir şekilde kırılabilir."
+   },
+   "password_strength_1_bold": {
+      "message": "Zayıf."
+   },
+   "password_strength_2": {
+      "message": "{password_strength_2_bold} Kırılması {TIME} sürebilir."
+   },
+   "password_strength_2_bold": {
+      "message": "Ortalama."
+   },
+   "password_strength_3": {
+      "message": "{password_strength_3_bold} Kırılması {TIME} sürebilir."
+   },
+   "password_strength_3_bold": {
+      "message": "Güçlü."
+   },
+   "password_strength_4": {
+      "message": "{password_strength_4_bold} Kırılması {TIME} sürebilir"
+   },
+   "password_strength_4_bold": {
+      "message": "Çok güvenli!"
+   },
+   "password_suggestion_add_another_word_or_two": {
+      "message": "Bir veya iki kelime daha ekleyin."
+   },
+   "password_suggestion_avoid_dates": {
+      "message": "Sizinle ilgili tarihlerden ve yıllardan kaçının."
+   },
+   "password_suggestion_avoid_obvious_patterns": {
+      "message": "Bariz klavye kalıplarından kaçının."
+   },
+   "password_suggestion_avoid_recent_years": {
+      "message": "Yakın geçmişteki yıllardan kaçının."
+   },
+   "password_suggestion_avoid_repeats": {
+      "message": "Tekrarlanan kelimelerden ve karakterlerden kaçının."
+   },
+   "password_suggestion_avoid_sequences": {
+      "message": "Dizilerden kaçının."
+   },
+   "password_suggestion_avoid_years": {
+      "message": "Sizinle ilgili yıllardan kaçının."
+   },
+   "password_suggestion_capitalization_does_not_help": {
+      "message": "Büyük harf çok faydalı olmaz."
+   },
+   "password_suggestion_no_need_for_extra_chars": {
+      "message": "Sembollere, rakamlara veya büyük harf kullanımına gerek yok."
+   },
+   "password_suggestion_reversed_word_does_not_help": {
+      "message": "Ters çevrilmiş kelimeleri tahmin etmek kolaydır."
+   },
+   "password_suggestion_substitution_does_not_help": {
+      "message": "\"a\" yerine \"{'@'}\" gibi ikame harflerin tahmin edilmesi kolaydır."
+   },
+   "password_suggestion_uppercase_does_not_help": {
+      "message": "Hepsi büyük harfler çok faydalı olmaz."
+   },
+   "password_suggestion_use_uncommon_words": {
+      "message": "Çeşitli yaygın olmayan kelimeleri kullanmayı deneyin."
+   },
+   "password_warning_common_names_are_easy_to_guess": {
+      "message": "Yaygın ad veya soyad kullanmayın."
+   },
+   "password_warning_dates_are_easy_to_guess": {
+      "message": "Tarihleri tahmin etmek genelde kolaydır."
+   },
+   "password_warning_names_are_easy_to_guess": {
+      "message": "İsimleri tahmin etmek kolaydır."
+   },
+   "password_warning_repeats_are_easy_to_guess": {
+      "message": "\"aaa\" gibi tekrarları tahmin etmek kolaydır."
+   },
+   "password_warning_repeats_are_slightly_harder_to_guess": {
+      "message": "\"abcabcabc\" gibi tekrarları tahmin etmek kolaydır."
+   },
+   "password_warning_sequences_are_easy_to_guess": {
+      "message": "\"6543\" gibi dizileri tahmin etmek kolaydır."
+   },
+   "password_warning_short_patterns_are_easy_to_guess": {
+      "message": "Klavye kalıpları güvenli değildir."
+   },
+   "password_warning_simmilar_to_common_password": {
+      "message": "Yaygın kullanılan bir şifreye çok benziyor."
+   },
+   "password_warning_straight_rows_are_easy_to_guess": {
+      "message": "Düz sıra hâlinde şifreleri tahmin etmek kolaydır."
+   },
+   "password_warning_top_100_common_password": {
+      "message": "En yaygın 100 şifre şunlardır:"
+   },
+   "password_warning_top_10_common_password": {
+      "message": "En yaygın 10 şifre şunlardır:"
+   },
+   "password_warning_very_common_password": {
+      "message": "Bu çok yaygın bir şifre."
+   },
+   "password_warning_word_is_easy_to_guess": {
+      "message": "Tek başına bir kelimeyi tahmin etmek kolaydır."
+   },
+   "password_warning_years_are_easy_to_guess": {
+      "message": "Yakın geçmişteki yılları tahmin etmek kolaydır."
+   },
+   "primary_password_strength_0": {
+      "message": "{primary_password_strength_0_bold}, birkaç kelime daha eklemeyi deneyin.\n"
+   },
+   "primary_password_strength_0_bold": {
+      "message": "Güzel bir başlangıç"
+   },
+   "primary_password_strength_1": {
+      "message": "{primary_password_strength_1_bold}, yazmaya devam edin."
+   },
+   "primary_password_strength_1_bold": {
+      "message": "Oluyor"
+   },
+   "primary_password_strength_2": {
+      "message": "{primary_password_strength_2_bold}, daha fazla kelime eklemeyi deneyin."
+   },
+   "primary_password_strength_2_bold": {
+      "message": "Devam edin"
+   },
+   "primary_password_strength_3": {
+      "message": "{primary_password_strength_3_bold} Giderek güçleniyor!"
+   },
+   "primary_password_strength_3_bold": {
+      "message": "Oldukça iyi"
+   },
+   "primary_password_strength_4": {
+      "message": "{primary_password_strength_4_bold} Başlamaya hazırsınız."
+   },
+   "primary_password_strength_4_bold": {
+      "message": "Çok güçlü!"
+   },
+   "primary_password_strength_empty": {
+      "message": "Birkaç kelime yazın. Örneğin. {primary_password_strength_empty_bold}"
+   },
+   "primary_password_strength_empty_bold": {
+      "message": "SuLambaParlakCam"
+   },
+   "primary_password_strength_new_empty": {
+      "message": "Bir şifre girin. Örneğin; {primary_password_strength_new_empty_bold}"
+   },
+   "primary_password_strength_new_empty_bold": {
+      "message": "R{'@'}bbitPresentFather12!"
+   },
+   "pwm_2fa_added_close": {
+      "message": "Kapat"
+   },
+   "pwm_2fa_added_header": {
+      "message": "2FA doğrulama kodu eklendi"
+   },
+   "pwm_2fa_added_message": {
+      "message": "2FA kurulumunu tamamlamak için kodu web sitesine veya uygulamaya girin."
+   },
+   "pwm_2fa_popup_subtitle": {
+      "message": "2FA Kodu: {CODE}"
+   },
+   "pwm_card_coming_soon_modal_p": {
+      "message": "Yakında kredi/banka kartlarını ekleyebilecek ve düzenleyebileceksiniz."
+   },
+   "pwm_card_expiry_date_label": {
+      "message": "Sona erme tarihi"
+   },
+   "pwm_card_name_on_card_label": {
+      "message": "Kart üzerindeki Ad"
+   },
+   "pwm_card_notes_label": {
+      "message": "Notlar"
+   },
+   "pwm_card_number_label": {
+      "message": "Kart numarası"
+   },
+   "pwm_card_security_code_label": {
+      "message": "Güvenlik Kodu"
+   },
+   "pwm_card_title_label": {
+      "message": "Kart Adı"
+   },
+   "pwm_card_zip_code_label": {
+      "message": "ZIP Kodu"
+   },
+   "pwm_contact_us_label": {
+      "message": "Bizimle İletişime Geçin"
+   },
+   "pwm_create_account_error_modal_title": {
+      "message": "Hesap oluşturulamadı"
+   },
+   "pwm_create_card_option_text": {
+      "message": "Kredi/Banka Kartı Ekle"
+   },
+   "pwm_create_login_option_text": {
+      "message": "Yeni Giriş Bilgisi Ekle"
+   },
+   "pwm_create_login_set_up_2fa": {
+      "message": "2FA Doğrulama Kodunu Ayarlayın"
+   },
+   "pwm_create_secure_note_option_text": {
+      "message": "Güvenli Not Ekle"
+   },
+   "pwm_document_filter_entry_all_categories": {
+      "message": "Tüm Kategoriler"
+   },
+   "pwm_document_filter_entry_credit_debit_cards": {
+      "message": "Kredi/Banka Kartları"
+   },
+   "pwm_document_filter_entry_logins": {
+      "message": "Giriş Bilgileri"
+   },
+   "pwm_document_filter_entry_secure_notes": {
+      "message": "Güvenli Notlar"
+   },
+   "pwm_enter_2fa_setup_confirm": {
+      "message": "Onayla"
+   },
+   "pwm_enter_2fa_setup_header": {
+      "message": "Kurulum anahtarınızı girin"
+   },
+   "pwm_enter_2fa_setup_invalid_key": {
+      "message": "Geçersiz Kurulum Anahtarı"
+   },
+   "pwm_enter_2fa_setup_message_1": {
+      "message": "{DOMAIN} üzerinde 2FA'yı etkinleştirmek ve kurulum anahtarınızı almak için \u003Ca target='_blank' href='{INSTRUCTIONS_URL}'>bu talimatları\u003C/a> izleyin."
+   },
+   "pwm_enter_2fa_setup_message_2": {
+      "message": "\u003Ca target='_blank' href='{URL}'>{DOMAIN}\u003C/a> üzerindeki güvenlik ayarlarınızda 2FA'yı etkinleştirin, ardından aşağıya kurulum anahtarını girin."
+   },
+   "pwm_enter_2fa_setup_message_3": {
+      "message": "Kurulum anahtarınızı almak için web sitesinin veya uygulamanın güvenlik ayarları altında 2FA'yı etkinleştirin."
+   },
+   "pwm_enter_2fa_setup_scan_page_qr": {
+      "message": "Bunun yerine sayfayı QR kodu için tarayın"
+   },
+   "pwm_enter_2fa_setup_textinput_hint": {
+      "message": "örn: FGPZA75GN46JAK76"
+   },
+   "pwm_enter_2fa_setup_textinput_label": {
+      "message": "Kurulum Anahtarı"
+   },
+   "pwm_enter_password_again_code_label": {
+      "message": "Şifreyi Tekrar Girin"
+   },
+   "pwm_entry_add_card_new_header": {
+      "message": "Kart Ekle"
+   },
+   "pwm_entry_add_new_header": {
+      "message": "Yeni Giriş Bilgisi Ekle"
+   },
+   "pwm_entry_add_secure_note_new_header": {
+      "message": "Güvenli Not Ekle"
+   },
+   "pwm_entry_list_add_first_login_header": {
+      "message": "Her şey tamam!"
+   },
+   "pwm_entry_list_add_first_login_text": {
+      "message": "Güvenle saklamak, senkronize etmek ve cihazlarınızda kolayca doldurmak için bir giriş bilgisi, not veya kredi kartı ekleyerek başlayın."
+   },
+   "pwm_entry_list_add_first_login_tooltip": {
+      "message": "İlk giriş bilgilerinizi eklemek için buraya tıklayın\n"
+   },
+   "pwm_entry_no_result_found": {
+      "message": "Sonuç yok"
+   },
+   "pwm_entry_preview_name_label": {
+      "message": "İsim"
+   },
+   "pwm_entry_search_all_items": {
+      "message": "Tüm ögeleri arayın"
+   },
+   "pwm_entry_view_2FA_label": {
+      "message": "2FA doğrulama kodu"
+   },
+   "pwm_entry_view_created_on_label": {
+      "message": "{DATE} tarihinde oluşturuldu"
+   },
+   "pwm_entry_view_delete_btn": {
+      "message": "Sil"
+   },
+   "pwm_entry_view_edit_btn": {
+      "message": "Düzenle"
+   },
+   "pwm_entry_view_email_label": {
+      "message": "E-posta veya kullanıcı adı"
+   },
+   "pwm_entry_view_login_btn": {
+      "message": "Şimdi Giriş Yap"
+   },
+   "pwm_entry_view_name_label": {
+      "message": "İsim (gerekli)"
+   },
+   "pwm_entry_view_notes_label": {
+      "message": "Notlar"
+   },
+   "pwm_entry_view_pw_label": {
+      "message": "Şifre"
+   },
+   "pwm_entry_view_save_btn": {
+      "message": "Kaydet"
+   },
+   "pwm_entry_view_updated_on_label": {
+      "message": "En son {DATE} tarihinde düzenlendi"
+   },
+   "pwm_entry_view_url_label": {
+      "message": "Web sitesi URL'si"
+   },
+   "pwm_error_api_unreachable_step_1": {
+      "message": "VPN'inizi açın"
+   },
+   "pwm_error_api_unreachable_step_2": {
+      "message": "Farklı bir VPN sunucusu konumu seçin"
+   },
+   "pwm_error_api_unreachable_step_3": {
+      "message": "Hiçbiri işe yaramazsa [Destek ile iletişime geçin]"
+   },
+   "pwm_error_api_unreachable_text_1": {
+      "message": "Bu sorunu gidermek için şu adımları izleyin:"
+   },
+   "pwm_error_no_access_btn_primary": {
+      "message": "Tekrar Deneyin"
+   },
+   "pwm_error_no_access_btn_secondary": {
+      "message": "Destek ile İletişime Geçin"
+   },
+   "pwm_error_no_access_header": {
+      "message": "ExpressVPN Keys'e Erişilemiyor"
+   },
+   "pwm_error_no_access_text_1": {
+      "message": "Şifre yöneticisine birkaç dakika sonra tekrar erişmeyi deneyin."
+   },
+   "pwm_error_offline_text_1": {
+      "message": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin."
+   },
+   "pwm_generic_error_modal_text": {
+      "message": "Lütfen birkaç dakika bekleyin ve ardından tekrar deneyin."
+   },
+   "pwm_hint_entry_edit_saved": {
+      "message": "Kaydedildi. Lütfen {URL} sayfasında giriş bilgilerinizi güncellediğinizden emin olun."
+   },
+   "pwm_import_existing_logins_option_text": {
+      "message": "Mevcut Giriş Bilgilerini İçe Aktar"
+   },
+   "pwm_locked_vault_password_manager": {
+      "message": "ExpressVPN Keys"
+   },
+   "pwm_locked_vault_unlock": {
+      "message": "Şifre yöneticinizi açmak için uzantı simgesine veya {COMMAND} komutuna basın."
+   },
+   "pwm_modal_cancel_entry_confirm_header": {
+      "message": "Emin misiniz?"
+   },
+   "pwm_modal_cancel_entry_confirm_text": {
+      "message": "Değişiklikleriniz kaydedilmeyecek."
+   },
+   "pwm_modal_delete_entry_cancel_button": {
+      "message": "İptal"
+   },
+   "pwm_modal_delete_entry_confirm_button": {
+      "message": "Kalıcı Olarak Sil"
+   },
+   "pwm_modal_delete_entry_confirm_header": {
+      "message": "Emin misiniz?"
+   },
+   "pwm_modal_delete_entry_confirm_text": {
+      "message": "Bu öğe kalıcı olarak silinecek."
+   },
+   "pwm_modal_discard_changes_cancel_button": {
+      "message": "Düzenlemeye Devam Et"
+   },
+   "pwm_modal_discard_changes_confirm_button": {
+      "message": "Değişiklikleri Geri Al"
+   },
+   "pwm_modal_expiry_date_confirm_button": {
+      "message": "Kaydet"
+   },
+   "pwm_modal_save_entry_error_cancel_button": {
+      "message": "İptal"
+   },
+   "pwm_modal_save_entry_error_header": {
+      "message": "Kaydedilemedi"
+   },
+   "pwm_modal_save_entry_error_retry_button": {
+      "message": "Tekrar Deneyin"
+   },
+   "pwm_modal_save_entry_error_text": {
+      "message": "Lütfen birkaç dakika içinde tekrar deneyin."
+   },
+   "pwm_network_error_modal_text": {
+      "message": "Lütfen bağlantınızı kontrol edin ve ardından tekrar deneyin."
+   },
+   "pwm_no_cards_saved_add_card": {
+      "message": "Kart Ekle"
+   },
+   "pwm_no_cards_saved_description": {
+      "message": "İnternette sıklıkla kullandığınız kartlar için ödeme bilgilerini güvenli bir şekilde saklayın."
+   },
+   "pwm_no_cards_saved_title": {
+      "message": "Hiçbir kart kaydedilmedi"
+   },
+   "pwm_no_logins_saved_add_login": {
+      "message": "Yeni Giriş Bilgisi Ekle"
+   },
+   "pwm_no_logins_saved_description": {
+      "message": "E-posta hesabınız gibi, sıkça kullandığınız bir hesapla başlamak ister misiniz?"
+   },
+   "pwm_no_logins_saved_title": {
+      "message": "Hiç giriş bilgisi kaydedilmedi"
+   },
+   "pwm_no_notes_saved_add_note": {
+      "message": "Güvenli Not Ekle"
+   },
+   "pwm_no_notes_saved_description": {
+      "message": "İstediğiniz zaman erişebileceğiniz notları ve hassas bilgileri güvenli bir şekilde saklayın."
+   },
+   "pwm_no_notes_saved_title": {
+      "message": "Hiç güvenli not kaydedilmedi"
+   },
+   "pwm_popover_card_copy_card_number_text": {
+      "message": "Kart Numarasını Kopyala"
+   },
+   "pwm_popover_card_copy_name_text": {
+      "message": "Karttaki Adı Kopyala"
+   },
+   "pwm_popover_card_copy_security_code_text": {
+      "message": "Güvenlik Kodunu Kopyala"
+   },
+   "pwm_popover_card_delete_text": {
+      "message": "Sil"
+   },
+   "pwm_popover_card_edit_details_text": {
+      "message": "Bilgileri Düzenle"
+   },
+   "pwm_popover_login_copy_2fa_text": {
+      "message": "2FA Kodunu Kopyala"
+   },
+   "pwm_popover_login_copy_password_text": {
+      "message": "Şifreyi Kopyala"
+   },
+   "pwm_popover_login_copy_username_text": {
+      "message": "E-postayı/Kullanıcı Adını Kopyala"
+   },
+   "pwm_popover_login_delete_text": {
+      "message": "Giriş Bilgisini Sil"
+   },
+   "pwm_popover_login_edit_details_text": {
+      "message": "Giriş Bilgilerini Düzenle"
+   },
+   "pwm_popover_note_copy_content_text": {
+      "message": "İçeriği Kopyala"
+   },
+   "pwm_popover_note_delete_text": {
+      "message": "Sil"
+   },
+   "pwm_popover_note_edit_details_text": {
+      "message": "Bilgileri Düzenle"
+   },
+   "pwm_primary_pw_modal_generic_error_btn_primary": {
+      "message": "Tekrar Deneyin"
+   },
+   "pwm_primary_pw_modal_generic_error_header": {
+      "message": "Şifre Belirlenemiyor"
+   },
+   "pwm_primary_pw_modal_generic_error_text": {
+      "message": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin."
+   },
+   "pwm_primary_pw_modal_pw_exists_btn_primary": {
+      "message": "Daha Fazlasını Öğrenin"
+   },
+   "pwm_primary_pw_modal_pw_exists_header": {
+      "message": "Şifre Belirlenemiyor"
+   },
+   "pwm_primary_pw_modal_pw_exists_text": {
+      "message": "Bu ExpressVPN hesabı zaten bir şifre yöneticisi hesabına sahip. Kilidini açmak için ExpressVPN Keys uzantısına tıklayın."
+   },
+   "pwm_primary_pw_set_form_pw": {
+      "message": "Birincil şifreniz"
+   },
+   "pwm_primary_pw_set_form_pw_error_match": {
+      "message": "Şifre yukarıdakiyle eşleşmiyor"
+   },
+   "pwm_primary_pw_set_form_pw_error_strength": {
+      "message": "Şifreniz yeterince güçlü değil"
+   },
+   "pwm_primary_pw_set_form_pw_info_strength": {
+      "message": "Birkaç kelime yazın. Örneğin. {pwm_primary_pw_set_form_pw_info_strength_bold}"
+   },
+   "pwm_primary_pw_set_form_pw_info_strength_bold": {
+      "message": "SuLambaParlakCam"
+   },
+   "pwm_primary_pw_set_form_pw_label": {
+      "message": "Birincil şifre"
+   },
+   "pwm_primary_pw_set_form_pw_reenter": {
+      "message": "Birincil şifrenizi yeniden girin"
+   },
+   "pwm_primary_pw_set_form_submit": {
+      "message": "Birincil Şifreyi Belirleyin"
+   },
+   "pwm_primary_pw_set_header": {
+      "message": "Birincil şifreniz"
+   },
+   "pwm_primary_pw_set_help_link": {
+      "message": "Şifrenizle ilgili yardıma mı ihtiyacınız var?"
+   },
+   "pwm_primary_pw_set_learn": {
+      "message": "Şifrenizle ilgili yardıma mı ihtiyacınız var?"
+   },
+   "pwm_primary_pw_set_new_learn": {
+      "message": "Güvenli, hatırlanabilir bir şifre için ipuçları"
+   },
+   "pwm_primary_pw_set_new_text": {
+      "message": "Keys'te depolanan giriş bilgilerini şifreleyen güvenli, akılda kalıcı şifrenizi yazın."
+   },
+   "pwm_primary_pw_set_security_modal_edit_password": {
+      "message": "Şifreyi Düzenle"
+   },
+   "pwm_primary_pw_set_security_modal_p1": {
+      "message": "Birincil şifrenizi daha güvenli hâle getirmek için daha fazla kelime ekleyin."
+   },
+   "pwm_primary_pw_set_security_modal_p2": {
+      "message": "Yardıma mı ihtiyacınız var? Güçlü şifreler oluşturmaya yönelik ipuçlarımızı okuyun."
+   },
+   "pwm_primary_pw_set_security_modal_read_tips": {
+      "message": "İpucu Okuyun"
+   },
+   "pwm_primary_pw_set_security_modal_title": {
+      "message": "Şifre güvenliği sağlanmadı"
+   },
+   "pwm_primary_pw_set_text": {
+      "message": "Kaydedilmiş giriş bilgilerinizi şifrelemek için kullanılacak akılda kalıcı bir birincil şifre oluşturun. ExpressVPN şifrenizle aynı olmamalıdır."
+   },
+   "pwm_recovery_code_cancel": {
+      "message": "İptal"
+   },
+   "pwm_recovery_code_continue": {
+      "message": "İlerle"
+   },
+   "pwm_recovery_code_copied_hint": {
+      "message": "Kurtarma kodunu kopyaladınız. Lütfen bu kodu yazdırın ve/veya güvenli bir yerde kaydedin."
+   },
+   "pwm_recovery_code_copy_code": {
+      "message": "Kodu kopyala"
+   },
+   "pwm_recovery_code_download_pdf": {
+      "message": "PDF Olarak İndir"
+   },
+   "pwm_recovery_code_downloaded_hint": {
+      "message": "Kurtarma kodunu indirdiniz. Lütfen kodu yazdırın ve/veya güvenli bir yerde saklayın."
+   },
+   "pwm_recovery_code_header": {
+      "message": "Kurtarma kodunuz"
+   },
+   "pwm_recovery_code_pdf_content_date_text": {
+      "message": "{TIME} tarihinde oluşturuldu"
+   },
+   "pwm_recovery_code_pdf_content_header_text": {
+      "message": "Şifre Yöneticisi"
+   },
+   "pwm_recovery_code_pdf_content_instruction_text": {
+      "message": "Birincil şifrenizi kaybederseniz öğelerinize erişmenin tek yolu bu kurtarma kodunu kullanmaktır."
+   },
+   "pwm_recovery_code_pdf_content_reset_instruction_text": {
+      "message": "Kurtarma kodunuzu Seçenekler sekmesinde istediğiniz zaman sıfırlayabilirsiniz."
+   },
+   "pwm_recovery_code_pdf_content_title_text": {
+      "message": "Kurtarma kodunuz"
+   },
+   "pwm_recovery_code_pdf_content_warning_text": {
+      "message": "Kurtarma kodunuzu güvenli bir yerde sakladığınızdan emin olun."
+   },
+   "pwm_recovery_code_pdf_document_file_name": {
+      "message": "ExpressVPN Keys Kurtarma Kodu - {TIME}"
+   },
+   "pwm_recovery_code_text": {
+      "message": "\u003Cb>Kurtarma kodunuzu kopyalayın veya kaydedin ve güvenli bir yerde saklayın.\u003C/b> Birincil şifrenizi kaybetmeniz durumunda öğelerinize erişmenin tek yolu bu kod olacaktır."
+   },
+   "pwm_recovery_code_warning_modal_text_p1": {
+      "message": "Kurtarma kodunuzu kopyalamadınız veya kaydetmediniz."
+   },
+   "pwm_recovery_code_warning_modal_text_p2": {
+      "message": "ExpressVPN birincil şifrenize, kurtarma kodunuza veya kaydedilen giriş bilgilerinize erişemez, bu yüzden kodu kopyaladığınızdan veya güvenli bir konumda kaydettiğinizden emin olun."
+   },
+   "pwm_recovery_code_warning_modal_title": {
+      "message": "Bir sonraki adıma ilerlemek istiyor musunuz?"
+   },
+   "pwm_report_another": {
+      "message": "Başka Sorun Bildirin"
+   },
+   "pwm_report_auto_fill": {
+      "message": "Oto. Doldur Sorunu Bildirin"
+   },
+   "pwm_request_mfa_error_modal_title": {
+      "message": "E-posta gönderilemedi"
+   },
+   "pwm_reset_recovery_code_header": {
+      "message": "Yeni kurtarma kodunuz"
+   },
+   "pwm_reset_recovery_code_success_hint": {
+      "message": "Kurtarma kodu başarıyla sıfırlandı."
+   },
+   "pwm_reset_recovery_code_success_p1": {
+      "message": "{pwm_reset_recovery_code_success_p1_bold} Birincil şifrenizi kaybederseniz bu kod, öğelerinize erişmenin tek yoludur."
+   },
+   "pwm_reset_recovery_code_success_p1_bold": {
+      "message": "Güvenli bir yerde saklamayı unutmayın."
+   },
+   "pwm_reset_recovery_code_success_p2": {
+      "message": "Artık bu sekmeyi kapatabilirsiniz."
+   },
+   "pwm_reset_recovery_code_text": {
+      "message": "{pwm_reset_recovery_code_text_bold} Birincil şifrenizi kaybederseniz bu kod öğelerinize erişmenin tek yoludur."
+   },
+   "pwm_reset_recovery_code_text_bold": {
+      "message": "Kurtarma kodunuzu kopyalayın veya kaydedin ve güvenli bir yerde saklayın."
+   },
+   "pwm_secure_note_coming_soon_modal_continue": {
+      "message": "Tamam"
+   },
+   "pwm_secure_note_coming_soon_modal_title": {
+      "message": "Çok yakında"
+   },
+   "pwm_secure_note_notes_label": {
+      "message": "Notlar"
+   },
+   "pwm_secure_note_notes_placeholder": {
+      "message": "Pasaportunuz, tıbbi veya sigorta bilgileriniz gibi gizli tutmak istediğiniz her şeyi yazın."
+   },
+   "pwm_secure_note_title_label": {
+      "message": "Başlık (gerekli)"
+   },
+   "pwm_setup_add_first_item": {
+      "message": "İlk ögenizi ekleyin"
+   },
+   "pwm_setup_add_new_logins": {
+      "message": "Yeni giriş bilgisi ekleyin"
+   },
+   "pwm_setup_import_existing_logins": {
+      "message": "Var olan giriş bilgilerini içe aktar"
+   },
+   "pwm_setup_success_add_logins": {
+      "message": "Giriş Bilgisi Ekleyin"
+   },
+   "pwm_setup_success_header": {
+      "message": "Keys kullanmak için her şey tamam!"
+   },
+   "pwm_setup_success_import_logins": {
+      "message": "Verilerinizi İçe Aktarın"
+   },
+   "pwm_setup_success_text": {
+      "message": "Tarayıcınızda veya bu şifre yöneticilerinden birinde kayıtlı giriş bilgileri, notlar veya kredi/banka kartları var mı?"
+   },
+   "pwm_setup_success_text_p2": {
+      "message": "Başka bir şifre yöneticisinde kayıtlı giriş bilgileriniz mi var?"
+   },
+   "pwm_setup_success_text_p3": {
+      "message": "Kayıtlı giriş bilgilerinizi içe aktarabilirsiniz:"
+   },
+   "pwm_setup_success_text_p4": {
+      "message": "İçe aktarılacak bir şey yok mu? İlk {pwm_setup_success_text_p4_login_bold} öğenizi ekleyin veya {pwm_setup_success_text_p4_secure_note_bold} veya {pwm_setup_success_text_p4_credit_card_bold} eklemek için uzantıyı açın."
+   },
+   "pwm_setup_success_text_p4_credit_card_bold": {
+      "message": "kredi/banka kartı"
+   },
+   "pwm_setup_success_text_p4_login_bold": {
+      "message": "giriş bilgisi"
+   },
+   "pwm_setup_success_text_p4_secure_note_bold": {
+      "message": "güvenli not"
+   },
+   "pwm_unlock_vault_forgot_primary_password_link": {
+      "message": "Birincil Şifreyi unuttunuz mu?"
+   },
+   "pwm_unlock_vault_incorrect_pw_error": {
+      "message": "Birincil şifre hatalı"
+   },
+   "pwm_unlock_vault_locked_header": {
+      "message": "ExpressVPN Keys kilitli"
+   },
+   "pwm_unlock_vault_need_help_link": {
+      "message": "Yardıma ihtiyacınız mı var?"
+   },
+   "pwm_unlock_vault_need_help_modal_text": {
+      "message": "ExpressVPN Keys'i birincil şifrenizle açamazsanız kurtarma kodunuzu kullanabilir veya yardım için bizimle iletişime geçebilirsiniz."
+   },
+   "pwm_unlock_vault_unlock_btn": {
+      "message": "Kilidi Aç"
+   },
+   "pwm_unlock_vault_unlocking_header": {
+      "message": "Açılıyor"
+   },
+   "pwm_use_recovery_code_label": {
+      "message": "Kurtarma Kodunu Kullanın"
+   },
+   "pwm_validate_mfa_network_error_modal_title": {
+      "message": "Hesap doğrulanamadı"
+   },
+   "pwm_verify_account_code_contact_support_label": {
+      "message": "Destek ile İletişime Geçin"
+   },
+   "pwm_verify_account_code_help_link": {
+      "message": "Kodunuzu almadınız mı?"
+   },
+   "pwm_verify_account_code_input_label": {
+      "message": "6 rakamlı doğrulama kodunu girin"
+   },
+   "pwm_verify_account_code_invalid_code": {
+      "message": "Geçersiz kod, lütfen tekrar deneyin"
+   },
+   "pwm_verify_account_code_modal_text1": {
+      "message": "Doğrulama e-postasını almadıysanız lütfen birkaç dakika daha bekleyin ve ayrıca spam kutunuza bakın."
+   },
+   "pwm_verify_account_code_modal_text2": {
+      "message": "Hâlâ görmüyor musunuz? Kodunuzu yeniden göndermeyi deneyin veya yardım için Destek ile iletişime geçin."
+   },
+   "pwm_verify_account_code_modal_title": {
+      "message": "Kodunuzu almadınız mı?"
+   },
+   "pwm_verify_account_code_resend_code_label": {
+      "message": "Kodu Yeniden Gönder"
+   },
+   "pwm_verify_account_code_resend_code_please_wait_label": {
+      "message": "Lütfen {SECONDS} saniye bekleyin"
+   },
+   "pwm_verify_account_code_submit_button_label": {
+      "message": "İlerle"
+   },
+   "pwm_verify_account_code_text_p1": {
+      "message": "Hesap sahibi olduğunuzu doğrulamak için e-posta adresinize kod gönderdik."
+   },
+   "pwm_verify_account_code_text_p2": {
+      "message": "Lütfen gelen kutunuzu kontrol edin ve ExpressVPN Keys hesabınızın kurulumunu tamamlamak için 6 haneli doğrulama kodunu girin."
+   },
+   "pwm_verify_account_header": {
+      "message": "Hesabınızı doğrulayın"
+   },
+   "pwm_verify_account_need_help": {
+      "message": "Yardıma mı ihtiyacınız var? [Destek ile İletişime Geçin]."
+   },
+   "pwm_verify_account_send_email_button": {
+      "message": "E-posta Gönder"
+   },
+   "pwm_verify_account_text_p1": {
+      "message": "Bu cihazda ExpressVPN Keys kurmak için hesap sahibi olduğunuzu onaylamamız gerekiyor."
+   },
+   "pwm_verify_account_text_p2": {
+      "message": "Aşağıdan \"E-posta Gönder\"i seçin, ardından e-postada verilen 6 haneli doğrulama kodunu girin."
+   },
+   "pwm_verify_password_need_help_modal_text": {
+      "message": "Birincil parolanızı doğrulayamıyorsanız kurtarma kodunuzu kullanabilirsiniz veya yardım için {pwm_contact_us_label}"
+   },
+   "recovery_code_cancel_setup": {
+      "message": "Yüklemeyi iptal et"
+   },
+   "reset_recovery_code_verify_password_text": {
+      "message": "ExpressVPN Keys için kurtarma kodunuzu sıfırlamak için sağ tarafa birincil şifrenizi girin."
+   },
+   "save_diagnostics": {
+      "message": "Hata Bilgisini Kaydet"
+   },
+   "second": {
+      "message": "saniye"
+   },
+   "seconds": {
+      "message": "saniye"
+   },
+   "settings_help_improve_expressvpn_keys": {
+      "message": "ExpressVPN Keys'i iyileştirin"
+   },
+   "settings_help_improve_share_crash": {
+      "message": "Çökme raporlarını ve kullanılabilirlik tanılarını paylaşın. Bu raporlar hiçbir zaman kişisel bilgileri içermez."
+   },
+   "settings_menu_item_auto_lock_settings_label": {
+      "message": "Otomatik kilitleme ayarları"
+   },
+   "settings_menu_item_change_password_label": {
+      "message": "Birincil şifreyi değiştirin"
+   },
+   "settings_menu_item_open_shortcut_label": {
+      "message": "Klavye kısayolu ile aç"
+   },
+   "settings_menu_item_reset_recovery_code_label": {
+      "message": "Kurtarma kodunuzu sıfırlayın"
+   },
+   "settings_menu_reset_recovery_code_modal_cancel_label": {
+      "message": "İptal"
+   },
+   "settings_menu_reset_recovery_code_modal_continue_label": {
+      "message": "Kurtarma kodunuzu sıfırlayın"
+   },
+   "settings_menu_reset_recovery_code_modal_p": {
+      "message": "Size yeni bir kurtarma kodu verilecek ve eski kodunuz artık çalışmayacak."
+   },
+   "settings_menu_reset_recovery_code_modal_title": {
+      "message": "Emin misiniz?"
+   },
+   "settings_menu_section_data_title": {
+      "message": "Veri"
+   },
+   "settings_menu_section_general_title": {
+      "message": "Genel"
+   },
+   "settings_menu_section_other_title": {
+      "message": "Diğer"
+   },
+   "settings_menu_section_security_title": {
+      "message": "Güvenlik"
+   },
+   "settings_system_goes_to_sleep": {
+      "message": "Sistem uykuya daldıktan sonra"
+   },
+   "settings_system_idle": {
+      "message": "Sistem boşta kaldıktan sonra"
+   },
+   "some_logins_saved_for_website": {
+      "message": "{HOST} için giriş bilgisi kaydedildi"
+   },
+   "step_X_of_Y": {
+      "message": "{STEP}/{TOTAL} adım"
+   },
+   "try_again_label": {
+      "message": "Tekrar Deneyin"
+   },
+   "update_btn_label": {
+      "message": "Güncelle"
+   },
+   "use_recovery_code_header": {
+      "message": "Kurtarma kodunu kullanın"
+   },
+   "use_recovery_code_incorrect_code_error": {
+      "message": "Geçersiz kurtarma kodu"
+   },
+   "use_recovery_code_input_label": {
+      "message": "Kurtarma kodu"
+   },
+   "use_recovery_code_text": {
+      "message": "ExpressVPN Keys'in birincil şifresini sıfırlamak için kurtarma kodunuzu girin."
+   },
+   "year": {
+      "message": "yıl"
+   },
+   "years": {
+      "message": "yıl"
+   }
+}

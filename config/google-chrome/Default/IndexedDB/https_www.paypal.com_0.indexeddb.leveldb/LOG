@@ -1,0 +1,6 @@
+2024/06/01-01:51:11.910 252f Creating DB /home/light/.config/google-chrome/Default/IndexedDB/https_www.paypal.com_0.indexeddb.leveldb since it was missing.
+2024/06/01-01:51:11.919 252f Reusing MANIFEST /home/light/.config/google-chrome/Default/IndexedDB/https_www.paypal.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/01-01:52:06.123 252f Level-0 table #5: started
+2024/06/01-01:52:06.130 252f Level-0 table #5: 3112 bytes OK
+2024/06/01-01:52:06.134 252f Delete type=0 #3
+2024/06/01-01:52:06.134 252f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

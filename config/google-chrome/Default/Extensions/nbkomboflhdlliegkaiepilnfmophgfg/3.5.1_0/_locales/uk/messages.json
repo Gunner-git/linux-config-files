@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Конструктор"
+   },
+   "description": {
+      "message": "Зміна смуги прогресу Youtube™ з веселої колекції. Зробіть свій Youtube™ чудовим!"
+   },
+   "go_to_site": {
+      "message": "Відкрити сторінку YouTube"
+   },
+   "go_to_site_pb": {
+      "message": "Перейти на сайт"
+   },
+   "more": {
+      "message": "Хочу ще"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "Щоб розширення працювало, потрібно відкрити YouTube на активній вкладці!"
+   },
+   "noresult": {
+      "message": "Нічого не знайдено? Завітайте на наш веб-сайт і візьміть собі нову, блискучу шкалу прогрес бару для YouTube безкоштовно!"
+   },
+   "search_placeholder": {
+      "message": "Пошук ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

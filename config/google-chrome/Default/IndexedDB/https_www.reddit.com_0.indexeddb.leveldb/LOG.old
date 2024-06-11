@@ -1,0 +1,15 @@
+2024/06/08-03:20:27.292 bdf Reusing MANIFEST /home/light/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/08-03:20:27.293 bdf Recovering log #15
+2024/06/08-03:20:27.293 bdf Reusing old log /home/light/.config/google-chrome/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000015.log 
+2024/06/08-03:20:59.307 bdf Level-0 table #20: started
+2024/06/08-03:20:59.311 bdf Level-0 table #20: 1140 bytes OK
+2024/06/08-03:20:59.315 bdf Delete type=0 #15
+2024/06/08-03:20:59.315 bdf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/08-03:20:59.316 bdf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 777 : 1
+2024/06/08-03:20:59.316 bdf Compacting 1@1 + 1@2 files
+2024/06/08-03:20:59.319 bdf Generated table #21@1: 23 keys, 800 bytes
+2024/06/08-03:20:59.319 bdf Compacted 1@1 + 1@2 files => 800 bytes
+2024/06/08-03:20:59.323 bdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/08-03:20:59.323 bdf Delete type=2 #17
+2024/06/08-03:20:59.323 bdf Delete type=2 #20
+2024/06/08-03:20:59.323 bdf Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00v\x002\x00_\x00e\x00v\x00e\x00n\x00t\x00_\x00b\x00o\x00i\x00l\x00e\x00r\x00_\x00p\x00l\x00a\x00t\x00e' @ 777 : 1 .. (end); will stop at (end)

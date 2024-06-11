@@ -1,0 +1,17 @@
+2024-06-08 18:33:54.322 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-06-08 18:33:54.322 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-06-08 18:33:54.322 [info] Experiment 'pythonSurveyNotification' is active
+2024-06-08 18:33:54.322 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-06-08 18:33:54.322 [info] Experiment 'pythonTestAdapter' is active
+2024-06-08 18:33:54.322 [info] Default formatter is set to null for workspace /home/light/code/nifi/nifi-2.0.0-M3/logs
+2024-06-08 18:33:54.322 [info] Starting Environment refresh
+2024-06-08 18:33:54.322 [info] > hatch env show --json
+2024-06-08 18:33:54.322 [info] cwd: .
+2024-06-08 18:33:54.322 [info] Python interpreter path: /bin/python3
+2024-06-08 18:33:55.006 [info] > pyenv which python
+2024-06-08 18:33:55.006 [info] cwd: .
+2024-06-08 18:33:55.036 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2024.8.0/python_files/interpreterInfo.py
+2024-06-08 18:33:55.036 [info] Environments refresh paths discovered: 744 milliseconds
+2024-06-08 18:33:55.086 [info] Environments refresh finished (event): 794 milliseconds
+2024-06-08 18:33:55.088 [info] Environment refresh took 797 milliseconds
+2024-06-08 18:33:56.355 [info] Starting Pylance language server.

@@ -1,0 +1,32 @@
+{
+  "description": {
+    "message": "Baguhin ang bar sa pag-unlad ng Youtube™ sa custom mula sa masaya na koleksyon. Gawin ang kahanga-hangang player ng iyong Youtube™!"
+  },
+  "name": {
+    "message": "Custom Progress Bar for YouTube™"
+  },
+  "short_name": {
+    "message": "Custom Progress Bar for YouTube™"
+  },
+  "noresult": {
+    "message": "Walang nahanap? Tumungo sa aming website at kunin ang iyong sarili ng bago, makintab na progress bar nang libre!"
+  },
+  "noYouTube": {
+    "message": "Dapat ay nakabukas ang YouTube sa aktibong tab para gumana ang extension!"
+  },
+  "go_to_site": {
+    "message": "Buksan ang pahina ng YouTube"
+  },
+  "go_to_site_pb": {
+    "message": "Pumunta sa site"
+  },
+  "search_placeholder": {
+    "message": "Maghanap ..."
+  },
+  "constructor": {
+    "message": "Tagabuo"
+  },
+  "more": {
+    "message": "Higit pa"
+  }
+}

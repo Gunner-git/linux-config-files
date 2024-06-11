@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "ตัวสร้าง"
+   },
+   "description": {
+      "message": "เปลี่ยนแถบความคืบหน้าของ YouTube ™เพื่อกำหนดค่าจากคอลเล็กชันความสนุก ทำให้เครื่องเล่น YouTube ™ของคุณน่ากลัว!"
+   },
+   "go_to_site": {
+      "message": "Open YouTube page"
+   },
+   "go_to_site_pb": {
+      "message": "ไปที่ไซต์"
+   },
+   "more": {
+      "message": "มากกว่า"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "You must have YouTube open in the active tab for extension to work!"
+   },
+   "noresult": {
+      "message": "Nothing found? Head over to our website and grab yourself a brand new, shiny progress bar for free!"
+   },
+   "search_placeholder": {
+      "message": "ค้นหา ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

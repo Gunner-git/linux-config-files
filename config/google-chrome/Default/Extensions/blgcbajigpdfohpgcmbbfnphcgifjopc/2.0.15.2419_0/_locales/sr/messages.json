@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Bezbedno čuvajte i popunjavajte lozinke u svom pretraživaču i brže se prijavljujte na sajtove."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Bezbedno čuvajte i popunjavajte lozinke u svom pretraživaču i brže se prijavljujte na sajtove."
+   },
+   "app_description_text": {
+      "message": "Bezbedno čuvajte i popunjavajte lozinke u svom pretraživaču i brže se prijavljujte na sajtove."
+   },
+   "app_description_text_alpha": {
+      "message": "Bezbedno čuvajte i popunjavajte lozinke u svom pretraživaču i brže se prijavljujte na sajtove."
+   },
+   "app_description_text_beta": {
+      "message": "Bezbedno čuvajte i popunjavajte lozinke u svom pretraživaču i brže se prijavljujte na sajtove."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: menadžer lozinki"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: menadžer lozinki Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: menadžer lozinki Beta"
+   }
+}

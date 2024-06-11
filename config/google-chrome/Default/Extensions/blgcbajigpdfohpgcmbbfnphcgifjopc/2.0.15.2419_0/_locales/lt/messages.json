@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Salva e compila in modo sicuro un numero illimitato di password nel tuo browser e accedi più velocemente ai siti."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Salva e compila in modo sicuro un numero illimitato di password nel tuo browser e accedi più velocemente ai siti."
+   },
+   "app_description_text": {
+      "message": "Salva e compila in modo sicuro un numero illimitato di password nel tuo browser e accedi più velocemente ai siti."
+   },
+   "app_description_text_alpha": {
+      "message": "Salva e compila in modo sicuro un numero illimitato di password nel tuo browser e accedi più velocemente ai siti."
+   },
+   "app_description_text_beta": {
+      "message": "Salva e compila in modo sicuro un numero illimitato di password nel tuo browser e accedi più velocemente ai siti."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Gestore di password"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Gestore di password Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Gestore di password Beta"
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "构造函数"
+   },
+   "description": {
+      "message": "将Youtube™进度条更改为来自有趣收藏的自定义。让你的Youtube™播放器真棒！"
+   },
+   "go_to_site": {
+      "message": "打开 YouTube 页面"
+   },
+   "go_to_site_pb": {
+      "message": "前往网站"
+   },
+   "more": {
+      "message": "更多的"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "您必须在活动选项卡中打开 YouTube 才能使扩展发挥作用！"
+   },
+   "noresult": {
+      "message": "什么都没找到？ 前往我们的网站，免费为自己获取一个全新的、闪亮的进度条！"
+   },
+   "search_placeholder": {
+      "message": "搜索 ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

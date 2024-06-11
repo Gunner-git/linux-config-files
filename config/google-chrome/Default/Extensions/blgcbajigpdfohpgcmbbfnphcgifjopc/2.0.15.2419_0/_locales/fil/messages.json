@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Ligtas na i-save at punan ng walang limitasyong mga password ang iyong browser at mag-sign in sa mga site nang mas mabilis."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Ligtas na i-save at punan ng walang limitasyong mga password ang iyong browser at mag-sign in sa mga site nang mas mabilis."
+   },
+   "app_description_text": {
+      "message": "Ligtas na i-save at punan ng walang limitasyong mga password ang iyong browser at mag-sign in sa mga site nang mas mabilis."
+   },
+   "app_description_text_alpha": {
+      "message": "Ligtas na i-save at punan ng walang limitasyong mga password ang iyong browser at mag-sign in sa mga site nang mas mabilis."
+   },
+   "app_description_text_beta": {
+      "message": "Ligtas na i-save at punan ng walang limitasyong mga password ang iyong browser at mag-sign in sa mga site nang mas mabilis."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Salasanojen hallinta"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Salasanojen hallinta (Alpha)"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Salasanojen hallinta (Beta)"
+   }
+}

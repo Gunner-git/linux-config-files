@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Simpan dengan aman dan isi kata sandi tanpa batas di browser Anda serta masuk ke situs dengan lebih cepat."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Simpan dengan aman dan isi kata sandi tanpa batas di browser Anda serta masuk ke situs dengan lebih cepat."
+   },
+   "app_description_text": {
+      "message": "Simpan dengan aman dan isi kata sandi tanpa batas di browser Anda serta masuk ke situs dengan lebih cepat."
+   },
+   "app_description_text_alpha": {
+      "message": "Simpan dengan aman dan isi kata sandi tanpa batas di browser Anda serta masuk ke situs dengan lebih cepat."
+   },
+   "app_description_text_beta": {
+      "message": "Simpan dengan aman dan isi kata sandi tanpa batas di browser Anda serta masuk ke situs dengan lebih cepat."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Pengelola Kata Sandi"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Pengelola Kata Sandi Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Pengelola Kata Sandi Beta"
+   }
+}

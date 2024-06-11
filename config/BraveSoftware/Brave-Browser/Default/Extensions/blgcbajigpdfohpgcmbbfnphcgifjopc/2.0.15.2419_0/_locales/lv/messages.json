@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Droši saglabājiet un aizpildiet neierobežotu skaitu paroļu savā pārlūkprogrammā, lai autorizētos vietnēs ātrāk."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Droši saglabājiet un aizpildiet neierobežotu skaitu paroļu savā pārlūkprogrammā, lai autorizētos vietnēs ātrāk."
+   },
+   "app_description_text": {
+      "message": "Droši saglabājiet un aizpildiet neierobežotu skaitu paroļu savā pārlūkprogrammā, lai autorizētos vietnēs ātrāk."
+   },
+   "app_description_text_alpha": {
+      "message": "Droši saglabājiet un aizpildiet neierobežotu skaitu paroļu savā pārlūkprogrammā, lai autorizētos vietnēs ātrāk."
+   },
+   "app_description_text_beta": {
+      "message": "Droši saglabājiet un aizpildiet neierobežotu skaitu paroļu savā pārlūkprogrammā, lai autorizētos vietnēs ātrāk."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Paroļu pārvaldnieks"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Paroļu pārvaldnieks Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Paroļu pārvaldnieks Beta"
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Konstruktor"
+   },
+   "description": {
+      "message": "Zmień pasek postępu Youtube™ na niestandardowy z zabawnej kolekcji. Spraw, by Twój odtwarzacz Youtube™ był niesamowity!"
+   },
+   "go_to_site": {
+      "message": "Otwórz stronę YouTube"
+   },
+   "go_to_site_pb": {
+      "message": "Przejdź do serwisu"
+   },
+   "more": {
+      "message": "Więcej"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "Aby rozszerzenie zadziałało, musisz mieć otwarty YouTube w aktywnej karcie!"
+   },
+   "noresult": {
+      "message": "Nic nie znaleziono? Wejdź na naszą stronę i zdobądź zupełnie nowy, błyszczący pasek postępu za darmo!"
+   },
+   "search_placeholder": {
+      "message": "Szukaj ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

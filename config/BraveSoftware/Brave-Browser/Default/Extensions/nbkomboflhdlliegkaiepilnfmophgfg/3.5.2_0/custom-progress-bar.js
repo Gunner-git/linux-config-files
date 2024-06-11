@@ -1,0 +1,1 @@
+chrome.runtime.sendMessage("nbkomboflhdlliegkaiepilnfmophgfg",{action:"get"},(e=>{console.log("start the initialization worker")}));

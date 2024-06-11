@@ -1,0 +1,43 @@
+2024-06-11 01:41:44.963 [info] Log level: Info
+2024-06-11 01:41:44.963 [info] Validating found git in: "git"
+2024-06-11 01:41:44.963 [info] Using git "2.34.1" from "git"
+2024-06-11 01:41:44.963 [info] > git rev-parse --show-toplevel [25ms]
+2024-06-11 01:41:44.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:41:44.963 [info] > git rev-parse --show-toplevel [18ms]
+2024-06-11 01:41:44.963 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:41:44.963 [info] > git rev-parse --show-toplevel [2ms]
+2024-06-11 01:41:44.978 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-06-11 01:41:45.000 [info] Open repository: /home/light/.config/kitty/rose-pine
+2024-06-11 01:41:45.018 [info] > git rev-parse --show-toplevel [4ms]
+2024-06-11 01:41:45.018 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:41:45.021 [info] > git config --get commit.template [11ms]
+2024-06-11 01:41:45.033 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-06-11 01:41:45.033 [info] > git rev-parse --show-toplevel [8ms]
+2024-06-11 01:41:45.033 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:41:45.038 [warning] ENOENT: no such file or directory, open '/home/light/.config/kitty/rose-pine/.git/refs/remotes/origin/main'
+2024-06-11 01:41:45.043 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-06-11 01:41:45.049 [info] > git rev-parse --show-toplevel [7ms]
+2024-06-11 01:41:45.050 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:41:45.074 [info] > git status -z -uall [25ms]
+2024-06-11 01:41:45.112 [info] > git merge-base refs/heads/main refs/remotes/origin/main [30ms]
+2024-06-11 01:41:45.119 [info] > git config --get commit.template [8ms]
+2024-06-11 01:41:45.120 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-06-11 01:41:45.140 [info] > git diff --name-status -z --diff-filter=ADMR 788bf1bf1a688dff9bbacbd9e516d83ac7dbd216...refs/remotes/origin/main [13ms]
+2024-06-11 01:41:45.141 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-06-11 01:41:45.146 [warning] ENOENT: no such file or directory, open '/home/light/.config/kitty/rose-pine/.git/refs/remotes/origin/main'
+2024-06-11 01:41:45.147 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-06-11 01:41:45.183 [info] > git status -z -uall [31ms]
+2024-06-11 01:41:45.229 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-11 01:41:45.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:41:45.526 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-11 01:42:22.560 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-11 01:42:22.560 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:44:14.445 [info] > git check-ignore -v -z --stdin [2ms]
+2024-06-11 01:44:22.177 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-11 01:44:22.177 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:44:25.682 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-11 01:44:25.682 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:44:43.826 [info] > git rev-parse --show-toplevel [9ms]
+2024-06-11 01:44:43.826 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-06-11 01:44:53.030 [info] > git rev-parse --show-toplevel [1ms]
+2024-06-11 01:44:53.030 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "שמרו והכניסו מספר בלתי מוגבל של סיסמאות בצורה מאובטחת בדפדפן שלכם והתחברו לאתרים מהר יותר."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "שמרו והכניסו מספר בלתי מוגבל של סיסמאות בצורה מאובטחת בדפדפן שלכם והתחברו לאתרים מהר יותר."
+   },
+   "app_description_text": {
+      "message": "שמרו והכניסו מספר בלתי מוגבל של סיסמאות בצורה מאובטחת בדפדפן שלכם והתחברו לאתרים מהר יותר."
+   },
+   "app_description_text_alpha": {
+      "message": "שמרו והכניסו מספר בלתי מוגבל של סיסמאות בצורה מאובטחת בדפדפן שלכם והתחברו לאתרים מהר יותר."
+   },
+   "app_description_text_beta": {
+      "message": "שמרו והכניסו מספר בלתי מוגבל של סיסמאות בצורה מאובטחת בדפדפן שלכם והתחברו לאתרים מהר יותר."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "מנהל סיסמאות :ExpressVPN Keys"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "מנהל סיסמאות :ExpressVPN Keys Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "מנהל סיסמאות :ExpressVPN Keys Beta"
+   }
+}

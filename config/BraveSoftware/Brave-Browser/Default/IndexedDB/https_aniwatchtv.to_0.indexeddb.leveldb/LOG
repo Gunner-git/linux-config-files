@@ -1,0 +1,6 @@
+2024/06/11-03:31:36.530 1956f Creating DB /home/light/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aniwatchtv.to_0.indexeddb.leveldb since it was missing.
+2024/06/11-03:31:36.546 1956f Reusing MANIFEST /home/light/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_aniwatchtv.to_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/11-03:31:43.137 19570 Level-0 table #5: started
+2024/06/11-03:31:43.149 19570 Level-0 table #5: 949602 bytes OK
+2024/06/11-03:31:43.155 19570 Delete type=0 #3
+2024/06/11-03:31:43.155 19570 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

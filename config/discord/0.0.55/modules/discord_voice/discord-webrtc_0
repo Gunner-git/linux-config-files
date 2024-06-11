@@ -1,0 +1,1021 @@
+[2024-06-09 19:39:17.392] [4802] (engine.cpp:539): Created native Engine, time: Sun Jun  9 19:39:17 2024 IST, logPath: /home/light/.config/discord/0.0.55/modules/discord_voice/, logLevel: 2
+[2024-06-09 19:39:17.392] [4802] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
+[2024-06-09 19:39:17.392] [4802] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
+[2024-06-09 19:39:17.392] [4802] (audio_processing_impl.cc:695): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2024-06-09 19:39:17.392] [4802] (audio_processing_impl.cc:708): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-06-09 19:39:17.393] [4802] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:65): AudioDeviceBuffer::ctor
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:143): current platform is Linux
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:162): CreatePlatformSpecificObjects
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:991): PlatformAudioLayer
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:298): PulseAudio support is enabled.
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:303): Linux PulseAudio APIs will be utilized
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:344): AttachAudioBuffer
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:182): SetRecordingSampleRate(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:188): SetPlayoutSampleRate(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:354): ActiveAudioLayer
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:65): AudioDeviceBuffer::ctor
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:143): current platform is Linux
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:162): CreatePlatformSpecificObjects
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:991): PlatformAudioLayer
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:298): PulseAudio support is enabled.
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:303): Linux PulseAudio APIs will be utilized
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:344): AttachAudioBuffer
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:182): SetRecordingSampleRate(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:188): SetPlayoutSampleRate(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(0)
+[2024-06-09 19:39:17.394] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(0)
+[2024-06-09 19:39:17.394] [4802] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.AppliedInputVolume.*` histogram stats.
+[2024-06-09 19:39:17.394] [4802] (input_volume_stats_reporter.cc:98): Will not log any `WebRTC.Audio.Apm.RecommendedInputVolume.*` histogram stats.
+[2024-06-09 19:39:17.394] [4802] (audio_processing_impl.cc:695): Injected APM submodules:
+Echo control factory: 0
+Echo detector: 0
+Capture analyzer: 0
+Capture post processor: 0
+Render pre processor: 0
+[2024-06-09 19:39:17.394] [4802] (audio_processing_impl.cc:708): AudioProcessing: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 0 }, echo_canceller: { enabled: 0, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-06-09 19:39:17.394] [4802] (audio_engine.cpp:422): Creating audio engine: standard
+[2024-06-09 19:39:17.394] [4802] (audio_device_impl.cc:364): Init
+[2024-06-09 19:39:17.400] [4802] (audio_device_impl.cc:364): Init
+[2024-06-09 19:39:17.402] [4802] (audio_coding.cpp:149): Using software Opus decoder
+[2024-06-09 19:39:17.402] [4802] (audio_coding.cpp:166): Using software Opus encoder
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:895): RegisterAudioCallback
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:547): SetMicrophoneVolume(100)
+[2024-06-09 19:39:17.402] [4802] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:895): RegisterAudioCallback
+[2024-06-09 19:39:17.402] [4802] (audio_engine.cpp:151): Setting audio input device: 'default'
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-06-09 19:39:17.402] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:573): output: 1
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-06-09 19:39:17.402] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-06-09 19:39:17.402] [4802] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-06-09 19:39:17.402] [4802] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-06-09 19:39:17.402] [4802] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-06-09 19:39:17.402] [4802] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-06-09 19:39:17.403] [4802] (audio_device_impl.cc:619): output: 1
+[2024-06-09 19:39:17.403] [4802] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-06-09 19:39:17.403] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-06-09 19:39:17.403] [4802] (audio_device_impl.cc:911): BuiltInAECIsAvailable
+[2024-06-09 19:39:17.403] [4802] (audio_device_generic.cc:32): BuiltInAECIsAvailable: Not supported on this platform
+[2024-06-09 19:39:17.403] [4802] (audio_device_impl.cc:914): output: 0
+[2024-06-09 19:39:17.403] [4802] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 0, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 0, headroom_db: 6, max_gain_db: 30, initial_gain_db: 8, max_gain_change_db_per_second: 3, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-06-09 19:39:17.403] [4802] (matched_filter.cc:141): AEC3: Pre echo configuration:  threshold = 0.5, mode =  3.
+[2024-06-09 19:39:17.404] [4802] (transparent_mode.cc:239): AEC3 Transparent Mode: Legacy
+[2024-06-09 19:39:17.404] [4802] (echo_canceller3.cc:793): AEC3 created with sample rate: 16000 Hz, num render channels: 1, num capture channels: 1
+[2024-06-09 19:39:17.404] [4802] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 0, level: Moderate }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 1, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 1, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-06-09 19:39:17.404] [4802] (captured_audio_processor.cpp:127): SetNoiseCancellation: 0
+[2024-06-09 19:39:17.404] [4802] (audio_processing_impl.cc:911): AudioProcessing::ApplyConfig: AudioProcessing::Config{ pipeline: { maximum_internal_processing_rate: 48000, multi_channel_render: 0, multi_channel_capture: 0 }, pre_amplifier: { enabled: 0, fixed_gain_factor: 1 },capture_level_adjustment: { enabled: 0, pre_gain_factor: 1, post_gain_factor: 1, analog_mic_gain_emulation: { enabled: 0, initial_level: 255 }}, high_pass_filter: { enabled: 1 }, echo_canceller: { enabled: 1, mobile_mode: 0, enforce_high_pass_filtering: 1 }, noise_suppression: { enabled: 1, level: High }, transient_suppression: { enabled: 0 }, gain_controller1: { enabled: 0, mode: AdaptiveAnalog, target_level_dbfs: 3, compression_gain_db: 9, enable_limiter: 1, analog_gain_controller { enabled: 1, startup_min_volume: 0, clipped_level_min: 70, enable_digital_adaptive: 1, clipped_level_step: 15, clipped_ratio_threshold: 0.1, clipped_wait_frames: 300, clipping_predictor:  { enabled: 0, mode: 0, window_length: 5, reference_window_length: 5, reference_window_delay: 5, clipping_threshold: -1, crest_factor_margin: 3, use_predicted_step: 1 }}}, gain_controller2: { enabled: 1, fixed_digital: { gain_db: 0 }, adaptive_digital: { enabled: 1, headroom_db: 5, max_gain_db: 50, initial_gain_db: 15, max_gain_change_db_per_second: 6, max_output_noise_level_dbfs: -50 }, input_volume_control : { enabled 0}}
+[2024-06-09 19:39:17.404] [4802] (field_trial.cc:164): Setting field trial string:WebRTC-Audio-NetEqDecisionLogicConfig/reinit_after_expands:100/
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:238): *** OnDevicesChanged:
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:239): * audioInput:
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:242): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Headphones Stereo Microphone ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:244): * audioOutput:
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:238): *** OnDevicesChanged:
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:239): * audioInput:
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:242): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Headphones Stereo Microphone ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:244): * audioOutput:
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:247): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Speaker + Headphones ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 3 Output ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 2 Output ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 1 Output ()
+[2024-06-09 19:39:17.409] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller Speaker + Headphones ()
+[2024-06-09 19:39:17.590] [4802] (audio_engine.cpp:151): Setting audio input device: 'default'
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-06-09 19:39:17.590] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:573): output: 1
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-06-09 19:39:17.590] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-06-09 19:39:17.590] [4802] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-06-09 19:39:17.590] [4802] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-06-09 19:39:17.590] [4802] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-06-09 19:39:17.591] [4802] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-06-09 19:39:17.591] [4802] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-06-09 19:39:17.591] [4802] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-06-09 19:39:17.591] [4802] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-06-09 19:39:17.591] [4802] (audio_device_impl.cc:619): output: 1
+[2024-06-09 19:39:17.591] [4802] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-06-09 19:39:17.591] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-06-09 19:39:17.591] [4802] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-06-09 19:39:17.591] [4802] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-06-09 19:39:17.591] [4802] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-06-09 19:39:17.593] [4783] (discord.cpp:753): JS console: ["%c[default]","[BUILD INFO] Release Channel: stable, Build Number: 300109, Version Hash: ce7e96b36925934750896a2da7260203dc69c738"]
+[2024-06-09 19:39:17.861] [4783] (discord.cpp:753): JS console: ["Window state not initialized",null]
+[2024-06-09 19:39:17.878] [4783] (discord.cpp:753): JS console: ["%c[default]","[NATIVE INFO] host 0.0.55, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null"]
+[2024-06-09 19:39:17.913] [4783] (discord.cpp:753): JS console: ["[FAST CONNECT] connected in 1147ms"]
+[2024-06-09 19:39:17.916] [4802] (audio_engine.cpp:151): Setting audio input device: 'default'
+[2024-06-09 19:39:17.916] [4802] (audio_device_impl.cc:826): RecordingIsInitialized
+[2024-06-09 19:39:17.916] [4802] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-06-09 19:39:17.916] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-06-09 19:39:17.916] [4802] (audio_device_impl.cc:776): SetRecordingDevice(0)
+[2024-06-09 19:39:17.917] [4802] (audio_device_impl.cc:566): StereoRecordingIsAvailable
+[2024-06-09 19:39:17.918] [4802] (audio_device_impl.cc:573): output: 1
+[2024-06-09 19:39:17.918] [4802] (audio_device_impl.cc:578): SetStereoRecording(1)
+[2024-06-09 19:39:17.918] [4802] (audio_device_buffer.cc:202): SetRecordingChannels(2)
+[2024-06-09 19:39:17.918] [4802] (audio_mixer_manager_pulse_linux.cc:669): input device index has not been set
+[2024-06-09 19:39:17.918] [4802] (audio_device_impl.cc:547): SetMicrophoneVolume(255)
+[2024-06-09 19:39:17.918] [4802] (audio_mixer_manager_pulse_linux.cc:575): input device index has not been set
+[2024-06-09 19:39:17.918] [4802] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-06-09 19:39:17.918] [4802] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-06-09 19:39:17.918] [4802] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-06-09 19:39:17.918] [4802] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-06-09 19:39:17.919] [4802] (audio_device_impl.cc:619): output: 1
+[2024-06-09 19:39:17.919] [4802] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-06-09 19:39:17.919] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-06-09 19:39:17.935] [4783] (discord.cpp:753): JS console: ["Initializing krisp module"]
+[2024-06-09 19:39:18.538] [4783] (discord.cpp:753): JS console: ["%c[Spellchecker]","sh is not a valid locale."]
+[2024-06-09 19:39:18.659] [4783] (discord.cpp:753): JS console: ["%c[Spellchecker]","Switching to en-US","(available)"]
+[2024-06-09 19:39:18.808] [4783] (discord.cpp:753): JS console: ["%c[CloudSyncUtils]","CloudSync is not supported on this platform"]
+[2024-06-09 19:39:18.948] [4783] (discord.cpp:753): JS console: ["[DEPRECATED] Please use `subscribeWithSelector` middleware"]
+[2024-06-09 19:39:19.055] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 19:39:19.056] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[FAST CONNECT] successfully took over websocket, state:","[object Object]"]
+[2024-06-09 19:39:19.056] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms"]
+[2024-06-09 19:39:19.093] [4783] (discord.cpp:753): JS console: ["%c[RPCServer:WSS]","Starting on 6463"]
+[2024-06-09 19:39:19.096] [4783] (discord.cpp:753): JS console: ["%c[RPCServer:IPC]","Starting on /run/user/1000/discord-ipc-0"]
+[2024-06-09 19:39:20.517] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY] took 1462ms, as d94985e1021c36df2e51edc48fc70b37"]
+[2024-06-09 19:39:20.550] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-06-09 19:39:20.551] [4783] (discord.cpp:753): JS console: ["%c[DatabaseManager]","removing database (user: 483317027512123443, database: undefined)"]
+[2024-06-09 19:39:20.562] [4783] (discord.cpp:753): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-06-09 19:39:20.579] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 19:39:20.580] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Added account: 31mmuvhfzz2g3iij45v6tqgcgvfm"]
+[2024-06-09 19:39:20.599] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 839117145619038258 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-09 19:39:20.623] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 1568ms"]
+[2024-06-09 19:39:21.202] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connected"]
+[2024-06-09 19:39:21.220] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 839117145619038258 isBefore:false isAfter:false"]
+[2024-06-09 19:39:21.227] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=839117145619038258, sending.length=0"]
+[2024-06-09 19:39:21.466] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Devices updated for 31mmuvhfzz2g3iij45v6tqgcgvfm:",""]
+[2024-06-09 19:39:21.490] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Profile updated for 31mmuvhfzz2g3iij45v6tqgcgvfm: isPremium = false"]
+[2024-06-09 19:39:24.118] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1195464435582640290 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-09 19:39:24.771] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1195464435582640290 isBefore:false isAfter:false"]
+[2024-06-09 19:39:24.773] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1195464435582640290, sending.length=0"]
+[2024-06-09 19:39:41.123] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:9674"]
+[2024-06-09 19:39:41.124] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:9674 QueueLength: 0"]
+[2024-06-09 19:39:41.124] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:39:41.865] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:9674 QueueLength: 0"]
+[2024-06-09 19:39:42.111] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:9470"]
+[2024-06-09 19:39:42.111] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:9470 QueueLength: 0"]
+[2024-06-09 19:39:42.112] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:39:42.891] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:9470 QueueLength: 0"]
+[2024-06-09 19:39:51.232] [4954] (region_latency_tester.cpp:72): Sending 5 latency test pings to region india
+[2024-06-09 19:39:51.233] [4954] (region_latency_tester.cpp:72): Sending 5 latency test pings to region dubai
+[2024-06-09 19:39:51.233] [4954] (region_latency_tester.cpp:72): Sending 5 latency test pings to region hongkong
+[2024-06-09 19:39:51.233] [4954] (region_latency_tester.cpp:72): Sending 5 latency test pings to region tel-aviv
+[2024-06-09 19:39:51.233] [4954] (region_latency_tester.cpp:72): Sending 5 latency test pings to region singapore
+[2024-06-09 19:39:56.254] [4954] (region_latency_tester.cpp:176): Timing out 1 remaining latency test pings
+[2024-06-09 19:39:56.254] [4954] (region_latency_tester.cpp:283): Average RTT for region india is 45.75
+[2024-06-09 19:39:56.254] [4954] (region_latency_tester.cpp:283): Average RTT for region dubai is 276.25
+[2024-06-09 19:39:56.254] [4954] (region_latency_tester.cpp:283): Average RTT for region hongkong is 111.5
+[2024-06-09 19:39:56.254] [4954] (region_latency_tester.cpp:283): Average RTT for region tel-aviv is 165
+[2024-06-09 19:39:56.254] [4954] (region_latency_tester.cpp:283): Average RTT for region singapore is 78.75
+[2024-06-09 19:41:35.516] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/805183088572366858/839117145619038258"]
+[2024-06-09 19:41:38.543] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 805183088572366861 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-09 19:41:38.854] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/805183088572366858/805183088572366861"]
+[2024-06-09 19:41:39.019] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 805183088572366861 isBefore:false isAfter:false"]
+[2024-06-09 19:41:39.023] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=805183088572366861, sending.length=0"]
+[2024-06-09 19:43:00.784] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:9232"]
+[2024-06-09 19:43:00.784] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:9232 QueueLength: 0"]
+[2024-06-09 19:43:00.784] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:43:01.955] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:9232 QueueLength: 0"]
+[2024-06-09 19:43:17.554] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:3190"]
+[2024-06-09 19:43:17.554] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:3190 QueueLength: 0"]
+[2024-06-09 19:43:17.554] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:43:18.237] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:3190 QueueLength: 0"]
+[2024-06-09 19:45:20.109] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:1717"]
+[2024-06-09 19:45:20.109] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:1717 QueueLength: 0"]
+[2024-06-09 19:45:20.109] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:45:20.766] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:1717 QueueLength: 0"]
+[2024-06-09 19:46:26.733] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:8947"]
+[2024-06-09 19:46:26.733] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:8947 QueueLength: 0"]
+[2024-06-09 19:46:26.733] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:46:27.269] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:8947 QueueLength: 0"]
+[2024-06-09 19:46:37.308] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:7"]
+[2024-06-09 19:46:37.308] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:7 QueueLength: 0"]
+[2024-06-09 19:46:37.309] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:46:37.983] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:7 QueueLength: 0"]
+[2024-06-09 19:46:39.669] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:2529"]
+[2024-06-09 19:46:39.669] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:2529 QueueLength: 0"]
+[2024-06-09 19:46:39.669] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:46:40.274] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:2529 QueueLength: 0"]
+[2024-06-09 19:47:28.568] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:2597"]
+[2024-06-09 19:47:28.569] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:2597 QueueLength: 0"]
+[2024-06-09 19:47:28.569] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:47:29.328] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:2597 QueueLength: 0"]
+[2024-06-09 19:47:50.653] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:555"]
+[2024-06-09 19:47:50.653] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:555 QueueLength: 0"]
+[2024-06-09 19:47:50.653] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:47:51.237] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:555 QueueLength: 0"]
+[2024-06-09 19:48:56.876] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:3077"]
+[2024-06-09 19:48:56.876] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:3077 QueueLength: 0"]
+[2024-06-09 19:48:56.876] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:48:57.914] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:3077 QueueLength: 0"]
+[2024-06-09 19:49:12.575] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:4504"]
+[2024-06-09 19:49:12.575] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:4504 QueueLength: 0"]
+[2024-06-09 19:49:12.576] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:49:13.206] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:4504 QueueLength: 0"]
+[2024-06-09 19:49:47.948] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:9122"]
+[2024-06-09 19:49:47.948] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:9122 QueueLength: 0"]
+[2024-06-09 19:49:47.955] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:49:48.766] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:9122 QueueLength: 0"]
+[2024-06-09 19:50:20.974] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:540"]
+[2024-06-09 19:50:20.974] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:540 QueueLength: 0"]
+[2024-06-09 19:50:20.974] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 19:50:21.569] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:540 QueueLength: 0"]
+[2024-06-09 19:50:25.879] [4783] (discord.cpp:753): JS console: ["%c[discord_protos.discord_users.v1.FrecencyUserSettings]","Loading proto"]
+[2024-06-09 19:50:31.773] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 940010709398487060 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-09 19:50:31.876] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/805183088572366858/940010709398487060"]
+[2024-06-09 19:50:32.346] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 940010709398487060 isBefore:false isAfter:false"]
+[2024-06-09 19:50:32.354] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=940010709398487060, sending.length=0"]
+[2024-06-09 19:52:04.036] [4783] (discord.cpp:753): JS console: ["%c[ComponentDispatchUtils]","ComponentDispatch.subscribe: Attempting to add a duplicate listener","POPOUT_CLOSE"]
+[2024-06-09 20:19:50.716] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/805183088572366858/839117145619038258"]
+[2024-06-09 20:20:06.318] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:8449"]
+[2024-06-09 20:20:06.341] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:8449 QueueLength: 0"]
+[2024-06-09 20:20:06.341] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-09 20:20:07.129] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:8449 QueueLength: 0"]
+[2024-06-09 21:22:14.956] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 1265ms"]
+[2024-06-09 21:22:14.963] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 1006, ) retrying in 1.43 seconds."]
+[2024-06-09 21:58:06.168] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 21:58:06.176] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 21:58:06.196] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.44 seconds."]
+[2024-06-09 21:58:06.204] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 3008ms"]
+[2024-06-09 21:58:07.233] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 21:58:07.236] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (true, 0, power monitor resumed) retrying immediately."]
+[2024-06-09 21:58:07.236] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 21:58:07.240] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.98 seconds."]
+[2024-06-09 21:58:09.211] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 21:58:09.220] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 8778ms"]
+[2024-06-09 21:58:09.221] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 21:58:09.226] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 3.98 seconds."]
+[2024-06-09 21:58:11.344] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 21:58:11.356] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.06 seconds."]
+[2024-06-09 21:58:12.413] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 21:58:12.858] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 445 ms"]
+[2024-06-09 21:58:15.036] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY] took 2623ms, as ea6bd48126d68a30ca732dfd4da8be28"]
+[2024-06-09 21:58:15.058] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-06-09 21:58:15.061] [4783] (discord.cpp:753): JS console: ["%c[DatabaseManager]","removing database (user: 483317027512123443, database: null)"]
+[2024-06-09 21:58:15.067] [4783] (discord.cpp:753): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-06-09 21:58:15.105] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 839117145619038258 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-09 21:58:15.149] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","Dispatched 1 messages in 112ms"]
+[2024-06-09 21:58:15.153] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 2740ms"]
+[2024-06-09 21:58:15.588] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 839117145619038258 isBefore:false isAfter:false"]
+[2024-06-09 21:58:15.591] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=839117145619038258, sending.length=0"]
+[2024-06-09 21:58:17.998] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 21:58:18.679] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Updated account access token: 31mmuvhfzz2g3iij45v6tqgcgvfm"]
+[2024-06-09 21:58:19.081] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connected"]
+[2024-06-09 21:58:19.234] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Devices updated for 31mmuvhfzz2g3iij45v6tqgcgvfm:",""]
+[2024-06-09 21:58:19.251] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Profile updated for 31mmuvhfzz2g3iij45v6tqgcgvfm: isPremium = false"]
+[2024-06-09 21:58:46.688] [11622] (region_latency_tester.cpp:72): Sending 5 latency test pings to region india
+[2024-06-09 21:58:46.688] [11622] (region_latency_tester.cpp:72): Sending 5 latency test pings to region dubai
+[2024-06-09 21:58:46.688] [11622] (region_latency_tester.cpp:72): Sending 5 latency test pings to region hongkong
+[2024-06-09 21:58:46.688] [11622] (region_latency_tester.cpp:72): Sending 5 latency test pings to region tel-aviv
+[2024-06-09 21:58:46.688] [11622] (region_latency_tester.cpp:72): Sending 5 latency test pings to region singapore
+[2024-06-09 21:58:51.708] [11622] (region_latency_tester.cpp:176): Timing out 2 remaining latency test pings
+[2024-06-09 21:58:51.709] [11622] (region_latency_tester.cpp:283): Average RTT for region india is 33
+[2024-06-09 21:58:51.709] [11622] (region_latency_tester.cpp:283): Average RTT for region dubai is 270
+[2024-06-09 21:58:51.709] [11622] (region_latency_tester.cpp:283): Average RTT for region hongkong is 108.5
+[2024-06-09 21:58:51.709] [11622] (region_latency_tester.cpp:283): Average RTT for region tel-aviv is 168.25
+[2024-06-09 21:58:51.709] [11622] (region_latency_tester.cpp:283): Average RTT for region singapore is 78
+[2024-06-09 22:31:16.488] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 839117145619038258 between undefined and undefined. jump={\"messageId\":\"1249256845609013289\",\"flash\":true,\"returnMessageId\":\"1249374877199368202\"}"]
+[2024-06-09 22:31:23.778] [4783] (discord.cpp:753): JS console: ["%c[ComponentDispatchUtils]","ComponentDispatch.subscribe: Attempting to add a duplicate listener","POPOUT_CLOSE"]
+[2024-06-09 23:36:44.044] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[ACK TIMEOUT] reconnecting in 2.13 seconds."]
+[2024-06-09 23:36:46.170] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:37:16.210] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30034 ms - did not receive OP_HELLO in time.) retrying in 3.63 seconds."]
+[2024-06-09 23:37:19.840] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:37:49.874] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30001 ms - did not receive OP_HELLO in time.) retrying in 9.59 seconds."]
+[2024-06-09 23:37:59.491] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:38:29.492] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 11.05 seconds."]
+[2024-06-09 23:38:40.576] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:39:10.610] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 25.11 seconds."]
+[2024-06-09 23:39:10.610] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:39:10.611] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:39:35.752] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:40:05.786] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 38.54 seconds."]
+[2024-06-09 23:40:05.786] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:40:05.787] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:40:21.039] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 927ms"]
+[2024-06-09 23:40:21.966] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 23:40:44.354] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:41:14.389] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30001 ms - did not receive OP_HELLO in time.) retrying in 60.00 seconds."]
+[2024-06-09 23:41:14.389] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30001 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:41:14.389] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:42:14.411] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:42:44.443] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 60.00 seconds."]
+[2024-06-09 23:42:44.443] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:42:44.443] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:43:44.483] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:44:14.522] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 60.00 seconds."]
+[2024-06-09 23:44:14.522] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:44:14.522] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:44:52.422] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 2192ms"]
+[2024-06-09 23:44:54.577] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 23:45:14.556] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:45:44.588] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 60.00 seconds."]
+[2024-06-09 23:45:44.589] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:45:44.589] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:46:44.625] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:47:14.672] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.) retrying in 60.00 seconds."]
+[2024-06-09 23:47:14.672] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (false, 0, The connection timed out after 30000 ms - did not receive OP_HELLO in time.)"]
+[2024-06-09 23:47:14.672] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-09 23:47:21.180] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 5202ms"]
+[2024-06-09 23:47:26.381] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-09 23:47:27.516] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Updated account access token: 31mmuvhfzz2g3iij45v6tqgcgvfm"]
+[2024-06-09 23:47:28.130] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connected"]
+[2024-06-09 23:47:28.539] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Devices updated for 31mmuvhfzz2g3iij45v6tqgcgvfm:",""]
+[2024-06-09 23:47:28.541] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Profile updated for 31mmuvhfzz2g3iij45v6tqgcgvfm: isPremium = false"]
+[2024-06-09 23:48:14.705] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-09 23:48:15.320] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 614 ms"]
+[2024-06-09 23:48:16.887] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY] took 2181ms, as 6afe1ad2fcf61f13c4391e91f66e2de2"]
+[2024-06-09 23:48:16.933] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-06-09 23:48:16.936] [4783] (discord.cpp:753): JS console: ["%c[DatabaseManager]","removing database (user: 483317027512123443, database: null)"]
+[2024-06-09 23:48:16.954] [4783] (discord.cpp:753): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-06-09 23:48:16.980] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 839117145619038258 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-09 23:48:17.008] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","Dispatched 1 messages in 121ms"]
+[2024-06-09 23:48:17.147] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 2441ms"]
+[2024-06-09 23:48:17.680] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 839117145619038258 isBefore:false isAfter:false"]
+[2024-06-09 23:48:17.688] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=839117145619038258, sending.length=0"]
+[2024-06-09 23:48:34.406] [14094] (region_latency_tester.cpp:72): Sending 5 latency test pings to region india
+[2024-06-09 23:48:34.406] [14094] (region_latency_tester.cpp:72): Sending 5 latency test pings to region dubai
+[2024-06-09 23:48:34.406] [14094] (region_latency_tester.cpp:72): Sending 5 latency test pings to region hongkong
+[2024-06-09 23:48:34.406] [14094] (region_latency_tester.cpp:72): Sending 5 latency test pings to region tel-aviv
+[2024-06-09 23:48:34.406] [14094] (region_latency_tester.cpp:72): Sending 5 latency test pings to region singapore
+[2024-06-09 23:48:34.727] [14094] (region_latency_tester.cpp:283): Average RTT for region india is 32.5
+[2024-06-09 23:48:34.727] [14094] (region_latency_tester.cpp:283): Average RTT for region dubai is 271
+[2024-06-09 23:48:34.727] [14094] (region_latency_tester.cpp:283): Average RTT for region hongkong is 114.75
+[2024-06-09 23:48:34.727] [14094] (region_latency_tester.cpp:283): Average RTT for region tel-aviv is 166
+[2024-06-09 23:48:34.727] [14094] (region_latency_tester.cpp:283): Average RTT for region singapore is 76.5
+[2024-06-10 00:47:47.131] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 1006, ) retrying in 2.41 seconds."]
+[2024-06-10 00:47:47.132] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 526ms"]
+[2024-06-10 00:47:47.659] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 00:47:47.669] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 847ms"]
+[2024-06-10 00:47:50.238] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 00:47:50.239] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 00:47:50.249] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 3.47 seconds."]
+[2024-06-10 00:47:50.503] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 4066ms"]
+[2024-06-10 00:47:51.275] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 00:47:51.278] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (true, 0, power monitor resumed) retrying immediately."]
+[2024-06-10 00:47:51.278] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 00:47:51.284] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 2.38 seconds."]
+[2024-06-10 00:47:53.663] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 00:47:53.671] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 3.88 seconds."]
+[2024-06-10 00:47:54.568] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 00:47:54.604] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 13581ms"]
+[2024-06-10 00:47:55.430] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 00:47:55.945] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 515 ms"]
+[2024-06-10 00:47:55.946] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESUME] resuming session 6afe1ad2fcf61f13c4391e91f66e2de2, seq: 1734"]
+[2024-06-10 00:47:56.304] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_RESUMED"]
+[2024-06-10 00:47:56.308] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESUMED] took 877ms, replayed 0 events, new seq: 1739"]
+[2024-06-10 00:48:08.208] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 00:48:08.982] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Updated account access token: 31mmuvhfzz2g3iij45v6tqgcgvfm"]
+[2024-06-10 00:48:09.390] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connected"]
+[2024-06-10 00:48:09.525] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Devices updated for 31mmuvhfzz2g3iij45v6tqgcgvfm:",""]
+[2024-06-10 00:48:09.566] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Profile updated for 31mmuvhfzz2g3iij45v6tqgcgvfm: isPremium = false"]
+[2024-06-10 00:48:18.314] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 1290ms"]
+[2024-06-10 00:48:18.315] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 1006, ) retrying in 1.13 seconds."]
+[2024-06-10 13:13:53.180] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:13:53.181] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:13:53.190] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.92 seconds."]
+[2024-06-10 13:13:53.512] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 2191ms"]
+[2024-06-10 13:13:54.218] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:13:54.222] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (true, 0, power monitor resumed) retrying immediately."]
+[2024-06-10 13:13:54.222] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:13:54.228] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.16 seconds."]
+[2024-06-10 13:13:55.389] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:13:55.396] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.26 seconds."]
+[2024-06-10 13:13:55.704] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:13:55.715] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 11100ms"]
+[2024-06-10 13:13:56.654] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:13:56.662] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 1.92 seconds."]
+[2024-06-10 13:13:58.377] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:13:58.384] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] (false, 0, An error with the websocket occurred) retrying in 2.06 seconds."]
+[2024-06-10 13:14:00.447] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 13:14:00.957] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 509 ms"]
+[2024-06-10 13:14:01.335] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[WS CLOSED] because of authentication failure, marking as closed."]
+[2024-06-10 13:14:01.335] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESET] (true, 4004, Authentication failed.)"]
+[2024-06-10 13:14:01.335] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_CLOSED"]
+[2024-06-10 13:14:01.399] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /login"]
+[2024-06-10 13:14:06.850] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:14:07.824] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 31319ms"]
+[2024-06-10 13:14:39.176] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:14:40.070] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:15:40.097] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:15:41.098] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:16:41.125] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:16:42.243] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:17:42.274] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:17:43.169] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:18:43.192] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:18:44.004] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:19:44.038] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:19:44.990] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:20:45.025] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:20:45.873] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:21:45.905] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:21:46.910] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:22:46.945] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:22:47.710] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:23:47.735] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:23:48.507] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:24:48.540] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:24:49.460] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:25:49.493] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:25:50.388] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:26:50.422] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:26:51.313] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 13:27:51.314] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 13:27:51.325] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:32:11.518] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:32:12.451] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:33:12.480] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:33:13.416] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:34:13.446] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:34:14.434] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:35:14.464] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:35:15.563] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:36:15.596] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:36:16.594] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:37:16.626] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:37:17.527] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:38:17.560] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:38:18.654] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:39:18.687] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:39:19.581] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:40:19.615] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:40:20.710] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:41:20.742] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:41:22.767] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:42:22.794] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:42:23.797] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:43:23.835] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:43:24.782] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:44:24.814] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:44:25.780] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:45:25.814] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:45:27.089] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:46:27.124] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:46:28.033] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:47:28.066] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:47:29.083] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:48:29.118] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:48:30.184] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:49:30.218] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:49:31.426] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:50:31.460] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:50:32.556] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:51:32.590] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:51:33.695] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:52:33.728] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:52:34.726] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:53:34.759] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:53:35.720] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:54:35.751] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:54:36.691] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:55:36.723] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:55:37.613] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:56:37.647] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:56:38.753] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:57:38.781] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:57:39.949] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:58:39.982] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:58:40.910] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 16:59:40.943] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 16:59:41.941] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:00:41.973] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:00:43.073] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:01:43.107] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:01:44.206] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:02:44.244] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:02:45.237] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:03:45.271] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:03:46.372] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:04:46.404] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:04:47.306] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:05:47.340] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:05:48.329] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:06:48.362] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:06:49.280] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:07:49.312] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:07:50.391] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:08:50.422] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:08:51.421] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:09:51.456] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:09:52.657] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:10:52.690] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:10:53.687] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:11:53.716] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:11:54.719] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:12:54.750] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:12:55.666] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:13:55.699] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:13:56.780] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:14:56.812] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:14:57.710] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:15:57.743] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:15:58.842] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:16:58.876] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:17:00.077] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:18:00.108] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:18:01.098] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:19:01.142] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:19:01.988] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:20:02.011] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:20:03.068] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:21:03.095] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:21:03.994] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:22:04.028] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:22:05.024] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:23:05.057] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:23:06.054] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:24:06.086] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:24:08.108] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:25:08.141] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:25:09.057] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:26:09.090] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:26:10.074] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:27:10.108] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:27:11.199] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:28:11.233] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:28:12.259] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:29:12.285] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:29:13.157] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:30:13.182] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:30:14.289] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:31:14.323] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:31:15.426] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:32:15.456] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:32:16.785] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:33:16.819] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:33:17.689] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:34:17.718] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:34:18.526] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:35:18.557] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:35:19.646] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:36:19.671] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:36:20.580] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:37:20.612] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:37:21.501] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:38:21.533] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:38:22.532] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:39:22.563] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:39:23.561] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:40:23.595] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:40:24.592] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:41:24.623] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:41:25.546] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:42:25.579] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:42:26.571] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:43:26.604] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:43:27.910] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:44:27.943] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:44:28.918] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:45:28.955] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:45:29.851] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:46:29.879] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:46:30.773] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:47:30.799] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:47:31.803] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:48:31.836] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:48:32.742] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:49:32.774] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:49:33.762] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:50:33.794] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:50:34.894] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:51:34.926] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:51:35.861] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:52:35.894] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:52:36.749] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:53:36.783] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:53:37.678] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:54:37.733] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:54:38.605] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:55:38.626] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:55:39.542] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:56:39.576] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:56:40.666] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:57:40.697] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:57:41.697] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:58:41.722] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:58:42.725] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 17:59:42.759] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 17:59:43.655] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:00:43.688] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:00:44.796] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:01:44.830] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:01:45.817] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:02:45.837] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:02:46.643] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:03:46.677] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:03:47.672] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:04:47.706] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:04:48.600] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:05:48.633] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:05:49.732] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:06:49.766] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:06:50.556] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:238): *** OnDevicesChanged:
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:239): * audioInput:
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:242): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Headphones Stereo Microphone ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:244): * audioOutput:
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:247): - default: JBL LIVE650BTNC ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 3 Output ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 2 Output ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 1 Output ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller Speaker + Headphones ()
+[2024-06-10 18:07:43.250] [4802] (engine.cpp:247): - JBL LIVE650BTNC ()
+[2024-06-10 18:07:43.275] [4802] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-06-10 18:07:43.275] [4802] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-06-10 18:07:43.275] [4802] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-06-10 18:07:43.275] [4802] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-06-10 18:07:43.276] [4802] (audio_device_impl.cc:619): output: 1
+[2024-06-10 18:07:43.276] [4802] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-06-10 18:07:43.276] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-06-10 18:07:50.588] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:07:51.693] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:08:51.722] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:08:52.619] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:09:52.653] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:09:53.666] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:10:53.699] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:10:54.692] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:11:54.724] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:11:55.712] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:12:55.745] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:12:56.639] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:13:56.671] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:13:57.567] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:14:57.599] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:14:58.598] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:15:58.630] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:15:59.543] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:16:59.574] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:17:00.658] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:18:00.687] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:18:01.688] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:19:01.721] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:19:02.617] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:20:02.649] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:20:03.683] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:21:03.714] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:21:04.678] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:22:04.708] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:22:05.604] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:23:05.634] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:23:06.540] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:24:06.581] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:24:07.357] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:25:07.390] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:25:08.285] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:26:08.318] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:26:09.214] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:27:09.245] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:27:10.065] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:28:10.096] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:28:11.172] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:29:11.206] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:29:12.202] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:30:12.266] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:30:13.108] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:31:13.140] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:31:13.961] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:32:13.990] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:32:15.308] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:33:15.337] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:33:16.324] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:34:16.356] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:34:17.472] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:35:17.499] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:35:18.499] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:36:18.524] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:36:19.518] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:37:19.559] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:37:20.651] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:38:20.685] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:38:21.581] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:39:21.612] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:39:22.711] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:40:22.742] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:40:23.742] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:41:23.774] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:41:24.676] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:42:24.709] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:42:25.740] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:43:25.764] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:43:26.834] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:44:26.865] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:44:27.772] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:45:27.806] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:45:28.896] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:46:28.928] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:46:29.925] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:47:29.952] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:47:30.857] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:48:30.890] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:48:31.987] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:49:32.020] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:49:33.011] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:50:33.044] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:50:34.506] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:51:34.539] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:51:35.692] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:52:35.723] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:52:36.531] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:53:36.555] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:53:37.957] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:54:37.992] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:54:38.988] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:55:39.021] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:55:40.018] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:56:40.050] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:56:41.000] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:57:41.027] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:57:41.976] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:58:42.007] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:58:43.007] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 18:59:43.037] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 18:59:44.141] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:00:44.173] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:00:45.375] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:01:45.408] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:01:46.406] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:02:46.437] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:02:47.641] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:03:47.674] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:03:48.672] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:04:48.705] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:04:49.702] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:05:49.734] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:05:50.733] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:06:50.767] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:06:51.668] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:07:51.699] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:07:52.590] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:08:52.622] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:08:53.927] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:09:53.956] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:09:54.957] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:10:54.987] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:10:56.003] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:11:56.037] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:11:57.121] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:12:57.155] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:12:58.049] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:13:58.081] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:13:59.182] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:14:59.213] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:15:00.416] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:16:00.450] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:16:01.653] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:17:01.677] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:17:02.785] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:18:02.821] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:18:03.835] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:19:03.865] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:19:04.805] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:20:04.836] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:20:05.704] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:21:05.737] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:21:06.806] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:22:06.839] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:22:07.836] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:23:07.863] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:23:08.788] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:24:08.822] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:24:09.796] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:25:09.830] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:25:10.928] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:26:10.961] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:26:12.163] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:27:12.197] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:27:13.616] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:28:13.662] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:28:14.838] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:29:14.868] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:29:15.749] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:30:15.780] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:30:16.695] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:31:16.730] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:31:17.626] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:32:17.659] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:32:18.551] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:33:18.583] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:33:19.389] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:34:19.446] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:34:20.333] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:35:20.361] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:35:21.259] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:36:21.291] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:36:22.161] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:37:22.191] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:37:23.007] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:38:23.032] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:38:23.842] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:39:23.874] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:39:24.945] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:40:24.977] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:40:25.976] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:41:26.009] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:41:26.919] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:42:26.953] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:42:27.934] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:43:27.965] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:43:29.068] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:44:29.103] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:44:30.097] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:45:30.125] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:45:31.027] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:46:31.055] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:46:32.074] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:47:32.099] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:47:32.887] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:48:32.920] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:48:33.810] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:49:33.840] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:49:34.676] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:50:34.708] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:50:35.484] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:51:35.518] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:51:36.316] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:52:36.341] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:52:38.136] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:53:38.165] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:53:39.167] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:54:39.199] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:54:40.197] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:55:40.228] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:55:41.228] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:56:41.258] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:56:42.175] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:57:42.206] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:57:43.289] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:58:43.321] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:58:44.319] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 19:59:44.363] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 19:59:45.349] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 20:00:45.383] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 20:00:46.380] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 20:01:46.408] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 20:01:47.288] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 20:02:47.320] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 20:02:48.487] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Disconnected. Next retry in 60000ms"]
+[2024-06-10 20:03:25.912] [4783] (discord.cpp:753): JS console: ["%c[LoginQRSocket]","[0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2"]
+[2024-06-10 20:03:26.392] [4783] (discord.cpp:753): JS console: ["%c[LoginQRSocket]","[480ms] got hello, auth timeout=289958ms"]
+[2024-06-10 20:03:26.426] [4783] (discord.cpp:753): JS console: ["%c[LoginQRSocket]","[515ms] connected, handshaking with fingerprint: jHwwH8SAWy-p5U-hPYYkRL4SJm_7xcfbx7UCKVbi6zs"]
+[2024-06-10 20:03:26.843] [4783] (discord.cpp:753): JS console: ["%c[LoginQRSocket]","[932ms] computed nonce proof"]
+[2024-06-10 20:03:27.255] [4783] (discord.cpp:753): JS console: ["%c[LoginQRSocket]","[1343ms] handshake complete awaiting remote auth."]
+[2024-06-10 20:03:41.850] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching LOGIN"]
+[2024-06-10 20:03:43.028] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching LOGIN_SUCCESS"]
+[2024-06-10 20:03:43.041] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /app"]
+[2024-06-10 20:03:43.056] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 20:03:43.058] [4783] (discord.cpp:753): JS console: ["%c[LoginQRSocket]","[17147ms] cleaning up"]
+[2024-06-10 20:03:43.499] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 443 ms"]
+[2024-06-10 20:03:45.358] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY] took 2301ms, as 728eab80758e8c2f0522ebb914703577"]
+[2024-06-10 20:03:45.380] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_OPEN"]
+[2024-06-10 20:03:45.381] [4783] (discord.cpp:753): JS console: ["%c[DatabaseManager]","removing database (user: 483317027512123443, database: undefined)"]
+[2024-06-10 20:03:45.388] [4783] (discord.cpp:753): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-06-10 20:03:45.418] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1195464435582640290 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 20:03:45.438] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[READY_SUPPLEMENTAL] took 2382ms"]
+[2024-06-10 20:03:45.902] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1195464435582640290 isBefore:false isAfter:false"]
+[2024-06-10 20:03:45.905] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1195464435582640290, sending.length=0"]
+[2024-06-10 20:03:48.487] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connecting"]
+[2024-06-10 20:03:49.271] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Updated account access token: 31mmuvhfzz2g3iij45v6tqgcgvfm"]
+[2024-06-10 20:03:49.676] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","WS Connected"]
+[2024-06-10 20:03:49.991] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Devices updated for 31mmuvhfzz2g3iij45v6tqgcgvfm:",""]
+[2024-06-10 20:03:49.994] [4783] (discord.cpp:753): JS console: ["%c[Spotify]","Profile updated for 31mmuvhfzz2g3iij45v6tqgcgvfm: isPremium = false"]
+[2024-06-10 20:04:11.428] [32184] (region_latency_tester.cpp:72): Sending 5 latency test pings to region india
+[2024-06-10 20:04:11.428] [32184] (region_latency_tester.cpp:72): Sending 5 latency test pings to region dubai
+[2024-06-10 20:04:11.428] [32184] (region_latency_tester.cpp:72): Sending 5 latency test pings to region hongkong
+[2024-06-10 20:04:11.428] [32184] (region_latency_tester.cpp:72): Sending 5 latency test pings to region tel-aviv
+[2024-06-10 20:04:11.428] [32184] (region_latency_tester.cpp:72): Sending 5 latency test pings to region singapore
+[2024-06-10 20:04:11.720] [32184] (region_latency_tester.cpp:283): Average RTT for region india is 29.25
+[2024-06-10 20:04:11.720] [32184] (region_latency_tester.cpp:283): Average RTT for region dubai is 269.25
+[2024-06-10 20:04:11.720] [32184] (region_latency_tester.cpp:283): Average RTT for region hongkong is 109
+[2024-06-10 20:04:11.720] [32184] (region_latency_tester.cpp:283): Average RTT for region tel-aviv is 177.25
+[2024-06-10 20:04:11.720] [32184] (region_latency_tester.cpp:283): Average RTT for region singapore is 81.5
+[2024-06-10 20:10:34.248] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1155640882838634546 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 20:10:34.772] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 4 messages for 1155640882838634546 isBefore:false isAfter:false"]
+[2024-06-10 20:10:34.773] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1155640882838634546, sending.length=0"]
+[2024-06-10 20:10:41.400] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1172553458965037146 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 20:10:41.869] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 1 messages for 1172553458965037146 isBefore:false isAfter:false"]
+[2024-06-10 20:10:41.870] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1172553458965037146, sending.length=0"]
+[2024-06-10 20:38:11.650] [4783] (discord.cpp:753): JS console: ["%c[RunningGameStore]","games","[object Object]"]
+[2024-06-10 20:38:11.659] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:38:11.664] [4783] (discord.cpp:753): JS console: ["%c[NativeDispatchUtils]","Tried getting Dispatch instance before instantiated"]
+[2024-06-10 20:38:11.677] [4783] (discord.cpp:753): JS console: ["%c[AutoAnalytics]","Cannot identify game","Error: Error 1 when fetching info on 36474"]
+[2024-06-10 20:38:21.687] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:38:31.687] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:38:41.692] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:38:51.715] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:39:01.696] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:39:11.691] [4783] (discord.cpp:753): JS console: ["%c[OverlayUsageStatsManager]","ScreenTypeAnalytics: Unknown screen type: 1862264688","1862264688"]
+[2024-06-10 20:39:11.967] [4783] (discord.cpp:753): JS console: ["%c[RunningGameStore]","games","[object Object]"]
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:238): *** OnDevicesChanged:
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:239): * audioInput:
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:242): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Headphones Stereo Microphone ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:244): * audioOutput:
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:247): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Speaker + Headphones ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 3 Output ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 2 Output ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 1 Output ()
+[2024-06-10 21:31:24.944] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller Speaker + Headphones ()
+[2024-06-10 21:31:24.971] [4802] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-06-10 21:31:24.971] [4802] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-06-10 21:31:24.971] [4802] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-06-10 21:31:24.972] [4802] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-06-10 21:31:24.972] [4802] (audio_device_impl.cc:619): output: 1
+[2024-06-10 21:31:24.972] [4802] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-06-10 21:31:24.972] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:238): *** OnDevicesChanged:
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:239): * audioInput:
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:242): - default: Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Headphones Stereo Microphone ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:242): - Tiger Lake-LP Smart Sound Technology Audio Controller Digital Microphone ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:244): * audioOutput:
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:247): - default: JBL LIVE650BTNC ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 3 Output ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 2 Output ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller HDMI / DisplayPort 1 Output ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:247): - Tiger Lake-LP Smart Sound Technology Audio Controller Speaker + Headphones ()
+[2024-06-10 21:33:14.380] [4802] (engine.cpp:247): - JBL LIVE650BTNC ()
+[2024-06-10 21:33:14.381] [4802] (audio_engine.cpp:168): Setting audio output device: 'default'
+[2024-06-10 21:33:14.381] [4802] (audio_device_impl.cc:820): PlayoutIsInitialized
+[2024-06-10 21:33:14.381] [4802] (audio_device_impl.cc:708): SetPlayoutDevice(0)
+[2024-06-10 21:33:14.381] [4802] (audio_device_impl.cc:612): StereoPlayoutIsAvailable
+[2024-06-10 21:33:14.381] [4802] (audio_device_impl.cc:619): output: 1
+[2024-06-10 21:33:14.381] [4802] (audio_device_impl.cc:624): SetStereoPlayout(1)
+[2024-06-10 21:33:14.381] [4802] (audio_device_buffer.cc:208): SetPlayoutChannels(2)
+[2024-06-10 22:38:03.398] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1195516999502155847 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:38:03.930] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1195516999502155847 isBefore:false isAfter:false"]
+[2024-06-10 22:38:03.934] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1195516999502155847, sending.length=0"]
+[2024-06-10 22:38:10.655] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1201359903340646560 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:38:10.835] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/1179173444718436545/1201359903340646560"]
+[2024-06-10 22:38:11.245] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1201359903340646560 isBefore:false isAfter:false"]
+[2024-06-10 22:38:11.248] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1201359903340646560, sending.length=0"]
+[2024-06-10 22:38:15.705] [4783] (discord.cpp:753): JS console: ["[PostMessageTransport] Protocol error: event data should be an Array!"]
+[2024-06-10 22:38:21.179] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:9962"]
+[2024-06-10 22:38:21.191] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:9962 QueueLength: 0"]
+[2024-06-10 22:38:21.191] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-10 22:38:22.435] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:9962 QueueLength: 0"]
+[2024-06-10 22:38:23.088] [4783] (discord.cpp:753): JS console: ["%c[discord_protos.discord_users.v1.FrecencyUserSettings]","Loading proto"]
+[2024-06-10 22:38:26.326] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:4778"]
+[2024-06-10 22:38:26.326] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:4778 QueueLength: 0"]
+[2024-06-10 22:38:26.326] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-10 22:38:26.885] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:4778 QueueLength: 0"]
+[2024-06-10 22:38:45.714] [4783] (discord.cpp:753): JS console: ["%c[MessageManager]","Found expired attachment link, clearing messages"]
+[2024-06-10 22:38:45.714] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 839117145619038258 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:38:45.873] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/805183088572366858/839117145619038258"]
+[2024-06-10 22:38:46.301] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 839117145619038258 isBefore:false isAfter:false"]
+[2024-06-10 22:38:46.303] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=839117145619038258, sending.length=0"]
+[2024-06-10 22:38:52.550] [4783] (discord.cpp:753): JS console: ["%c[MessageManager]","Found expired attachment link, clearing messages"]
+[2024-06-10 22:38:52.551] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 805183088572366861 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:38:52.730] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/805183088572366858/805183088572366861"]
+[2024-06-10 22:38:53.147] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 805183088572366861 isBefore:false isAfter:false"]
+[2024-06-10 22:38:53.152] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=805183088572366861, sending.length=0"]
+[2024-06-10 22:39:11.045] [4783] (discord.cpp:753): JS console: ["%c[Spellchecker]","Switching to pt-PT","(available)"]
+[2024-06-10 22:39:20.296] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:4099"]
+[2024-06-10 22:39:20.296] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:4099 QueueLength: 0"]
+[2024-06-10 22:39:20.296] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-10 22:39:22.024] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:4099 QueueLength: 0"]
+[2024-06-10 22:39:27.101] [4783] (discord.cpp:753): JS console: ["%c[Spellchecker]","Switching to en-US","(available)"]
+[2024-06-10 22:39:30.705] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Queueing message to be sent LogId:4205"]
+[2024-06-10 22:39:30.705] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining message from queue LogId:4205 QueueLength: 0"]
+[2024-06-10 22:39:30.705] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Draining Message Queue with: ","0"]
+[2024-06-10 22:39:31.298] [4783] (discord.cpp:753): JS console: ["%c[MessageQueue]","Finished draining message from queue LogId:4205 QueueLength: 0"]
+[2024-06-10 22:40:21.222] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 797202101305737256 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:40:21.296] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/694303996382544013/797202101305737256"]
+[2024-06-10 22:40:21.845] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 2 messages for 797202101305737256 isBefore:false isAfter:false"]
+[2024-06-10 22:40:21.846] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=797202101305737256, sending.length=0"]
+[2024-06-10 22:40:22.989] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 694304599795826708 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:40:23.127] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/694303996382544013/694304599795826708"]
+[2024-06-10 22:40:23.910] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 694304599795826708 isBefore:false isAfter:false"]
+[2024-06-10 22:40:23.923] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=694304599795826708, sending.length=0"]
+[2024-06-10 22:40:28.649] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/915336728707989534/1180262223768195192"]
+[2024-06-10 22:40:30.254] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetching messages for 1235792519124750366 between undefined and undefined. jump={\"jumpType\":\"ANIMATED\"}"]
+[2024-06-10 22:40:30.366] [4783] (discord.cpp:753): JS console: ["%c[Routing/Utils]","transitionTo - Transitioning to /channels/915336728707989534/1235792519124750366"]
+[2024-06-10 22:40:30.894] [4783] (discord.cpp:753): JS console: ["%c[MessageActionCreators]","Fetched 50 messages for 1235792519124750366 isBefore:false isAfter:false"]
+[2024-06-10 22:40:30.897] [4783] (discord.cpp:753): JS console: ["%c[ChannelMessages]","loadComplete: resetting state for channelId=1235792519124750366, sending.length=0"]
+[2024-06-10 22:41:10.264] [4783] (discord.cpp:753): JS console: ["%c[WindowVisibilityVideoManager]","Window visibility incoming video changed, incomingVideoEnabled = false"]
+[2024-06-10 22:48:09.823] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream"]
+[2024-06-10 22:48:10.240] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 416 ms"]
+[2024-06-10 22:48:10.240] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESUME] resuming session 728eab80758e8c2f0522ebb914703577, seq: 5700"]
+[2024-06-10 22:48:11.232] [4783] (discord.cpp:753): JS console: ["%c[Flux]","Dispatching CONNECTION_RESUMED"]
+[2024-06-10 22:48:11.246] [4783] (discord.cpp:753): JS console: ["%c[GatewaySocket]","[RESUMED] took 1423ms, replayed 0 events, new seq: 5703"]

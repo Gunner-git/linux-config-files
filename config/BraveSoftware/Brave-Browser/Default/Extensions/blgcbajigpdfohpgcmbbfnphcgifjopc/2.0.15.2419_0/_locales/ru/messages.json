@@ -1,0 +1,2075 @@
+{
+   "account_verified_header": {
+      "message": "Учетная запись подтверждена"
+   },
+   "account_verified_hint": {
+      "message": "Теперь на этом устройстве можно использовать ExpressVPN Keys."
+   },
+   "account_verified_text_p1": {
+      "message": "Чтобы просмотреть логины, закройте эту вкладку и откройте расширение или заходите на сайты, используя автозаполнение логинов."
+   },
+   "account_verified_text_p2": {
+      "message": "Если у вас есть вопросы, пожалуйста, [обратитесь в службу поддержки]."
+   },
+   "add_logins_back": {
+      "message": "Добавьте логин для {HOST}"
+   },
+   "add_logins_choose_website_header": {
+      "message": "Выберите веб-сайт"
+   },
+   "add_logins_choose_website_text": {
+      "message": "Не можете найти сайт, для которого хотите добавить логин? Нажмите на значок расширения и попробуйте добавить логины там."
+   },
+   "add_logins_header": {
+      "message": "Добавление первого пароля"
+   },
+   "add_logins_open_website": {
+      "message": "Откройте {HOST}."
+   },
+   "add_logins_step1": {
+      "message": "Откройте {HOST}."
+   },
+   "add_logins_step2": {
+      "message": "Если вы авторизованы, выполните выход."
+   },
+   "add_logins_step3": {
+      "message": "Снова выполните вход, введя свое имя пользователя и пароль."
+   },
+   "add_logins_step4": {
+      "message": "Чтобы сохранить учетные данные, нажмите \u003Cb>Сохранить\u003C/b>, когда появится запрос ExpressVPN."
+   },
+   "add_logins_text_p1": {
+      "message": "Выберите популярный сайт справа, и мы покажем вам, как добавить свой первый пароль."
+   },
+   "add_logins_text_p2_1": {
+      "message": "Если ваши логины сохранены в другом менеджере паролей,"
+   },
+   "add_logins_text_p2_2": {
+      "message": "вы можете импортировать их"
+   },
+   "add_logins_text_p2_3": {
+      "message": "прямо в ExpressVPN Keys одним нажатием."
+   },
+   "add_logins_text_p3": {
+      "message": "Хотите сохранить \u003Cb>защищенное примечание\u003C/b> или \u003Cb>данные банковской карты\u003C/b>? Откройте расширение и нажмите значок в виде зеленой кнопки «плюс». "
+   },
+   "app_default_title": {
+      "message": "ExpressVPN Keys"
+   },
+   "app_default_title_alpha": {
+      "message": "ExpressVPN Keys (Alpha)"
+   },
+   "app_default_title_beta": {
+      "message": "ExpressVPN Keys (Beta)"
+   },
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Безопасно храните и используйте пароли без ограничений прямо в браузере и быстрее авторизуйтесь на сайтах."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Безопасно храните и используйте пароли без ограничений прямо в браузере и быстрее авторизуйтесь на сайтах."
+   },
+   "app_description_text": {
+      "message": "Безопасно храните и используйте пароли без ограничений прямо в браузере и быстрее авторизуйтесь на сайтах."
+   },
+   "app_description_text_alpha": {
+      "message": "Безопасно храните и используйте пароли без ограничений прямо в браузере и быстрее авторизуйтесь на сайтах."
+   },
+   "app_description_text_beta": {
+      "message": "Безопасно храните и используйте пароли без ограничений прямо в браузере и быстрее авторизуйтесь на сайтах."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: менеджер паролей"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: менеджер паролей (Alpha)"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: менеджер паролей (Beta)"
+   },
+   "app_not_installed_have_expressvpn_Linux_p1": {
+      "message": "Чтобы использовать расширение Keys для Chrome, вам надобится установить и активировать приложение ExpressVPN для Linux."
+   },
+   "app_not_installed_have_expressvpn_Mac_p1": {
+      "message": "Чтобы использовать расширение Keys для Chrome, вам надобится установить и активировать приложение ExpressVPN для Mac."
+   },
+   "app_not_installed_have_expressvpn_Windows_p1": {
+      "message": "Чтобы использовать расширение Keys для Chrome, вам надобится установить и активировать приложение ExpressVPN для Windows."
+   },
+   "app_not_installed_have_expressvpn_button_label": {
+      "message": "Войти"
+   },
+   "app_not_installed_have_expressvpn_header": {
+      "message": "У вас есть учетная запись ExpressVPN?"
+   },
+   "app_not_installed_header": {
+      "message": "Храните свои пароли под защитой ExpressVPN Keys"
+   },
+   "app_not_installed_no_account_button_label": {
+      "message": "Купить ExpressVPN"
+   },
+   "app_not_installed_no_account_header": {
+      "message": "У вас нет учетной записи ExpressVPN?"
+   },
+   "app_not_installed_no_account_p1": {
+      "message": "Начните работу с ExpressVPN и получите доступ к VPN-защите премиум-класса и менеджеру паролей Keys! С 30-дневной гарантией возврата денег вы ничем не рискуете. "
+   },
+   "app_not_installed_subheader": {
+      "message": "Теперь подписка на ExpressVPN обеспечивает еще более полную защиту."
+   },
+   "app_short_name_title": {
+      "description": "The short name of the application",
+      "message": "ExpressVPN Keys"
+   },
+   "autofill_add_new_entry": {
+      "message": "Добавить логин в Keys"
+   },
+   "autofill_from_different_subdomain_warning_cancel": {
+      "message": "Отмена"
+   },
+   "autofill_from_different_subdomain_warning_proceed": {
+      "message": "Продолжить"
+   },
+   "autofill_from_different_subdomain_warning_text": {
+      "message": "Вы уверены? Вы пытаетесь ввести логин для \u003Cb>{ENTRY_DOMAIN}\u003C/b> на \u003Cb>{CURRENT_DOMAIN}\u003C/b>."
+   },
+   "autofill_loading_card_documents": {
+      "message": "Загрузка"
+   },
+   "autofill_loading_login_documents": {
+      "message": "Загрузка"
+   },
+   "autofill_on_insecure_origin_warning_title": {
+      "message": "Предупреждение о проблемах с безопасностью"
+   },
+   "autofill_on_insecure_origin_warning_warning_cancel": {
+      "message": "Отмена"
+   },
+   "autofill_on_insecure_origin_warning_warning_proceed": {
+      "message": "Всё равно заполнить"
+   },
+   "autofill_on_insecure_origin_warning_warning_text": {
+      "message": "Вы собираетесь ввести логин для \u003Cb>{ENTRY_DOMAIN}\u003C/b> на сайте \u003Cb>{CURRENT_DOMAIN}\u003C/b>. Подтвердите, что вы доверяете этому домену и хотите продолжить."
+   },
+   "autosave_existing_login_tab": {
+      "message": "Список логинов"
+   },
+   "autosave_modal_choose_entry_title": {
+      "message": "Выберите логин для изменения"
+   },
+   "autosave_modal_save_prompt_title": {
+      "message": "Сохранить логин?"
+   },
+   "autosave_modal_saved_title": {
+      "message": "Логин сохранен."
+   },
+   "autosave_modal_update_prompt_header": {
+      "message": "Обновить {HOST}"
+   },
+   "autosave_modal_update_prompt_title": {
+      "message": "Обновить логин для {HOST}?"
+   },
+   "autosave_modal_updated_title": {
+      "message": "Логин для {HOST} обновлен"
+   },
+   "autosave_new_login_tab": {
+      "message": "Новый логин"
+   },
+   "back": {
+      "message": "Назад"
+   },
+   "beta_survey_notification_help_improve_header": {
+      "message": "Помощь в улучшении ExpressVPN Keys"
+   },
+   "beta_survey_notification_help_improve_text": {
+      "message": "Нажмите здесь, чтобы поделиться своим мнением о недавно запущенном менеджере паролей."
+   },
+   "business_account_header": {
+      "message": "Извините!"
+   },
+   "business_account_hint": {
+      "message": "У вас есть личная учетная запись? Для доступа в Keys попробуйте войти через нее."
+   },
+   "business_account_p1": {
+      "message": "ExpressVPN Keys недоступен для бизнес-подписок и групповых пакетов."
+   },
+   "business_account_p2": {
+      "message": "Если у вас остались вопросы, \u003Ca href='https://www.expressvpn.com/support'>обратитесь в службу поддержки\u003C/a>."
+   },
+   "card_saved": {
+      "message": "Данные карты надежно сохранены в нашей системе. "
+   },
+   "centuries": {
+      "message": "несколько веков"
+   },
+   "century": {
+      "message": "век"
+   },
+   "change_password_set_new_header": {
+      "message": "Ваш новый основной пароль"
+   },
+   "change_password_strong_passwords_link_text": {
+      "message": "Узнайте, как создать надежные пароли"
+   },
+   "change_password_success_header": {
+      "message": "Готово!"
+   },
+   "change_password_success_hint": {
+      "message": "Основной пароль успешно изменен."
+   },
+   "change_password_success_text": {
+      "message": "Чтобы разблокировать менеджер паролей, закройте эту вкладку и откройте расширение ExpressVPN Keys, используя ваш новый основной пароль."
+   },
+   "change_password_verify_button_label": {
+      "message": "Подтвердить"
+   },
+   "change_password_verify_header": {
+      "message": "Подтвердите основной пароль"
+   },
+   "change_password_verify_text": {
+      "message": "Чтобы изменить основной пароль для ExpressVPN Keys, введите его справа. "
+   },
+   "character_limit_reached": {
+      "message": "Превышен лимит символов"
+   },
+   "contact_support_anchor": {
+      "message": "обратитесь в службу поддержки"
+   },
+   "day": {
+      "message": "дн"
+   },
+   "days": {
+      "message": "дн"
+   },
+   "delete_2fa_confirm_modal_cancel_button": {
+      "message": "Отмена"
+   },
+   "delete_2fa_confirm_modal_confirm_button": {
+      "message": "Удалить код"
+   },
+   "delete_2fa_confirm_modal_header": {
+      "message": "Вы уверены?"
+   },
+   "delete_2fa_confirm_modal_text_p1": {
+      "message": "Этот код может потребоваться вам для входа в учетную запись."
+   },
+   "delete_2fa_confirm_modal_text_p2": {
+      "message": "Перед удалением кода убедитесь, что вы отключили 2FA в настройках безопасности сайта или приложения и можете войти в свою учетную запись."
+   },
+   "delete_account_confirm_modal_cancel_button": {
+      "message": "Отмена"
+   },
+   "delete_account_confirm_modal_confirm_button": {
+      "message": "Удалить навсегда"
+   },
+   "delete_account_confirm_modal_header": {
+      "message": "Вы уверены?"
+   },
+   "delete_account_confirm_modal_text": {
+      "message": "Если у вас есть учетная запись менеджера паролей, она будет удалена навсегда."
+   },
+   "delete_account_unlock_modal_confirm_button": {
+      "message": "Разблокировать"
+   },
+   "delete_account_unlock_modal_header": {
+      "message": "Требуется разблокировка"
+   },
+   "delete_account_unlock_modal_text": {
+      "message": "Чтобы удалить учетную запись, разблокируйте хранилище."
+   },
+   "enter_label": {
+      "message": "Ввести"
+   },
+   "error_@chrome@_hide_text": {
+      "message": "Кроме того, вы можете скрыть расширение, щелкнув значок правой кнопкой мыши и выбрав «Скрыть в меню Chrome»."
+   },
+   "error_@firefox@_hide_text": {
+      "message": "Кроме того, вы можете скрыть расширение, щелкнув значок правой кнопкой мыши и выбрав «Удалить из панели инструментов» или «Переместить в меню»."
+   },
+   "export_data_as_csv": {
+      "message": "Экспортировать данные в CSV"
+   },
+   "export_data_as_csv_button": {
+      "message": "Экспортировать пароли"
+   },
+   "export_data_as_csv_file_hint": {
+      "message": "После экспорта в файл CSV ваши пароли будут показаны в незашифрованном виде."
+   },
+   "export_data_as_csv_file_label": {
+      "message": "Следуйте приведенным справа инструкциям, чтобы экспортировать пароли в файл CSV."
+   },
+   "export_data_as_csv_step_desc1": {
+      "message": "Нажмите «Экспортировать пароли» ниже."
+   },
+   "export_data_as_csv_step_desc2": {
+      "message": "Выберите каталог для загрузки."
+   },
+   "export_data_header": {
+      "message": "Экспортируйте данные в CSV"
+   },
+   "export_data_success_header": {
+      "message": "Готово!"
+   },
+   "export_data_success_hint": {
+      "message": "Пароли успешно экспортированы."
+   },
+   "export_data_success_label": {
+      "message": "Теперь вы можете закрыть эту вкладку и просмотреть свои пароли в файле CSV, расположенном в выбранном вами для загрузки каталоге."
+   },
+   "export_data_verify_password_label": {
+      "message": "Чтобы экспортировать данные, введите справа ваш основной пароль."
+   },
+   "generate_password_add_item": {
+      "message": "Нужен новый пароль?"
+   },
+   "generate_password_edit_item": {
+      "message": "Создайте надежный пароль"
+   },
+   "help_improve_header": {
+      "message": "Помощь в улучшении ExpressVPN Keys"
+   },
+   "help_improve_onboarding_expressvpn_keys": {
+      "message": "Помощь в улучшении ExpressVPN Keys"
+   },
+   "help_improve_onboarding_no_thanks": {
+      "message": "Нет, спасибо"
+   },
+   "help_improve_onboarding_ok": {
+      "message": "ОК"
+   },
+   "help_improve_onboarding_share_crash": {
+      "message": "Отправлять отчеты о сбоях и данные диагностики. Отчеты не содержат личной информации."
+   },
+   "help_improve_p": {
+      "message": "Отправлять отчеты о сбоях и данные диагностики. Отчеты не содержат личной информации."
+   },
+   "help_improve_primary_btn": {
+      "message": "OK"
+   },
+   "help_improve_secondary_btn": {
+      "message": "Нет, спасибо"
+   },
+   "help_menu_item_acknowledgements_label": {
+      "message": "Уведомления"
+   },
+   "help_menu_item_app_version": {
+      "message": "Версия приложения для {OS}: {VERSION}"
+   },
+   "help_menu_item_chat_label": {
+      "message": "Связаться с нами"
+   },
+   "help_menu_item_extension_version": {
+      "message": "Версия расширения: {VERSION}"
+   },
+   "help_menu_item_improvements_label": {
+      "message": "Предложить улучшение"
+   },
+   "help_menu_item_report_label": {
+      "message": "Сообщить о проблеме"
+   },
+   "help_menu_section_about_title": {
+      "message": "О расширении"
+   },
+   "help_menu_section_articles_cat1": {
+      "message": "Как использовать ExpressVPN Keys"
+   },
+   "help_menu_section_articles_cat1_sub1": {
+      "message": "Зачем нужен менеджер паролей?"
+   },
+   "help_menu_section_articles_cat1_sub10": {
+      "message": "Как использовать автозаполнение"
+   },
+   "help_menu_section_articles_cat1_sub11": {
+      "message": "Как изменить основной пароль"
+   },
+   "help_menu_section_articles_cat1_sub12": {
+      "message": "Установка пароля и адреса эл. почты"
+   },
+   "help_menu_section_articles_cat1_sub2": {
+      "message": "Сколько это стоит?"
+   },
+   "help_menu_section_articles_cat1_sub3": {
+      "message": "Нужна ли активная подписка?"
+   },
+   "help_menu_section_articles_cat1_sub4": {
+      "message": "Безопасен ли ExpressVPN Keys?"
+   },
+   "help_menu_section_articles_cat1_sub5": {
+      "message": "Какие устройства поддерживаются?"
+   },
+   "help_menu_section_articles_cat1_sub6": {
+      "message": "Как осуществляется управление моими данными?"
+   },
+   "help_menu_section_articles_cat1_sub7": {
+      "message": "Какие функции доступны?"
+   },
+   "help_menu_section_articles_cat1_sub8": {
+      "message": "Как импортировать существующие логины"
+   },
+   "help_menu_section_articles_cat1_sub9": {
+      "message": "Как сохранить логины"
+   },
+   "help_menu_section_articles_cat2": {
+      "message": "Проблемы с ExpressVPN Keys"
+   },
+   "help_menu_section_articles_cat2_sub1": {
+      "message": "Не удалось создать учетную запись"
+   },
+   "help_menu_section_articles_cat2_sub2": {
+      "message": "Не удалось подтвердить учетную запись"
+   },
+   "help_menu_section_articles_cat2_sub3": {
+      "message": "Не удалось разблокировать"
+   },
+   "help_menu_section_articles_cat2_sub4": {
+      "message": "Логины не синхронизируются должным образом"
+   },
+   "help_menu_section_articles_cat2_sub5": {
+      "message": "Не удалось сохранить или обновить логины"
+   },
+   "help_menu_section_articles_cat2_sub6": {
+      "message": "Автозаполнение не работает должным образом"
+   },
+   "help_menu_section_articles_cat2_sub7": {
+      "message": "Не удалось изменить основной пароль"
+   },
+   "help_menu_section_articles_title": {
+      "message": "Справочные статьи"
+   },
+   "help_menu_section_support_title": {
+      "message": "Связаться с нами"
+   },
+   "hint_copy_text": {
+      "message": "Скопировано"
+   },
+   "hour": {
+      "message": "ч"
+   },
+   "hours": {
+      "message": "ч"
+   },
+   "icloud_keychain": {
+      "message": "Safari/iCloud"
+   },
+   "import_chrome_password_settings": {
+      "message": "настройки паролей Chrome"
+   },
+   "import_document_already_exists": {
+      "message": "Документ существует"
+   },
+   "import_edge_password_settings": {
+      "message": "настройки паролей Edge"
+   },
+   "import_expressvpn": {
+      "message": "другой учетной записи ExpressVPN Keys"
+   },
+   "import_expressvpn_exported_step1": {
+      "message": "Проверьте, вошли ли вы в ту учетную запись, куда хотите импортировать пароли."
+   },
+   "import_expressvpn_exported_step2": {
+      "message": "Нажмите \u003Cb>Выбрать файл\u003C/b> ниже."
+   },
+   "import_expressvpn_exported_step3": {
+      "message": "Выберите файл CSV для импорта паролей."
+   },
+   "import_expressvpn_exported_title": {
+      "message": "Мои пароли уже экспортированы"
+   },
+   "import_expressvpn_header": {
+      "message": "Вы можете импортировать свои пароли ExpressVPN Keys, если хотите перенести их в другую учетную запись или восстановить после удаления учетной записи."
+   },
+   "import_expressvpn_important_header": {
+      "message": "\u003Cb>Важно!\u003C/b> Каждая отдельная подписка на ExpressVPN позволяет использовать лишь одну учетную запись Keys. Пожалуйста, убедитесь, что вы вошли в нужную учетную запись, прежде чем начать импорт паролей. В противном случае вы можете столкнуться с дублированными записями."
+   },
+   "import_expressvpn_need_to_export_step1": {
+      "message": "Войдите в учетную запись ExpressVPN, откуда вы хотите экспортировать данные."
+   },
+   "import_expressvpn_need_to_export_step2": {
+      "message": "Нажмите значок браузерного расширения ExpressVPN Keys."
+   },
+   "import_expressvpn_need_to_export_step3": {
+      "message": "Откройте вкладку \u003Cb>Параметры\u003C/b>, далее \u003Cb>Настройки\u003C/b> > \u003Cb>Данные\u003C/b> > \u003Cb>Экспортировать данные в CSV\u003C/b>."
+   },
+   "import_expressvpn_need_to_export_step4": {
+      "message": "Введите ваш основной пароль."
+   },
+   "import_expressvpn_need_to_export_step5": {
+      "message": "Нажмите \u003Cb>Экспортировать пароли\u003C/b>. На ваше устройство автоматически сохранится ваш CSV."
+   },
+   "import_expressvpn_need_to_export_step6": {
+      "message": "Выйдите из этой учетной записи и войдите в ту, куда вы хотите импортировать пароли."
+   },
+   "import_expressvpn_need_to_export_step7": {
+      "message": "Нажмите значок браузерного расширения ExpressVPN Keys."
+   },
+   "import_expressvpn_need_to_export_step8": {
+      "message": "Откройте вкладку \u003Cb>Параметры\u003C/b>, далее \u003Cb>Настройки\u003C/b> > \u003Cb>Данные\u003C/b> > \u003Cb>Перенос из других сервисов\u003C/b>."
+   },
+   "import_expressvpn_need_to_export_step9": {
+      "message": "Нажмите \u003Cb>…импортировать из другой учетной записи ExpressVPN Keys…\u003C/b> и следуйте инструкциям."
+   },
+   "import_expressvpn_need_to_export_title": {
+      "message": "Я хочу экспортировать пароли"
+   },
+   "import_from_a_service": {
+      "message": "Импортировать из сервиса ниже"
+   },
+   "import_from_existing_services": {
+      "message": "Перенос из других сервисов"
+   },
+   "import_logins_1password_1pw7_header": {
+      "message": "Инструкции для 1Password 7"
+   },
+   "import_logins_1password_1pw7_mac_step1": {
+      "message": "Откройте и разблокируйте 1Password."
+   },
+   "import_logins_1password_1pw7_mac_step2": {
+      "message": "Выберите хранилище, которое вы хотите экспортировать."
+   },
+   "import_logins_1password_1pw7_mac_step3": {
+      "message": "Откройте меню \u003Cb>Файл\u003C/b> > \u003Cb>Экспорт\u003C/b> > \u003Cb>Все элементы\u003C/b>."
+   },
+   "import_logins_1password_1pw7_mac_step4": {
+      "message": "Введите ваш основной пароль."
+   },
+   "import_logins_1password_1pw7_mac_step5": {
+      "message": "Выберите формат файла \u003Cb>iCloud Keychain (.csv)\u003C/b>. Если вы не видите этот вариант, убедитесь, что запустили \u003Ca target='_blank' href='https://app-updates.agilebits.com/download/OPM7'>новейшую версию 1Password 7\u003C/a>."
+   },
+   "import_logins_1password_1pw7_mac_step6": {
+      "message": "Сохраните файл на ваше устройство."
+   },
+   "import_logins_1password_1pw7_mac_step7": {
+      "message": "В расширении ExpressVPN Keys нажмите \u003Cb>Выбрать файл\u003C/b>."
+   },
+   "import_logins_1password_1pw7_mac_step8": {
+      "message": "Выберите файл CSV."
+   },
+   "import_logins_1password_1pw7_win_step1": {
+      "message": "Откройте и разблокируйте 1Password."
+   },
+   "import_logins_1password_1pw7_win_step2": {
+      "message": "Выберите все элементы, которые вы хотите экспортировать."
+   },
+   "import_logins_1password_1pw7_win_step3": {
+      "message": "Нажмите правой кнопкой и выберите \u003Cb>Экспорт\u003C/b>."
+   },
+   "import_logins_1password_1pw7_win_step4": {
+      "message": "Сохраните файл в формате \u003Cb>Comma-separated values (.csv)\u003C/b>."
+   },
+   "import_logins_1password_1pw7_win_step5": {
+      "message": "Сохраните файл на ваше устройство."
+   },
+   "import_logins_1password_1pw7_win_step6": {
+      "message": "В расширении ExpressVPN Keys нажмите \u003Cb>Выбрать файл\u003C/b>."
+   },
+   "import_logins_1password_1pw7_win_step7": {
+      "message": "Выберите файл CSV."
+   },
+   "import_logins_1password_1pw8_header": {
+      "message": "Инструкции для 1Password 8"
+   },
+   "import_logins_1password_1pw8_mac_step1": {
+      "message": "Откройте и разблокируйте 1Password."
+   },
+   "import_logins_1password_1pw8_mac_step2": {
+      "message": "Откройте меню \u003Cb>Файл\u003C/b> > \u003Cb>Экспорт\u003C/b>."
+   },
+   "import_logins_1password_1pw8_mac_step3": {
+      "message": "Введите ваш пароль."
+   },
+   "import_logins_1password_1pw8_mac_step4": {
+      "message": "Выберите формат файлов \u003Cb>CSV (только логины и пароли)\u003C/b>."
+   },
+   "import_logins_1password_1pw8_mac_step5": {
+      "message": "Сохраните файл на ваше устройство."
+   },
+   "import_logins_1password_1pw8_mac_step6": {
+      "message": "В расширении ExpressVPN Keys нажмите \u003Cb>Выбрать файл\u003C/b>."
+   },
+   "import_logins_1password_1pw8_mac_step7": {
+      "message": "Выберите файл CSV."
+   },
+   "import_logins_1password_1pw8_win_step1": {
+      "message": "Откройте и разблокируйте 1Password."
+   },
+   "import_logins_1password_1pw8_win_step2": {
+      "message": "Нажмите ... и выберите \u003Cb>Экспорт\u003C/b>."
+   },
+   "import_logins_1password_1pw8_win_step3": {
+      "message": "Введите ваш пароль."
+   },
+   "import_logins_1password_1pw8_win_step4": {
+      "message": "Выберите формат файлов \u003Cb>CSV (только логины и пароли)\u003C/b>."
+   },
+   "import_logins_1password_1pw8_win_step5": {
+      "message": "Сохраните файл на ваше устройство."
+   },
+   "import_logins_1password_1pw8_win_step6": {
+      "message": "В расширении ExpressVPN Keys нажмите \u003Cb>Выбрать файл\u003C/b>."
+   },
+   "import_logins_1password_1pw8_win_step7": {
+      "message": "Выберите файл CSV."
+   },
+   "import_logins_1password_import_limitation_header": {
+      "message": "\u003Cb>Важно!\u003C/b> ExpressVPN Keys поддерживает только импорт логинов. Другие данные, в том числе платежные реквизиты и сохраненные примечания, не будут импортированы."
+   },
+   "import_logins_add_your_password_link": {
+      "message": "добавить свои пароли вручную"
+   },
+   "import_logins_back": {
+      "message": "Импортировать из {HOST}"
+   },
+   "import_logins_choose_a_password_manager_service": {
+      "message": "Выберите из списка менеджер паролей, и мы покажем, как перенести оттуда ваши пароли."
+   },
+   "import_logins_choose_file": {
+      "message": "Выбрать файл"
+   },
+   "import_logins_contact_support": {
+      "message": "Обратитесь в службу поддержки"
+   },
+   "import_logins_contact_support_text": {
+      "message": "{import_logins_need_help}{import_logins_contact_support}, где вам помогут разобраться с инструкциями."
+   },
+   "import_logins_error_failed_table_header": {
+      "message": "Не удалось импортировать ({TOTAL_BAD_LOGINS})"
+   },
+   "import_logins_error_import_again_btn": {
+      "message": "Импортировать снова"
+   },
+   "import_logins_error_incomplete_header": {
+      "message": "Импорт не завершен"
+   },
+   "import_logins_error_incomplete_reimport_header": {
+      "message": "Чтобы импортировать оставшиеся логины:"
+   },
+   "import_logins_error_incomplete_reimport_step_1": {
+      "message": "Откройте только что эскпортированный файл CSV в вашем табличном редакторе."
+   },
+   "import_logins_error_incomplete_reimport_step_2": {
+      "message": "Удалите все строки, кроме тех, которые не удалось импортировать."
+   },
+   "import_logins_error_incomplete_reimport_step_3": {
+      "message": "Внесите изменения в оставшиеся строки на основе предложений справа."
+   },
+   "import_logins_error_incomplete_reimport_step_4": {
+      "message": "Сохраните файл, затем нажмите «Импортировать снова», чтобы перенести обновленный файл."
+   },
+   "import_logins_error_number_of_failed_logins_hint": {
+      "message": "Не удалось импортировать {TOTAL_BAD_LOGINS} из {TOTAL_LOGINS} логинов."
+   },
+   "import_logins_error_success_table_header": {
+      "message": "Успешно импортировано ({TOTAL_GOOD_LOGINS})"
+   },
+   "import_logins_error_table_domain_too_long": {
+      "message": "Слишком длинный адрес сайта "
+   },
+   "import_logins_error_table_failed_status": {
+      "message": "Не импортирован"
+   },
+   "import_logins_error_table_login_column": {
+      "message": "Название логина"
+   },
+   "import_logins_error_table_name_too_long": {
+      "message": "Слишком длинное имя"
+   },
+   "import_logins_error_table_note_too_long": {
+      "message": "Слишком длинное примечание"
+   },
+   "import_logins_error_table_password_too_long": {
+      "message": "Пароль слишком длинный"
+   },
+   "import_logins_error_table_see_success_logins_btn": {
+      "message": "Посмотреть импортированные логины ({TOTAL_GOOD_LOGINS})"
+   },
+   "import_logins_error_table_status_column": {
+      "message": "Состояние"
+   },
+   "import_logins_error_table_success_status": {
+      "message": "Импортирован"
+   },
+   "import_logins_error_table_username_too_long": {
+      "message": "Слишком длинное имя пользователя"
+   },
+   "import_logins_error_total_failure_header": {
+      "message": "Импорт не удался"
+   },
+   "import_logins_error_total_failure_reimport_header": {
+      "message": "Чтобы снова импортировать логины:"
+   },
+   "import_logins_error_total_failure_reimport_step_1": {
+      "message": "Откройте только что эскпортированный файл CSV в вашем табличном редакторе."
+   },
+   "import_logins_error_total_failure_reimport_step_2": {
+      "message": "Внесите изменения на основе предложений справа."
+   },
+   "import_logins_error_total_failure_reimport_step_3": {
+      "message": "Сохраните файл, затем нажмите «Импортировать снова», чтобы перенести обновленный файл."
+   },
+   "import_logins_error_untitled": {
+      "message": "Без названия"
+   },
+   "import_logins_estimated_time": {
+      "message": "Ожидаемое время: менее 2 минут"
+   },
+   "import_logins_from_another_express_account_link": {
+      "message": "импортируйте из другой учетной записи ExpressVPN Keys или резервной копии"
+   },
+   "import_logins_from_another_express_account_text": {
+      "message": "Хотите {import_logins_from_another_express_account_link}?"
+   },
+   "import_logins_header": {
+      "message": "Импортировать пароли"
+   },
+   "import_logins_here": {
+      "message": "здесь"
+   },
+   "import_logins_icloud_for_windows": {
+      "message": "В iCloud для Windows нельзя экспортировать свои логины и пароли. Вместо этого вы можете выполнить следующие действия:"
+   },
+   "import_logins_if_you_do_not_have_a_mac": {
+      "message": "Если у вас нет компьютера Mac, вы можете вручную скопировать свои логины, сохраненные в iCloud, а затем вставить их в менеджер паролей ExpressVPN Keys:"
+   },
+   "import_logins_if_you_have_a_mac": {
+      "message": "Если у вас есть компьютер Mac, установите расширение ExpressVPN Keys для Chrome, чтобы импортировать ваши сохраненные логины и пароли. Для этого {import_logins_if_you_have_a_mac_text}."
+   },
+   "import_logins_if_you_have_a_mac_text": {
+      "message": "воспользуйтесь нашей инструкцией для устройств Mac"
+   },
+   "import_logins_instructions_header_dashlane": {
+      "message": "\u003Cb>Важно!\u003C/b> ExpressVPN Keys поддерживает только импорт логинов. Другие данные, в том числе платежные реквизиты и сохраненные примечания, не будут импортированы."
+   },
+   "import_logins_instructions_header_lastpass": {
+      "message": "\u003Cb>Важно!\u003C/b> Вам потребуется \u003Ca target='_blank' href='https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd'>расширение LastPass\u003C/a> для экспорта ваших логинов и паролей."
+   },
+   "import_logins_manual_instructions_for_macos": {
+      "message": "Инструкции для macOS \u003C10.15 "
+   },
+   "import_logins_need_help": {
+      "message": "Нужна помощь?"
+   },
+   "import_logins_other": {
+      "message": "Другой"
+   },
+   "import_logins_other_apps": {
+      "message": "Импорт из других менеджеров паролей"
+   },
+   "import_logins_other_apps_instructions_advanced_users_p1": {
+      "message": "\u003Cb>Важно!\u003C/b> ExpressVPN Keys поддерживает только импорт логинов. Вы не сможете импортировать платежные реквизиты, сохраненные примечания и так далее."
+   },
+   "import_logins_other_apps_instructions_advanced_users_p2": {
+      "message": "Если вы умеете работать с табличными редакторами (Google Sheets, Microsoft Excel и т. д.), то можете импортировать свои логины, выполнив следующие действия:"
+   },
+   "import_logins_other_apps_instructions_advanced_users_text": {
+      "message": "Для продвинутых пользователей: импорт вручную"
+   },
+   "import_logins_other_apps_instructions_hint": {
+      "message": "К сожалению, сейчас мы не поддерживаем импорт логинов из вашего менеджера паролей."
+   },
+   "import_logins_other_apps_instructions_let_us_know_text": {
+      "message": "Пожалуйста, [дайте нам знать, какое решение вы используете], чтобы мы начали работу над этим."
+   },
+   "import_logins_other_apps_instructions_step1": {
+      "message": "Откройте ваш текущий менеджер паролей."
+   },
+   "import_logins_other_apps_instructions_step2": {
+      "message": "Экспортируйте свои сохраненные логины в файл CSV."
+   },
+   "import_logins_other_apps_instructions_step3": {
+      "message": "Откройте экспортированный файл CSV в вашем табличном редакторе."
+   },
+   "import_logins_other_apps_instructions_step4": {
+      "message": "Удалите всё \u003Cb>кроме логинов\u003C/b> (платежные реквизиты, примечания и т. д.)."
+   },
+   "import_logins_other_apps_instructions_step5": {
+      "message": "Удалите все столбцы \u003Cb>кроме следующих\u003C/b>:"
+   },
+   "import_logins_other_apps_instructions_step5_sub1": {
+      "message": "Название логина"
+   },
+   "import_logins_other_apps_instructions_step5_sub2": {
+      "message": "URL"
+   },
+   "import_logins_other_apps_instructions_step5_sub3": {
+      "message": "Имя пользователя или адрес эл. почты"
+   },
+   "import_logins_other_apps_instructions_step5_sub4": {
+      "message": "Пароль"
+   },
+   "import_logins_other_apps_instructions_step6": {
+      "message": "Убедитесь, что оставшиеся столбцы названы так (со строчной буквы):"
+   },
+   "import_logins_other_apps_instructions_step6_sub1": {
+      "message": "name"
+   },
+   "import_logins_other_apps_instructions_step6_sub2": {
+      "message": "url"
+   },
+   "import_logins_other_apps_instructions_step6_sub3": {
+      "message": "username"
+   },
+   "import_logins_other_apps_instructions_step6_sub4": {
+      "message": "password"
+   },
+   "import_logins_other_apps_instructions_step7": {
+      "message": "Сохраните обновленный файл в формате CSV."
+   },
+   "import_logins_other_apps_instructions_step8": {
+      "message": "Нажмите \u003Cb>Выбрать файл\u003C/b> ниже и откройте файл, который вы только что сохранили."
+   },
+   "import_logins_safari_mac_step1": {
+      "message": "Откройте \u003Cb>Safari\u003C/b>."
+   },
+   "import_logins_safari_mac_step2": {
+      "message": "Откройте меню \u003Cb>Safari\u003C/b> > \u003Cb>Настройки...\u003C/b>"
+   },
+   "import_logins_safari_mac_step3": {
+      "message": "Откройте вкладку \u003Cb>Пароли\u003C/b> и авторизуйтесь."
+   },
+   "import_logins_safari_mac_step4": {
+      "message": "В нижней левой части бокового меню нажмите … > \u003Cb>Экспортировать пароли\u003C/b> > \u003Cb>Экспортировать все пароли\u003C/b>."
+   },
+   "import_logins_safari_mac_step4_extra": {
+      "message": "Если вы не видите кнопку …, {import_logins_update_safari_mac_text}. Если проблема сохранится, нажмите {import_logins_here}."
+   },
+   "import_logins_safari_mac_step5": {
+      "message": "Сохраните файл на ваше устройство."
+   },
+   "import_logins_safari_mac_step6": {
+      "message": "Нажмите \u003Cb>Выбрать файл\u003C/b> ниже и откройте файл, который вы только что сохранили."
+   },
+   "import_logins_safari_old_mac_step1": {
+      "message": "Откройте \u003Cb>Safari\u003C/b>."
+   },
+   "import_logins_safari_old_mac_step2": {
+      "message": "Откройте меню \u003Cb>Safari\u003C/b> > \u003Cb>Настройки...\u003C/b>"
+   },
+   "import_logins_safari_old_mac_step3": {
+      "message": "Откройте вкладку \u003Cb>Пароли\u003C/b> и авторизуйтесь."
+   },
+   "import_logins_safari_old_mac_step4": {
+      "message": "Выберите сохраненный пароль, далее \u003Cb>Изменить\u003C/b>."
+   },
+   "import_logins_safari_old_mac_step5": {
+      "message": "Скопируйте имя пользователя, пароль и URL."
+   },
+   "import_logins_safari_old_mac_step6": {
+      "message": "Нажмите \u003Cb>+\u003C/b> в расширении ExpressVPN Keys."
+   },
+   "import_logins_safari_old_mac_step7": {
+      "message": "Придумайте название для логина, затем вставьте имя пользователя, пароль и URL."
+   },
+   "import_logins_safari_old_mac_step8": {
+      "message": "Нажмите \u003Cb>Сохранить\u003C/b>."
+   },
+   "import_logins_safari_windows_step1": {
+      "message": "Откройте приложение \u003Cb>Пароли iCloud\u003C/b> на вашем устройстве Windows."
+   },
+   "import_logins_safari_windows_step2": {
+      "message": "Нажмите на сохраненный логин."
+   },
+   "import_logins_safari_windows_step3": {
+      "message": "Нажмите значок \u003Cb>Копировать\u003C/b> в верхнем правом углу, чтобы скопировать ваше имя пользователя, пароль и URL. "
+   },
+   "import_logins_safari_windows_step4": {
+      "message": "Нажмите \u003Cb>+\u003C/b> в расширении ExpressVPN Keys."
+   },
+   "import_logins_safari_windows_step5": {
+      "message": "Придумайте название для логина, затем вставьте имя пользователя, пароль и URL."
+   },
+   "import_logins_safari_windows_step6": {
+      "message": "Нажмите \u003Cb>Сохранить\u003C/b>."
+   },
+   "import_logins_safari_you_are_running_an_old_version": {
+      "message": "Вы используете старую версию macOS, которая не поддерживает экспорт логинов и паролей из Связки ключей Apple iCloud. Впрочем, вы можете вручную скопировать ваши логины, сохраненные в Safari, и вставить их в ExpressVPN Keys:"
+   },
+   "import_logins_step1": {
+      "message": "Откройте {PASSWORD_SETTINGS}."
+   },
+   "import_logins_step1_bitwarden": {
+      "message": "Авторизуйтесь на сайте \u003Ca target='_blank' href='https://vault.bitwarden.com'>https://vault.bitwarden.com\u003C/a>."
+   },
+   "import_logins_step1_dashlane": {
+      "message": "\u003Ca target='_blank' href='https://app.dashlane.com/login'>Откройте страницу входа в Dashlane.\u003C/a>"
+   },
+   "import_logins_step1_lastpass": {
+      "message": "Откройте браузерное расширение LastPass."
+   },
+   "import_logins_step2": {
+      "message": "Нажмите {ICON} над списком сохраненных паролей > \u003Cb>Экспортировать пароли…\u003C/b>"
+   },
+   "import_logins_step2_bitwarden": {
+      "message": "Нажмите \u003Cb>Инструменты\u003C/b> вверху."
+   },
+   "import_logins_step2_dashlane": {
+      "message": "Введите ваш адрес электронной почты. Нажмите \u003Cb>Далее\u003C/b>."
+   },
+   "import_logins_step2_lastpass": {
+      "message": "Нажмите \u003Cb>Настройки учетной записи\u003C/b> > \u003Cb>Продвинутые\u003C/b> > \u003Cb>Экспорт\u003C/b>."
+   },
+   "import_logins_step3": {
+      "message": "Нажмите \u003Cb>Экспортировать пароли…\u003C/b>"
+   },
+   "import_logins_step3_bitwarden": {
+      "message": "В меню слева нажмите \u003Cb>Экспортировать хранилище\u003C/b>."
+   },
+   "import_logins_step3_dashlane": {
+      "message": "Вверху справа нажмите \u003Cb>Моя учетная запись\u003C/b>."
+   },
+   "import_logins_step3_lastpass": {
+      "message": "Выберите \u003Cb>Файл CSV LastPass\u003C/b>."
+   },
+   "import_logins_step4": {
+      "message": "Если потребуется, введите пароль от вашего устройства. Нажмите \u003Cb>OK.\u003C/b>"
+   },
+   "import_logins_step4_bitwarden": {
+      "message": "В качестве \u003Cb>формата файла\u003C/b> выберите \u003Cb>.csv\u003C/b>."
+   },
+   "import_logins_step4_dashlane": {
+      "message": "Нажмите \u003Cb>Настройки > Экспорт данных\u003C/b>."
+   },
+   "import_logins_step4_lastpass": {
+      "message": "Введите ваш основной пароль."
+   },
+   "import_logins_step5": {
+      "message": "Сохраните файл CSV на вашем устройстве."
+   },
+   "import_logins_step5_bitwarden": {
+      "message": "Введите ваш основной пароль."
+   },
+   "import_logins_step5_dashlane": {
+      "message": "Введите ваш основной пароль."
+   },
+   "import_logins_step5_lastpass": {
+      "message": "Файл CSV будет автоматически сохранен на ваше устройство."
+   },
+   "import_logins_step6": {
+      "message": "Нажмите \u003Cb>Выбрать файл\u003C/b> в настройках расширения ExpressVPN Keys."
+   },
+   "import_logins_step6_bitwarden": {
+      "message": "Нажмите \u003Cb>Экспортировать хранилище\u003C/b> и выполните инструкции."
+   },
+   "import_logins_step6_dashlane": {
+      "message": "Нажмите \u003Cb>Экспортировать в CSV\u003C/b>."
+   },
+   "import_logins_step6_lastpass": {
+      "message": "Нажмите \u003Cb>Выбрать файл\u003C/b> в настройках расширения ExpressVPN Keys."
+   },
+   "import_logins_step7": {
+      "message": "Выберите файл CSV."
+   },
+   "import_logins_step7_bitwarden": {
+      "message": "Файл CSV будет автоматически сохранен на ваше устройство."
+   },
+   "import_logins_step7_dashlane": {
+      "message": "Нажмите дважды на ZIP-файл, чтобы извлечь файлы CSV."
+   },
+   "import_logins_step7_lastpass": {
+      "message": "Выберите файл CSV для импорта ваших паролей."
+   },
+   "import_logins_step8_bitwarden": {
+      "message": "В расширении ExpressVPN Keys нажмите \u003Cb>Выбрать файл\u003C/b>."
+   },
+   "import_logins_step8_dashlane": {
+      "message": "В расширении ExpressVPN Keys нажмите \u003Cb>Выбрать файл\u003C/b>."
+   },
+   "import_logins_step9_bitwarden": {
+      "message": "Выберите файл CSV для импорта ваших паролей."
+   },
+   "import_logins_step9_dashlane": {
+      "message": "Выберите файл  \u003Cb>credentials.csv\u003C/b> для импорта ваших паролей."
+   },
+   "import_logins_success_close": {
+      "message": "Закрыть вкладку"
+   },
+   "import_logins_success_header": {
+      "message": "Всё получилось!"
+   },
+   "import_logins_success_hint": {
+      "message": "Все логины ({TOTAL_LOGINS}) были успешно импортированы."
+   },
+   "import_logins_success_import_more": {
+      "message": "Импортировать другие логины"
+   },
+   "import_logins_success_text": {
+      "message": "Чтобы просмотреть логины, закройте эту вкладку и откройте расширение Keys или заходите на сайты, используя автозаполнение логинов."
+   },
+   "import_logins_success_text_2": {
+      "message": "Если вам нужна дополнительная помощь, а также если вы заметили ошибки в процессе импорта, {contact_support_anchor}."
+   },
+   "import_logins_update_safari_mac_text": {
+      "message": "обновите macOS и/или Safari"
+   },
+   "import_logins_verify_password_label": {
+      "message": "Введите ваш основной пароль справа для импорта из существующих сервисов."
+   },
+   "import_password_error": {
+      "message": "Не удалось загрузить файл. Пожалуйста, повторите попытку."
+   },
+   "import_password_file": {
+      "message": "Импортировать файл с паролями (.csv)"
+   },
+   "imports_logins_you_can_also_choose_to": {
+      "message": "Также вы можете {ROUTER_LINK}."
+   },
+   "info_banner_deactivate_password_managers": {
+      "message": "Отключите другие менеджеры паролей, чтобы использовать все возможности Keys."
+   },
+   "info_banner_learn_more": {
+      "message": "Подробнее"
+   },
+   "info_banner_warning_api_unreachable_vpn_off": {
+      "message": "Ошибка синхронизации. Попробуйте подключиться к VPN или обратитесь в службу поддержки."
+   },
+   "info_banner_warning_api_unreachable_vpn_on": {
+      "message": "Ошибка синхронизации. Попробуйте подключиться к другой локации VPN-серверов или обратиться в службу поддержки."
+   },
+   "info_banner_warning_offline": {
+      "message": "Вы не подключены к Сети. Изменения синхронизируются после подключения к Интернету."
+   },
+   "ksp_item_text_1": {
+      "message": "Keys позволяет создавать, хранить и заполнять пароли на всех ваших устройствах.\u003Cbr/>Кроме того, он включен в VPN-подписку."
+   },
+   "ksp_item_text_2": {
+      "message": "Шифрование с нулевым разглашением гарантирует, что никто не сможет получить доступ к вашим данным, даже ExpressVPN."
+   },
+   "ksp_item_text_3": {
+      "message": "Эксперты TechRadar отметили «отличную защиту данных», а специалисты по киберзащите из Cure53 провели независимую проверку."
+   },
+   "ksp_item_text_4": {
+      "message": "[Перенесите все свои логины] из Chrome, Safari, 1Password, LastPass и других программ."
+   },
+   "ksp_item_text_5": {
+      "message": "Keys позволяет хранить примечания и платежные данные, генерировать одноразовые коды и не только.\u003Cbr/>[Подробнее о Keys]"
+   },
+   "ksp_item_title_1": {
+      "message": "Безопасный и удобный менеджер паролей"
+   },
+   "ksp_item_title_2": {
+      "message": "Ваши данные только для вас"
+   },
+   "ksp_item_title_3": {
+      "message": "Безопасный дизайн, проверено экспертами"
+   },
+   "ksp_item_title_4": {
+      "message": "Импортируйте логины из других менеджеров паролей"
+   },
+   "ksp_item_title_5": {
+      "message": "Защита не только паролей"
+   },
+   "ksp_next_button": {
+      "message": "Далее"
+   },
+   "ksp_set_up_button": {
+      "message": "Настроить ExpressVPN Keys"
+   },
+   "ksp_skip_button": {
+      "message": "Пропустить"
+   },
+   "less_than_a_second": {
+      "message": "Менее секунды"
+   },
+   "login_saved": {
+      "message": "Логин сохранен. Он будет храниться в полной безопасности."
+   },
+   "minute": {
+      "message": "мин"
+   },
+   "minutes": {
+      "message": "мин"
+   },
+   "modal_password_page_app_not_activated_Linux_text": {
+      "message": "Чтобы использовать расширение, авторизуйтесь в приложении ExpressVPN для Linux."
+   },
+   "modal_password_page_app_not_activated_Linux_text_p1": {
+      "message": "Войдите в свою учетную запись ExpressVPN, чтобы найти код активации, а затем запустите в терминале команду {ACTIVATE_COMMAND} и введите свой код."
+   },
+   "modal_password_page_app_not_activated_Mac_text": {
+      "message": "Чтобы использовать расширение, авторизуйтесь в приложении ExpressVPN для Mac."
+   },
+   "modal_password_page_app_not_activated_Mac_text_p1": {
+      "message": "Войдите в свою учетную запись ExpressVPN, чтобы найти код активации."
+   },
+   "modal_password_page_app_not_activated_Windows_text": {
+      "message": "Чтобы использовать расширение, авторизуйтесь в приложении ExpressVPN для Windows."
+   },
+   "modal_password_page_app_not_activated_Windows_text_p1": {
+      "message": "Войдите в свою учетную запись ExpressVPN, чтобы найти код активации."
+   },
+   "modal_password_page_app_not_activated_btn_primary": {
+      "message": "Получить код активации"
+   },
+   "modal_password_page_app_not_activated_btn_secondary": {
+      "message": "Ввести код"
+   },
+   "modal_password_page_app_not_activated_text_p2": {
+      "message": "Нужна помощь? [Обратитесь в службу поддержки]."
+   },
+   "modal_password_page_app_not_activated_title": {
+      "message": "Активировать приложение"
+   },
+   "modal_password_page_update_app_Linux_text_p1": {
+      "message": "Для этого расширения требуется последняя версия приложения ExpressVPN для Linux."
+   },
+   "modal_password_page_update_app_Mac_text_p1": {
+      "message": "Для этого расширения требуется последняя версия приложения ExpressVPN для Mac."
+   },
+   "modal_password_page_update_app_Windows_text_p1": {
+      "message": "Для этого расширения требуется последняя версия приложения ExpressVPN для Windows."
+   },
+   "modal_password_page_update_app_button": {
+      "message": "Обновить приложение"
+   },
+   "modal_password_page_update_app_text_p2": {
+      "message": "Нужна помощь? [Обратитесь в службу поддержки]."
+   },
+   "modal_password_page_update_app_title": {
+      "message": "Обновите приложение"
+   },
+   "month": {
+      "message": "мес"
+   },
+   "months": {
+      "message": "мес"
+   },
+   "n_logins_saved_for_website": {
+      "message": "Для {HOST} сохранено {N_ENTRIES} логинов"
+   },
+   "nav_item_help": {
+      "message": "Справка"
+   },
+   "nav_item_keys": {
+      "message": "Keys"
+   },
+   "nav_item_options": {
+      "message": "Параметры"
+   },
+   "no_logins_saved_for_website": {
+      "message": "Нет сохраненных логинов для\u003Cbr/>\u003Cb>{HOST}\u003C/b>"
+   },
+   "notification_clipboard_cleared_message": {
+      "message": "Данные удалены для защиты вашей конфиденциальности"
+   },
+   "notification_clipboard_cleared_title": {
+      "message": "Буфер обмена очищен"
+   },
+   "notification_extension_update_message": {
+      "message": "Нажмите, чтобы узнать, что нового в этой версии."
+   },
+   "notification_extension_update_title": {
+      "message": "Приложение ExpressVPN Keys обновлено"
+   },
+   "notification_totp_available_message": {
+      "message": "Нажмите здесь, чтобы скопировать ваш код для {DOMAIN}"
+   },
+   "notification_totp_available_title": {
+      "message": "Вот ваш код: {CODE}"
+   },
+   "options_menu_get_30_days_free_label": {
+      "message": "Получить 30 дней в подарок"
+   },
+   "options_menu_item_settings_label": {
+      "message": "Настройки"
+   },
+   "options_menu_rate_expressvpn_label": {
+      "message": "Оценить ExpressVPN Keys"
+   },
+   "options_menu_section_options_title": {
+      "message": "Параметры"
+   },
+   "options_menu_setup_other_devices_label": {
+      "message": "Установка на другие устройства"
+   },
+   "options_modal_not_yet_available_generic_text": {
+      "message": "Пожалуйста, повторите попытку позднее."
+   },
+   "options_modal_not_yet_available_header": {
+      "message": "Пока что недоступно"
+   },
+   "other_logins": {
+      "message": "Другие логины"
+   },
+   "password_generator_capitals": {
+      "message": "Заглавные"
+   },
+   "password_generator_characters": {
+      "message": " {NUMBER} "
+   },
+   "password_generator_choose_criteria": {
+      "message": "Выберите критерии"
+   },
+   "password_generator_close": {
+      "message": "Закрыть"
+   },
+   "password_generator_length": {
+      "message": "Количество символов:"
+   },
+   "password_generator_numbers": {
+      "message": "Цифры"
+   },
+   "password_generator_password_label": {
+      "message": "Нажмите, чтобы использовать"
+   },
+   "password_generator_symbols": {
+      "message": "Символы"
+   },
+   "password_generator_title": {
+      "message": "Предложенный пароль"
+   },
+   "password_generator_use_password": {
+      "message": "Использовать пароль"
+   },
+   "password_strength_0": {
+      "message": " {password_strength_0_bold} Может быть взломан очень быстро."
+   },
+   "password_strength_0_bold": {
+      "message": "Ненадежный пароль!"
+   },
+   "password_strength_1": {
+      "message": "{password_strength_1_bold} Может быть взломан очень быстро."
+   },
+   "password_strength_1_bold": {
+      "message": "Слабый пароль."
+   },
+   "password_strength_2": {
+      "message": "{password_strength_2_bold} Для взлома может потребоваться до {TIME}."
+   },
+   "password_strength_2_bold": {
+      "message": "Средний пароль."
+   },
+   "password_strength_3": {
+      "message": "{password_strength_3_bold} Для взлома может потребоваться до {TIME}."
+   },
+   "password_strength_3_bold": {
+      "message": "Сильный пароль."
+   },
+   "password_strength_4": {
+      "message": "{password_strength_4_bold} Для взлома может потребоваться {TIME}."
+   },
+   "password_strength_4_bold": {
+      "message": "Очень надежный пароль!"
+   },
+   "password_suggestion_add_another_word_or_two": {
+      "message": "Добавьте еще одно–два слова."
+   },
+   "password_suggestion_avoid_dates": {
+      "message": "Не используйте даты и годы, которые можно связать с вами."
+   },
+   "password_suggestion_avoid_obvious_patterns": {
+      "message": "Старайтесь избегать очевидных комбинаций символов."
+   },
+   "password_suggestion_avoid_recent_years": {
+      "message": "Избегайте недавних дат (лет)."
+   },
+   "password_suggestion_avoid_repeats": {
+      "message": "Старайтесь не повторять слова и символы."
+   },
+   "password_suggestion_avoid_sequences": {
+      "message": "Избегайте последовательностей."
+   },
+   "password_suggestion_avoid_years": {
+      "message": "Не используйте даты, которые можно связать с вами."
+   },
+   "password_suggestion_capitalization_does_not_help": {
+      "message": "Заглавные буквы вместо строчных? Не поможет."
+   },
+   "password_suggestion_no_need_for_extra_chars": {
+      "message": "Специальные символы, цифры и заглавные буквы не нужны."
+   },
+   "password_suggestion_reversed_word_does_not_help": {
+      "message": "Записанные задом наперед слова легко угадать."
+   },
+   "password_suggestion_substitution_does_not_help": {
+      "message": "Замены (например, \"{'@'}\" вместо \"a\") очень легко угадать."
+   },
+   "password_suggestion_uppercase_does_not_help": {
+      "message": "Заглавные буквы вместо строчных? Не поможет."
+   },
+   "password_suggestion_use_uncommon_words": {
+      "message": "Используйте несколько необычных слов."
+   },
+   "password_warning_common_names_are_easy_to_guess": {
+      "message": "Не используйте обычные имена или фамилии."
+   },
+   "password_warning_dates_are_easy_to_guess": {
+      "message": "Угадать даты обычно не составляет труда."
+   },
+   "password_warning_names_are_easy_to_guess": {
+      "message": "Имена как таковые угадать очень легко."
+   },
+   "password_warning_repeats_are_easy_to_guess": {
+      "message": "Повторы (например, \"aaa\") легко угадываются."
+   },
+   "password_warning_repeats_are_slightly_harder_to_guess": {
+      "message": "Повторы (например, \"abcabcabc\") легко угадываются."
+   },
+   "password_warning_sequences_are_easy_to_guess": {
+      "message": "Последовательности (например, 6543) легко угадываются."
+   },
+   "password_warning_short_patterns_are_easy_to_guess": {
+      "message": "Клавиатурные шаблоны небезопасны."
+   },
+   "password_warning_simmilar_to_common_password": {
+      "message": "Слишком похоже на ранее использованный пароль."
+   },
+   "password_warning_straight_rows_are_easy_to_guess": {
+      "message": "Угадать последовательно набранные комбинации (йцукен) очень просто."
+   },
+   "password_warning_top_100_common_password": {
+      "message": "Это один из 100 самых распространенных паролей."
+   },
+   "password_warning_top_10_common_password": {
+      "message": "Это один из 10 самых распространенных паролей."
+   },
+   "password_warning_very_common_password": {
+      "message": "Это очень распространенный пароль."
+   },
+   "password_warning_word_is_easy_to_guess": {
+      "message": "Слово само по себе легко угадать."
+   },
+   "password_warning_years_are_easy_to_guess": {
+      "message": "Угадать недавние годы очень просто."
+   },
+   "primary_password_strength_0": {
+      "message": "{primary_password_strength_0_bold}, теперь попробуйте добавить еще несколько слов."
+   },
+   "primary_password_strength_0_bold": {
+      "message": "Отличное начало"
+   },
+   "primary_password_strength_1": {
+      "message": "{primary_password_strength_1_bold}, продолжайте печатать."
+   },
+   "primary_password_strength_1_bold": {
+      "message": "Уже почти"
+   },
+   "primary_password_strength_2": {
+      "message": "{primary_password_strength_2_bold}, добавьте еще несколько слов."
+   },
+   "primary_password_strength_2_bold": {
+      "message": "Продолжайте"
+   },
+   "primary_password_strength_3": {
+      "message": "{primary_password_strength_3_bold}. Ваш пароль становится надежнее!"
+   },
+   "primary_password_strength_3_bold": {
+      "message": "Весьма недурно"
+   },
+   "primary_password_strength_4": {
+      "message": "{primary_password_strength_4_bold} Вы готовы к работе."
+   },
+   "primary_password_strength_4_bold": {
+      "message": "Очень надежный!"
+   },
+   "primary_password_strength_empty": {
+      "message": "Введите несколько слов. Например, {primary_password_strength_empty_bold}"
+   },
+   "primary_password_strength_empty_bold": {
+      "message": "AquaLampJamCarpe"
+   },
+   "primary_password_strength_new_empty": {
+      "message": "Введите пароль. Например, {primary_password_strength_new_empty_bold}"
+   },
+   "primary_password_strength_new_empty_bold": {
+      "message": "R{'@'}bbitPresentFather12!"
+   },
+   "pwm_2fa_added_close": {
+      "message": "Закрыть"
+   },
+   "pwm_2fa_added_header": {
+      "message": "Код подтверждения 2FA добавлен"
+   },
+   "pwm_2fa_added_message": {
+      "message": "Чтобы завершить установку 2FA, введите код на сайте или в приложении."
+   },
+   "pwm_2fa_popup_subtitle": {
+      "message": "Код 2FA: {CODE}"
+   },
+   "pwm_card_coming_soon_modal_p": {
+      "message": "Вскоре вы сможете добавлять и редактировать данные банковских карт"
+   },
+   "pwm_card_expiry_date_label": {
+      "message": "Срок действия"
+   },
+   "pwm_card_name_on_card_label": {
+      "message": "Имя на карте"
+   },
+   "pwm_card_notes_label": {
+      "message": "Примечания"
+   },
+   "pwm_card_number_label": {
+      "message": "Номер карты"
+   },
+   "pwm_card_security_code_label": {
+      "message": "Код безопасности"
+   },
+   "pwm_card_title_label": {
+      "message": "Название карты"
+   },
+   "pwm_card_zip_code_label": {
+      "message": "Почтовый индекс"
+   },
+   "pwm_contact_us_label": {
+      "message": "обратитесь в службу поддержки"
+   },
+   "pwm_create_account_error_modal_title": {
+      "message": "Не удалось создать учетную запись"
+   },
+   "pwm_create_card_option_text": {
+      "message": "Добавить банковскую карту"
+   },
+   "pwm_create_login_option_text": {
+      "message": "Добавить логин"
+   },
+   "pwm_create_login_set_up_2fa": {
+      "message": "Настройте код подтверждения 2FA"
+   },
+   "pwm_create_secure_note_option_text": {
+      "message": "Добавить примечание"
+   },
+   "pwm_document_filter_entry_all_categories": {
+      "message": "Все категории"
+   },
+   "pwm_document_filter_entry_credit_debit_cards": {
+      "message": "Банковские карты"
+   },
+   "pwm_document_filter_entry_logins": {
+      "message": "Логины"
+   },
+   "pwm_document_filter_entry_secure_notes": {
+      "message": "Защищенные примечания"
+   },
+   "pwm_enter_2fa_setup_confirm": {
+      "message": "Подтвердить"
+   },
+   "pwm_enter_2fa_setup_header": {
+      "message": "Введите ключ установки"
+   },
+   "pwm_enter_2fa_setup_invalid_key": {
+      "message": "Неправильный ключ установки"
+   },
+   "pwm_enter_2fa_setup_message_1": {
+      "message": "Воспользуйтесь \u003Ca target='_blank' href='{INSTRUCTIONS_URL}'>этими инструкциями\u003C/a> для активации 2FA на {DOMAIN} и получения ключа установки."
+   },
+   "pwm_enter_2fa_setup_message_2": {
+      "message": "Включите 2FA в настройках безопасности на \u003Ca target='_blank' href='{URL}'>{DOMAIN}\u003C/a>, затем введите ключ установки."
+   },
+   "pwm_enter_2fa_setup_message_3": {
+      "message": "Включите 2FA в настройках безопасности сайта или приложения, чтобы получить ключ установки."
+   },
+   "pwm_enter_2fa_setup_scan_page_qr": {
+      "message": "Или сканируйте страницу для получения QR-кода"
+   },
+   "pwm_enter_2fa_setup_textinput_hint": {
+      "message": "напр., FGPZA75GN46JAK76"
+   },
+   "pwm_enter_2fa_setup_textinput_label": {
+      "message": "Ключ установки"
+   },
+   "pwm_enter_password_again_code_label": {
+      "message": "Ввести пароль снова"
+   },
+   "pwm_entry_add_card_new_header": {
+      "message": "Добавить карту"
+   },
+   "pwm_entry_add_new_header": {
+      "message": "Добавить логин"
+   },
+   "pwm_entry_add_secure_note_new_header": {
+      "message": "Добавить примечание"
+   },
+   "pwm_entry_list_add_first_login_header": {
+      "message": "Всё готово!"
+   },
+   "pwm_entry_list_add_first_login_text": {
+      "message": "Начните с добавления логина, примечания или банковской карты, чтобы безопасно хранить, синхронизировать и заполнять их на всех ваших устройствах."
+   },
+   "pwm_entry_list_add_first_login_tooltip": {
+      "message": "Нажмите здесь, чтобы добавить свой первый логин"
+   },
+   "pwm_entry_no_result_found": {
+      "message": "Ничего не найдено"
+   },
+   "pwm_entry_preview_name_label": {
+      "message": "Имя"
+   },
+   "pwm_entry_search_all_items": {
+      "message": "Поиск по всем данным"
+   },
+   "pwm_entry_view_2FA_label": {
+      "message": "Код подтверждения 2FA"
+   },
+   "pwm_entry_view_created_on_label": {
+      "message": "Создан {DATE}"
+   },
+   "pwm_entry_view_delete_btn": {
+      "message": "Удалить"
+   },
+   "pwm_entry_view_edit_btn": {
+      "message": "Изменить"
+   },
+   "pwm_entry_view_email_label": {
+      "message": "Эл. почта или имя пользователя"
+   },
+   "pwm_entry_view_login_btn": {
+      "message": "Войти"
+   },
+   "pwm_entry_view_name_label": {
+      "message": "Имя (обязательно)"
+   },
+   "pwm_entry_view_notes_label": {
+      "message": "Примечания"
+   },
+   "pwm_entry_view_pw_label": {
+      "message": "Пароль"
+   },
+   "pwm_entry_view_save_btn": {
+      "message": "Сохранить"
+   },
+   "pwm_entry_view_updated_on_label": {
+      "message": "Изменен {DATE}"
+   },
+   "pwm_entry_view_url_label": {
+      "message": "URL сайта"
+   },
+   "pwm_error_api_unreachable_step_1": {
+      "message": "Включите VPN"
+   },
+   "pwm_error_api_unreachable_step_2": {
+      "message": "Выберите другую локацию \nVPN-серверов"
+   },
+   "pwm_error_api_unreachable_step_3": {
+      "message": "Если ничего не помогло, [обратитесь в службу поддержки]"
+   },
+   "pwm_error_api_unreachable_text_1": {
+      "message": "Чтобы устранить эту проблему, выполните следующие действия:"
+   },
+   "pwm_error_no_access_btn_primary": {
+      "message": "Повторить попытку"
+   },
+   "pwm_error_no_access_btn_secondary": {
+      "message": "Связаться с нами"
+   },
+   "pwm_error_no_access_header": {
+      "message": "Не удалось открыть ExpressVPN Keys"
+   },
+   "pwm_error_no_access_text_1": {
+      "message": "Не удалось получить доступ к менеджеру паролей. Попробуйте еще раз через несколько минут."
+   },
+   "pwm_error_offline_text_1": {
+      "message": "Проверьте статус интернет-подключения и повторите попытку."
+   },
+   "pwm_generic_error_modal_text": {
+      "message": "Повторите попытку через несколько минут."
+   },
+   "pwm_hint_entry_edit_saved": {
+      "message": "Сохранено. Не забудьте обновить учетные данные на {URL}."
+   },
+   "pwm_import_existing_logins_option_text": {
+      "message": "Импортировать логины"
+   },
+   "pwm_locked_vault_password_manager": {
+      "message": "ExpressVPN Keys"
+   },
+   "pwm_locked_vault_unlock": {
+      "message": "Нажмите значок расширения или {COMMAND}, чтобы разблокировать Keys."
+   },
+   "pwm_modal_cancel_entry_confirm_header": {
+      "message": "Вы уверены?"
+   },
+   "pwm_modal_cancel_entry_confirm_text": {
+      "message": "Ваши изменения не будут сохранены."
+   },
+   "pwm_modal_delete_entry_cancel_button": {
+      "message": "Отмена"
+   },
+   "pwm_modal_delete_entry_confirm_button": {
+      "message": "Удалить навсегда"
+   },
+   "pwm_modal_delete_entry_confirm_header": {
+      "message": "Вы уверены?"
+   },
+   "pwm_modal_delete_entry_confirm_text": {
+      "message": "Этот логин будет удален навсегда."
+   },
+   "pwm_modal_discard_changes_cancel_button": {
+      "message": "Продолжить работу"
+   },
+   "pwm_modal_discard_changes_confirm_button": {
+      "message": "Отменить изменения"
+   },
+   "pwm_modal_expiry_date_confirm_button": {
+      "message": "Сохранить"
+   },
+   "pwm_modal_save_entry_error_cancel_button": {
+      "message": "Отмена"
+   },
+   "pwm_modal_save_entry_error_header": {
+      "message": "Не удалось сохранить"
+   },
+   "pwm_modal_save_entry_error_retry_button": {
+      "message": "Повторить попытку"
+   },
+   "pwm_modal_save_entry_error_text": {
+      "message": "Попробуйте еще раз через несколько минут."
+   },
+   "pwm_network_error_modal_text": {
+      "message": "Проверьте интернет-соединение и повторите попытку."
+   },
+   "pwm_no_cards_saved_add_card": {
+      "message": "Добавить карту"
+   },
+   "pwm_no_cards_saved_description": {
+      "message": "Надежно храните данные банковских карт, которые вы регулярно используете в Интернете."
+   },
+   "pwm_no_cards_saved_title": {
+      "message": "Сохраненных банковских карт нет"
+   },
+   "pwm_no_logins_saved_add_login": {
+      "message": "Добавить логин"
+   },
+   "pwm_no_logins_saved_description": {
+      "message": "Почему бы не начать с того, чем вы часто пользуетесь — например, с электронной почты?"
+   },
+   "pwm_no_logins_saved_title": {
+      "message": "Сохраненных логинов нет"
+   },
+   "pwm_no_notes_saved_add_note": {
+      "message": "Добавить примечание"
+   },
+   "pwm_no_notes_saved_description": {
+      "message": "Храните ваши примечания и приватные данные под надежной защитой. У вас всегда будет к ним доступ."
+   },
+   "pwm_no_notes_saved_title": {
+      "message": "Сохраненных примечаний нет"
+   },
+   "pwm_popover_card_copy_card_number_text": {
+      "message": "Копировать номер карты"
+   },
+   "pwm_popover_card_copy_name_text": {
+      "message": "Копировать имя на карте"
+   },
+   "pwm_popover_card_copy_security_code_text": {
+      "message": "Копировать код безопасности"
+   },
+   "pwm_popover_card_delete_text": {
+      "message": "Удалить"
+   },
+   "pwm_popover_card_edit_details_text": {
+      "message": "Редактировать данные"
+   },
+   "pwm_popover_login_copy_2fa_text": {
+      "message": "Копировать код 2FA"
+   },
+   "pwm_popover_login_copy_password_text": {
+      "message": "Копировать пароль"
+   },
+   "pwm_popover_login_copy_username_text": {
+      "message": "Копировать учетные данные"
+   },
+   "pwm_popover_login_delete_text": {
+      "message": "Удалить логин"
+   },
+   "pwm_popover_login_edit_details_text": {
+      "message": "Изменить данные для входа"
+   },
+   "pwm_popover_note_copy_content_text": {
+      "message": "Копировать содержимое"
+   },
+   "pwm_popover_note_delete_text": {
+      "message": "Удалить"
+   },
+   "pwm_popover_note_edit_details_text": {
+      "message": "Редактировать данные"
+   },
+   "pwm_primary_pw_modal_generic_error_btn_primary": {
+      "message": "Повторить попытку"
+   },
+   "pwm_primary_pw_modal_generic_error_header": {
+      "message": "Невозможно установить пароль"
+   },
+   "pwm_primary_pw_modal_generic_error_text": {
+      "message": "Проверьте интернет-подключение и повторите попытку."
+   },
+   "pwm_primary_pw_modal_pw_exists_btn_primary": {
+      "message": "Подробнее"
+   },
+   "pwm_primary_pw_modal_pw_exists_header": {
+      "message": "Не удалось установить пароль"
+   },
+   "pwm_primary_pw_modal_pw_exists_text": {
+      "message": "На эту учетную запись ExpressVPN уже зарегистрирована учетная запись менеджера паролей. Чтобы разблокировать, нажмите на расширение ExpressVPN Keys."
+   },
+   "pwm_primary_pw_set_form_pw": {
+      "message": "Ваш основной пароль"
+   },
+   "pwm_primary_pw_set_form_pw_error_match": {
+      "message": "Пароль не совпадает"
+   },
+   "pwm_primary_pw_set_form_pw_error_strength": {
+      "message": "Ваш пароль недостаточно надежный"
+   },
+   "pwm_primary_pw_set_form_pw_info_strength": {
+      "message": "Введите несколько слов. Например, {pwm_primary_pw_set_form_pw_info_strength_bold}"
+   },
+   "pwm_primary_pw_set_form_pw_info_strength_bold": {
+      "message": "AquaLampJamCarpe"
+   },
+   "pwm_primary_pw_set_form_pw_label": {
+      "message": "Основной пароль"
+   },
+   "pwm_primary_pw_set_form_pw_reenter": {
+      "message": "Введите основной пароль еще раз"
+   },
+   "pwm_primary_pw_set_form_submit": {
+      "message": "Установить основной пароль"
+   },
+   "pwm_primary_pw_set_header": {
+      "message": "Ваш основной пароль"
+   },
+   "pwm_primary_pw_set_help_link": {
+      "message": "Вам нужна помощь с паролем?"
+   },
+   "pwm_primary_pw_set_learn": {
+      "message": "Нужна помощь с паролем?"
+   },
+   "pwm_primary_pw_set_new_learn": {
+      "message": "Советы по созданию надежного, запоминающегося пароля"
+   },
+   "pwm_primary_pw_set_new_text": {
+      "message": "Введите собственный пароль, который сможете хорошо запомнить. Он зашифрует пароли, добавленные в Keys."
+   },
+   "pwm_primary_pw_set_security_modal_edit_password": {
+      "message": "Изменить пароль"
+   },
+   "pwm_primary_pw_set_security_modal_p1": {
+      "message": "Добавьте больше слов в ваш основной пароль, чтобы сделать его более надежным."
+   },
+   "pwm_primary_pw_set_security_modal_p2": {
+      "message": "Нужна помощь? Прочитайте наши советы о создании надежных паролей."
+   },
+   "pwm_primary_pw_set_security_modal_read_tips": {
+      "message": "Прочитать советы"
+   },
+   "pwm_primary_pw_set_security_modal_title": {
+      "message": "Не выполнены требования по надежности пароля"
+   },
+   "pwm_primary_pw_set_text": {
+      "message": "Создайте запоминающийся основной пароль для шифрования ваших сохраненных логинов. Он должен отличаться от вашего пароля ExpressVPN."
+   },
+   "pwm_recovery_code_cancel": {
+      "message": "Отмена"
+   },
+   "pwm_recovery_code_continue": {
+      "message": "Продолжить"
+   },
+   "pwm_recovery_code_copied_hint": {
+      "message": "Вы скопировали код восстановления. Распечатайте код и/или сохраните его в надежном месте."
+   },
+   "pwm_recovery_code_copy_code": {
+      "message": "Копировать код"
+   },
+   "pwm_recovery_code_download_pdf": {
+      "message": "Скачать PDF"
+   },
+   "pwm_recovery_code_downloaded_hint": {
+      "message": "Вы загрузили код восстановления. Распечатайте его и/или сохраните в надежном месте."
+   },
+   "pwm_recovery_code_header": {
+      "message": "Ваш код восстановления"
+   },
+   "pwm_recovery_code_pdf_content_date_text": {
+      "message": "Создано {TIME}"
+   },
+   "pwm_recovery_code_pdf_content_header_text": {
+      "message": "Менеджер паролей"
+   },
+   "pwm_recovery_code_pdf_content_instruction_text": {
+      "message": "Если вы потеряете свой основной пароль, единственным способом получить доступ к своим паролям будет код восстановления."
+   },
+   "pwm_recovery_code_pdf_content_reset_instruction_text": {
+      "message": "Вы можете сбросить свой код восстановления в любой момент на вкладке «Параметры»."
+   },
+   "pwm_recovery_code_pdf_content_title_text": {
+      "message": "Ваш код восстановления"
+   },
+   "pwm_recovery_code_pdf_content_warning_text": {
+      "message": "Обязательно сохраните свой код восстановления в надежном месте."
+   },
+   "pwm_recovery_code_pdf_document_file_name": {
+      "message": "Код восстановления ExpressVPN Keys — {TIME}"
+   },
+   "pwm_recovery_code_text": {
+      "message": "\u003Cb>Скопируйте или сохраните код восстановления и храните его в надежном месте.\u003C/b> Если вы потеряете свой основной пароль, этот код — единственный способ получить доступ к вашим данным."
+   },
+   "pwm_recovery_code_warning_modal_text_p1": {
+      "message": "Вы не скопировали или не сохранили код восстановления."
+   },
+   "pwm_recovery_code_warning_modal_text_p2": {
+      "message": "У ExpressVPN нет доступа к вашему основному паролю, коду восстановления или сохраненным логинам, поэтому обязательно скопируйте код или сохраните его в надежном месте."
+   },
+   "pwm_recovery_code_warning_modal_title": {
+      "message": "Перейти к следующему шагу?"
+   },
+   "pwm_report_another": {
+      "message": "Другая проблема"
+   },
+   "pwm_report_auto_fill": {
+      "message": "Ошибка автозаполнения"
+   },
+   "pwm_request_mfa_error_modal_title": {
+      "message": "Не удалось отправить письмо"
+   },
+   "pwm_reset_recovery_code_header": {
+      "message": "Ваш новый код восстановления"
+   },
+   "pwm_reset_recovery_code_success_hint": {
+      "message": "Код восстановления успешно сброшен."
+   },
+   "pwm_reset_recovery_code_success_p1": {
+      "message": "{pwm_reset_recovery_code_success_p1_bold} Если вы потеряете свой основной пароль, этот код — единственный способ получить доступ к вашим паролям."
+   },
+   "pwm_reset_recovery_code_success_p1_bold": {
+      "message": "Не забудьте сохранить его в надежном месте."
+   },
+   "pwm_reset_recovery_code_success_p2": {
+      "message": "Теперь вы можете закрыть эту вкладку."
+   },
+   "pwm_reset_recovery_code_text": {
+      "message": "{pwm_reset_recovery_code_text_bold} Если вы потеряете свой основной пароль, этот код — единственный способ получить доступ к вашим паролям."
+   },
+   "pwm_reset_recovery_code_text_bold": {
+      "message": "Скопируйте или сохраните код восстановления и храните его в надежном месте."
+   },
+   "pwm_secure_note_coming_soon_modal_continue": {
+      "message": "ОК"
+   },
+   "pwm_secure_note_coming_soon_modal_title": {
+      "message": "Новости"
+   },
+   "pwm_secure_note_notes_label": {
+      "message": "Примечания"
+   },
+   "pwm_secure_note_notes_placeholder": {
+      "message": "Введите всё, что вы хотите сохранить в тайне, например, паспортные, медицинские или страховые данные."
+   },
+   "pwm_secure_note_title_label": {
+      "message": "Заголовок (обязательно)"
+   },
+   "pwm_setup_add_first_item": {
+      "message": "Добавить первую запись"
+   },
+   "pwm_setup_add_new_logins": {
+      "message": "Добавить логин"
+   },
+   "pwm_setup_import_existing_logins": {
+      "message": "Импортировать существующие логины"
+   },
+   "pwm_setup_success_add_logins": {
+      "message": "Добавить логин"
+   },
+   "pwm_setup_success_header": {
+      "message": "Всё готово к работе с Keys!"
+   },
+   "pwm_setup_success_import_logins": {
+      "message": "Импортировать логины"
+   },
+   "pwm_setup_success_text": {
+      "message": "В вашем браузере или других менеджерах паролей сохранены логины, примечания или платежные реквизиты?"
+   },
+   "pwm_setup_success_text_p2": {
+      "message": "Ваши логины сохранены в другом менеджере паролей?"
+   },
+   "pwm_setup_success_text_p3": {
+      "message": "Вы можете импортировать сохраненные логины из:"
+   },
+   "pwm_setup_success_text_p4": {
+      "message": "Нечего импортировать? Добавьте свой первый {pwm_setup_success_text_p4_login_bold}, также вы можете открыть расширение, чтобы добавить {pwm_setup_success_text_p4_secure_note_bold} или {pwm_setup_success_text_p4_credit_card_bold}."
+   },
+   "pwm_setup_success_text_p4_credit_card_bold": {
+      "message": "банковскую карту"
+   },
+   "pwm_setup_success_text_p4_login_bold": {
+      "message": "логин"
+   },
+   "pwm_setup_success_text_p4_secure_note_bold": {
+      "message": "защищенное примечание"
+   },
+   "pwm_unlock_vault_forgot_primary_password_link": {
+      "message": "Забыли основной пароль?"
+   },
+   "pwm_unlock_vault_incorrect_pw_error": {
+      "message": "Неправильный основной пароль"
+   },
+   "pwm_unlock_vault_locked_header": {
+      "message": "ExpressVPN Keys заблокирован"
+   },
+   "pwm_unlock_vault_need_help_link": {
+      "message": "Нужна помощь?"
+   },
+   "pwm_unlock_vault_need_help_modal_text": {
+      "message": "Если вам не удалось разблокировать ExpressVPN Keys с помощью основного пароля, вы можете использовать код восстановления или обратиться к нам за помощью."
+   },
+   "pwm_unlock_vault_unlock_btn": {
+      "message": "Разблокировать"
+   },
+   "pwm_unlock_vault_unlocking_header": {
+      "message": "Разблокировка"
+   },
+   "pwm_use_recovery_code_label": {
+      "message": "Использовать код восстановления"
+   },
+   "pwm_validate_mfa_network_error_modal_title": {
+      "message": "Не удалось подтвердить учетную запись"
+   },
+   "pwm_verify_account_code_contact_support_label": {
+      "message": "Связаться с нами"
+   },
+   "pwm_verify_account_code_help_link": {
+      "message": "Не получили код?"
+   },
+   "pwm_verify_account_code_input_label": {
+      "message": "Введите 6-значный проверочный код"
+   },
+   "pwm_verify_account_code_invalid_code": {
+      "message": "Неправильный код, попробуйте еще раз"
+   },
+   "pwm_verify_account_code_modal_text1": {
+      "message": "Если вы не нашли письмо с кодом у себя во входящих, подождите несколько минут и проверьте папку «Спам»."
+   },
+   "pwm_verify_account_code_modal_text2": {
+      "message": "Так и не получили код? Повторите попытку или обратитесь в службу поддержки."
+   },
+   "pwm_verify_account_code_modal_title": {
+      "message": "Не получили код?"
+   },
+   "pwm_verify_account_code_resend_code_label": {
+      "message": "Отправить код еще раз"
+   },
+   "pwm_verify_account_code_resend_code_please_wait_label": {
+      "message": "Пожалуйста, подождите {SECONDS} с"
+   },
+   "pwm_verify_account_code_submit_button_label": {
+      "message": "Далее"
+   },
+   "pwm_verify_account_code_text_p1": {
+      "message": "На вашу электронную почту был отправлен код, подтверждающий, что вы являетесь владельцем учетной записи."
+   },
+   "pwm_verify_account_code_text_p2": {
+      "message": "Чтобы начать пользоваться ExpressVPN Keys, введите 6-значный проверочный код, указанный в письме."
+   },
+   "pwm_verify_account_header": {
+      "message": "Подтверждение учетной записи"
+   },
+   "pwm_verify_account_need_help": {
+      "message": "Нужна помощь? [Обратитесь в службу поддержки]."
+   },
+   "pwm_verify_account_send_email_button": {
+      "message": "Отправить письмо"
+   },
+   "pwm_verify_account_text_p1": {
+      "message": "Для установки ExpressVPN Keys на этом устройстве нужно подтвердить, что эта учетная запись принадлежит вам."
+   },
+   "pwm_verify_account_text_p2": {
+      "message": "Выберите «Отправить письмо» ниже, затем введите 6-значный проверочный код, указанный в письме."
+   },
+   "pwm_verify_password_need_help_modal_text": {
+      "message": "Если вы не можете подтвердить основной пароль, воспользуйтесь кодом восстановления или {pwm_contact_us_label} за помощью"
+   },
+   "recovery_code_cancel_setup": {
+      "message": "Отменить установку"
+   },
+   "reset_recovery_code_verify_password_text": {
+      "message": "Введите справа ваш основной пароль, чтобы сбросить код восстановления ExpressVPN Keys."
+   },
+   "save_diagnostics": {
+      "message": "Сохранить код ошибки"
+   },
+   "second": {
+      "message": "с"
+   },
+   "seconds": {
+      "message": "с"
+   },
+   "settings_help_improve_expressvpn_keys": {
+      "message": "Помощь в улучшении Keys"
+   },
+   "settings_help_improve_share_crash": {
+      "message": "Отправлять отчеты о сбоях и данные диагностики. Отчеты не содержат личной информации."
+   },
+   "settings_menu_item_auto_lock_settings_label": {
+      "message": "Настройки автоблокировки"
+   },
+   "settings_menu_item_change_password_label": {
+      "message": "Изменить основной пароль"
+   },
+   "settings_menu_item_open_shortcut_label": {
+      "message": "Открыть сочетанием клавиш"
+   },
+   "settings_menu_item_reset_recovery_code_label": {
+      "message": "Изменить код восстановления"
+   },
+   "settings_menu_reset_recovery_code_modal_cancel_label": {
+      "message": "Отмена"
+   },
+   "settings_menu_reset_recovery_code_modal_continue_label": {
+      "message": "Сбросить код восстановления"
+   },
+   "settings_menu_reset_recovery_code_modal_p": {
+      "message": "Вы получите новый код восстановления, а предыдущий перестанет работать."
+   },
+   "settings_menu_reset_recovery_code_modal_title": {
+      "message": "Вы уверены?"
+   },
+   "settings_menu_section_data_title": {
+      "message": "Данные"
+   },
+   "settings_menu_section_general_title": {
+      "message": "Общие"
+   },
+   "settings_menu_section_other_title": {
+      "message": "Другое"
+   },
+   "settings_menu_section_security_title": {
+      "message": "Безопасность"
+   },
+   "settings_system_goes_to_sleep": {
+      "message": "После перехода системы \nв спящий режим"
+   },
+   "settings_system_idle": {
+      "message": "После простоя системы в течение"
+   },
+   "some_logins_saved_for_website": {
+      "message": "Логины для {HOST} сохранены"
+   },
+   "step_X_of_Y": {
+      "message": "Шаг {STEP} из {TOTAL}"
+   },
+   "try_again_label": {
+      "message": "Повторить попытку"
+   },
+   "update_btn_label": {
+      "message": "Обновить"
+   },
+   "use_recovery_code_header": {
+      "message": "Используйте код восстановления"
+   },
+   "use_recovery_code_incorrect_code_error": {
+      "message": "Неправильный код восстановления"
+   },
+   "use_recovery_code_input_label": {
+      "message": "Код восстановления"
+   },
+   "use_recovery_code_text": {
+      "message": "Чтобы изменить основной пароль для ExpressVPN Keys, введите код восстановления справа. "
+   },
+   "year": {
+      "message": "г"
+   },
+   "years": {
+      "message": "лет"
+   }
+}

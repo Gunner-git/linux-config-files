@@ -1,0 +1,47 @@
+{
+   "action": {
+   },
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "js/contentscript.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Automatically create website citations in the APA, MLA, Chicago, or Harvard referencing styles at the click of a button.",
+   "externally_connectable": {
+      "matches": [ "*://*/*" ]
+   },
+   "homepage_url": "http://www.citethisforme.com",
+   "host_permissions": [ "*://*/*" ],
+   "icons": {
+      "128": "images/icon-128.png",
+      "16": "images/icon-16.png",
+      "18": "images/icon-18.png",
+      "19": "images/icon-19.png",
+      "32": "images/icon-32.png",
+      "48": "images/icon-48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDfCW+GqWkUZRPKymyNMto/WH7JWTusKJ02LENp2TY+YaHRlnLAwxM9TBhwQisUOLErOP9m1jsLMT1Lc80H/EPj++NW7vUdwXay4vBloLSpMsJ05rJ+QXNETgfLL7JtuveF1OAlpTw41NrVE5GpYla1vzCCRyBROhx/sddi577ttQIDAQAB",
+   "manifest_version": 3,
+   "name": "Cite This For Me: Web Citer",
+   "permissions": [ "tabs", "storage", "scripting" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.7.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/images/*" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "/popup.htm" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "js/*" ]
+   }, {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "css/*" ]
+   } ]
+}

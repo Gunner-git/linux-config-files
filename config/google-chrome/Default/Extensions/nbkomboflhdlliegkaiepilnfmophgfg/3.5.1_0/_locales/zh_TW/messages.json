@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "建構函數"
+   },
+   "description": {
+      "message": "將Youtube™進度條更改為來自有趣收藏的自定義。讓你的Youtube™播放器真棒！"
+   },
+   "go_to_site": {
+      "message": "開啟 YouTube 頁面"
+   },
+   "go_to_site_pb": {
+      "message": "Go to site"
+   },
+   "more": {
+      "message": "更多的"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "您必須在活動標籤中開啟 YouTube 才能使擴充功能發揮作用！"
+   },
+   "noresult": {
+      "message": "什麼都沒找到？ 前往我們的網站，免費為自己取得一個全新的、閃亮的進度條！"
+   },
+   "search_placeholder": {
+      "message": "搜尋 ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

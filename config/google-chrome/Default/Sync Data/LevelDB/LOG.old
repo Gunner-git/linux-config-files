@@ -1,0 +1,27 @@
+2024/06/09-19:31:45.863 b59 Reusing MANIFEST /home/light/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/06/09-19:31:45.881 b59 Recovering log #122
+2024/06/09-19:31:45.887 b59 Reusing old log /home/light/.config/google-chrome/Default/Sync Data/LevelDB/000122.log 
+2024/06/09-19:32:16.929 b5d Level-0 table #127: started
+2024/06/09-19:32:16.940 b5d Level-0 table #127: 112154 bytes OK
+2024/06/09-19:32:16.951 b5d Delete type=0 #122
+2024/06/10-16:57:07.242 b5d Level-0 table #129: started
+2024/06/10-16:57:07.249 b5d Level-0 table #129: 110822 bytes OK
+2024/06/10-16:57:07.254 b5d Delete type=0 #126
+2024/06/10-17:18:46.307 b5d Level-0 table #131: started
+2024/06/10-17:18:46.319 b5d Level-0 table #131: 70574 bytes OK
+2024/06/10-17:18:46.323 b5d Delete type=0 #128
+2024/06/10-18:03:50.554 b5d Level-0 table #133: started
+2024/06/10-18:03:50.560 b5d Level-0 table #133: 73737 bytes OK
+2024/06/10-18:03:50.565 b5d Delete type=0 #130
+2024/06/10-18:03:50.565 b5d Compacting 4@0 + 1@1 files
+2024/06/10-18:03:50.573 b5d Generated table #134@0: 311 keys, 42823 bytes
+2024/06/10-18:03:50.573 b5d Compacted 4@0 + 1@1 files => 42823 bytes
+2024/06/10-18:03:50.578 b5d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/10-18:03:50.578 b5d Delete type=2 #131
+2024/06/10-18:03:50.578 b5d Delete type=2 #127
+2024/06/10-18:03:50.578 b5d Delete type=2 #124
+2024/06/10-18:03:50.578 b5d Delete type=2 #133
+2024/06/10-18:03:50.578 b5d Delete type=2 #129
+2024/06/10-19:49:37.623 b5d Level-0 table #136: started
+2024/06/10-19:49:37.635 b5d Level-0 table #136: 80978 bytes OK
+2024/06/10-19:49:37.639 b5d Delete type=0 #132

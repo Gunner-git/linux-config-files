@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Oluşturucu"
+   },
+   "description": {
+      "message": "Youtube™ ilerleme çubuğunu eğlenceli koleksiyondan özel olarak değiştirin. Youtube™ oynatıcınızı harika hale getirin!"
+   },
+   "go_to_site": {
+      "message": "YouTube sayfasını aç"
+   },
+   "go_to_site_pb": {
+      "message": "Siteye git"
+   },
+   "more": {
+      "message": "Daha"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "Uzantının çalışması için YouTube'un etkin sekmede açık olması gerekir!"
+   },
+   "noresult": {
+      "message": "Hiçbirşey Bulunamadı? Web sitemize gidin ve kendinize yepyeni, parlak bir ilerleme çubuğunu ücretsiz olarak alın!"
+   },
+   "search_placeholder": {
+      "message": "Aramak ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

@@ -1,0 +1,1 @@
+import{aK as t}from"./Settings-xuVU-BgW.js";const a=s=>t("autofill",s),o=a("getFrameID"),r=a("getFrameURLById"),m=a("getAutosaveEntry"),c=a("submitForm"),i=a("clearMonitoredTab"),g=a("getAssociatedDomains"),F=a("watchForm"),d=a("checkIfFormDirty");export{g as a,r as b,d as c,m as d,i as e,o as g,c as s,F as w};

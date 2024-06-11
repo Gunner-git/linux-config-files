@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Lưu và điền mật khẩu không giới hạn vào trình duyệt một cách an toàn đồng thời đăng nhập vào các trang web nhanh hơn."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Lưu và điền mật khẩu không giới hạn vào trình duyệt một cách an toàn đồng thời đăng nhập vào các trang web nhanh hơn."
+   },
+   "app_description_text": {
+      "message": "Lưu và điền mật khẩu không giới hạn vào trình duyệt một cách an toàn đồng thời đăng nhập vào các trang web nhanh hơn."
+   },
+   "app_description_text_alpha": {
+      "message": "Lưu và điền mật khẩu không giới hạn vào trình duyệt một cách an toàn đồng thời đăng nhập vào các trang web nhanh hơn."
+   },
+   "app_description_text_beta": {
+      "message": "Lưu và điền mật khẩu không giới hạn vào trình duyệt một cách an toàn đồng thời đăng nhập vào các trang web nhanh hơn."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Trình quản lý mật khẩu"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Trình quản lý mật khẩu Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Trình quản lý mật khẩu Beta"
+   }
+}

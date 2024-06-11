@@ -1,0 +1,57 @@
+{
+   "background": {
+      "service_worker": "js/background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/appletv.min.js", "js/contentApple.js" ],
+      "matches": [ "*://*.apple.com/*" ]
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/amazon.min.js", "js/contentPrime.js" ],
+      "matches": [ "*://*.primevideo.com/*", "*://*.amazon.com/*", "*://*.amazon.co.uk/*", "*://*.amazon.de/*", "*://*.amazon.co.jp/*" ]
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/content.js" ],
+      "matches": [ "http://www.netflix.com/*", "https://www.netflix.com/*" ],
+      "run_at": "document_end"
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/disney.min.js", "js/contentDisney.js" ],
+      "matches": [ "*://*.disneyplus.com/*" ]
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/hbomax.min.js", "js/contentHBO.js" ],
+      "matches": [ "*://*.hbomax.com/*" ]
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/contentHulu.js" ],
+      "matches": [ "*://*.hulu.com/*" ]
+   }, {
+      "js": [ "js/netflix.min.js" ],
+      "matches": [ "*://*.netflix.com/*" ]
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/paramount.min.js", "js/contentParamount.js" ],
+      "matches": [ "*://*.paramountplus.com/*" ]
+   }, {
+      "css": [ "css/injected.css" ],
+      "js": [ "js/peacock.min.js", "js/contentPeacock.js" ],
+      "matches": [ "*://*.peacocktv.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "differential_fingerprint": "1.ee2c006a2d97be389728b561052e685bdd4e1f05e3cfcbdc3f9e25f29ad41f0b",
+   "host_permissions": [ "*://*.paramountplus.com/*", "http://www.netflix.com/*", "https://www.netflix.com/*", "*://*.hbomax.com/*", "*://*.apple.com/*", "*://*.disneyplus.com/*", "*://*.hulu.com/*", "*://*.peacocktv.com/*", "*://*.primevideo.com/*", "*://*.amazon.com/*", "*://*.amazon.co.uk/*", "*://*.amazon.de/*", "*://*.amazon.co.jp/*" ],
+   "icons": {
+      "128": "icon128.png",
+      "16": "icon16.png",
+      "48": "icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlUPr29LQ1pA2F0WPPIoXNoCnRtsUverIQlqeKZKX5/+AGN+gJRRtpsDXnzumEhttDwq3OavPE47Viw/CFzwQVyBBvQcsgbqqsBzNT9hozDKV60uv6ZxWMHQ4bQwStVRi3ZH7J5ZcpMepZmW6qqug2T/FrWXg4vLTUSUzbO0ON4Rclq3r2LMhLHGkfilKNp5V/8gI9FgnXxLkamYndItu5n4tNxhqynNTQMQ4V6r1mDsk4Z0qLEjklGUFe/xS2tyvoBkexamp9WmbErY/fIqZ/65pLXocm2DJj4D1jpE1ewNlWROLKV3lzc4ZrrSzCj/LnLUH60gM9b4A+gHIJ1kMjQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "permissions": [ "scripting", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.2.39"
+}

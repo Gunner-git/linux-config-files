@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Bezpečně ukládejte a vyplňujte neomezená hesla ve vašem prohlížeči a přihlaste se na stránky rychleji."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Bezpečně ukládejte a vyplňujte neomezená hesla ve vašem prohlížeči a přihlaste se na stránky rychleji."
+   },
+   "app_description_text": {
+      "message": "Bezpečně ukládejte a vyplňujte neomezená hesla ve vašem prohlížeči a přihlaste se na stránky rychleji."
+   },
+   "app_description_text_alpha": {
+      "message": "Bezpečně ukládejte a vyplňujte neomezená hesla ve vašem prohlížeči a přihlaste se na stránky rychleji."
+   },
+   "app_description_text_beta": {
+      "message": "Bezpečně ukládejte a vyplňujte neomezená hesla ve vašem prohlížeči a přihlaste se na stránky rychleji."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Správce hesel"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Správce hesel Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Správce hesel Beta"
+   }
+}

@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Αποθηκεύστε και συμπληρώστε με ασφάλεια απεριόριστους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας και συνδεθείτε σε ιστοσελίδες πιο γρήγορα."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Αποθηκεύστε και συμπληρώστε με ασφάλεια απεριόριστους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας και συνδεθείτε σε ιστοσελίδες πιο γρήγορα."
+   },
+   "app_description_text": {
+      "message": "Αποθηκεύστε και συμπληρώστε με ασφάλεια απεριόριστους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας και συνδεθείτε σε ιστοσελίδες πιο γρήγορα."
+   },
+   "app_description_text_alpha": {
+      "message": "Αποθηκεύστε και συμπληρώστε με ασφάλεια απεριόριστους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας και συνδεθείτε σε ιστοσελίδες πιο γρήγορα."
+   },
+   "app_description_text_beta": {
+      "message": "Αποθηκεύστε και συμπληρώστε με ασφάλεια απεριόριστους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας και συνδεθείτε σε ιστοσελίδες πιο γρήγορα."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Διαχειριστής κωδικών"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Διαχειριστής κωδικών Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Διαχειριστής κωδικών Beta"
+   }
+}

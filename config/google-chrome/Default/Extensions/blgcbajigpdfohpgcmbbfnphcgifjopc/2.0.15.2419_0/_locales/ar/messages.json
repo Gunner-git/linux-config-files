@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "يتيح لك ExpressVPN Keys حفظ عدد غير محدود من كلمات المرور في متصفح الويب الخاص بك وتعبئتها تلقائيا بكل أمان عند تسجيل الدخول إلى مواقعك المفضلة."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "يتيح لك ExpressVPN Keys حفظ عدد غير محدود من كلمات المرور في متصفح الويب الخاص بك وتعبئتها تلقائيا بكل أمان عند تسجيل الدخول إلى مواقعك المفضلة."
+   },
+   "app_description_text": {
+      "message": "يتيح لك ExpressVPN Keys حفظ عدد غير محدود من كلمات المرور في متصفح الويب الخاص بك وتعبئتها تلقائيا بكل أمان عند تسجيل الدخول إلى مواقعك المفضلة."
+   },
+   "app_description_text_alpha": {
+      "message": "يتيح لك ExpressVPN Keys حفظ عدد غير محدود من كلمات المرور في متصفح الويب الخاص بك وتعبئتها تلقائيا بكل أمان عند تسجيل الدخول إلى مواقعك المفضلة."
+   },
+   "app_description_text_beta": {
+      "message": "يتيح لك ExpressVPN Keys حفظ عدد غير محدود من كلمات المرور في متصفح الويب الخاص بك وتعبئتها تلقائيا بكل أمان عند تسجيل الدخول إلى مواقعك المفضلة."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "مدير كلمات المرور: ExpressVPN Keys"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "مدير كلمات المرور: ExpressVPN Keys Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "مدير كلمات المرور: ExpressVPN Keys Beta"
+   }
+}

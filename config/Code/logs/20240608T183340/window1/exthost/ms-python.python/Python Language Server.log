@@ -1,0 +1,20 @@
+2024-06-08 18:33:55.578 [info] (Client) Pylance async client (2024.6.1) started with python extension (2024.8.0)
+2024-06-08 18:33:56.337 [info] [Info  - 6:33:56 PM] (88518) Pylance language server 2024.6.1 (pyright version 1.1.364, commit 0618acc5) starting
+2024-06-08 18:33:56.338 [info] [Info  - 6:33:56 PM] (88518) Server root directory: file:///home/light/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-08 18:33:56.338 [info] [Info  - 6:33:56 PM] (88518) Starting service instance "logs"
+2024-06-08 18:33:56.372 [info] Auto-Indent enabled
+2024-06-08 18:33:56.391 [info] Auto-Indent enabled
+2024-06-08 18:33:56.393 [info] [Info  - 6:33:56 PM] (88518) Setting pythonPath for service "logs": "/bin/python3"
+2024-06-08 18:33:56.393 [info] [Info  - 6:33:56 PM] (88518) Setting environmentName for service "logs": "3.10.12 (global)"
+2024-06-08 18:33:56.446 [info] [Info  - 6:33:56 PM] (88518) Assuming Python version 3.10.12.final.0
+2024-06-08 18:33:56.782 [info] [Info  - 6:33:56 PM] (88518) No source files found.
+2024-06-08 18:33:56.790 [info] Auto-Indent enabled
+2024-06-08 18:33:57.429 [info] [Info  - 6:33:57 PM] (88518) Background analysis(1) root directory: file:///home/light/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist
+2024-06-08 18:33:57.436 [info] [Info  - 6:33:57 PM] (88518) Background analysis(1) started
+2024-06-08 18:33:58.083 [info] [Info  - 6:33:58 PM] (88518) Indexer background runner(2) root directory: file:///home/light/.vscode/extensions/ms-python.vscode-pylance-2024.6.1/dist (index)
+2024-06-08 18:33:58.083 [info] [Info  - 6:33:58 PM] (88518) Indexing(2) started
+2024-06-08 18:33:59.357 [info] [Info  - 6:33:59 PM] (88518) scanned(2) 244 files over 1 exec env
+2024-06-08 18:34:02.957 [info] [Info  - 6:34:02 PM] (88518) [IDX(2)] Long operation: index execution environment file:///home/light/code/nifi/nifi-2.0.0-M3/logs (3229ms)
+2024-06-08 18:34:02.984 [info] [Info  - 6:34:02 PM] (88518) [IDX(2)] Long operation: index packages file:///home/light/code/nifi/nifi-2.0.0-M3/logs (3270ms)
+2024-06-08 18:34:02.984 [info] [Info  - 6:34:02 PM] (88518) indexed(2) 154 files over 1 exec env
+2024-06-08 18:34:03.137 [info] [Info  - 6:34:03 PM] (88518) Indexing finished(2).

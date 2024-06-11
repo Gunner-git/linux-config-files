@@ -1,0 +1,75 @@
+2024/06/09-19:31:47.390 b58 Reusing MANIFEST /home/light/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-19:31:47.391 b58 Recovering log #286
+2024/06/09-19:31:47.395 b58 Reusing old log /home/light/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000286.log 
+2024/06/09-19:32:00.616 b5d Level-0 table #291: started
+2024/06/09-19:32:00.635 b5d Level-0 table #291: 2386106 bytes OK
+2024/06/09-19:32:00.640 b5d Delete type=0 #286
+2024/06/09-19:32:04.261 b64 Compacting 1@1 + 1@2 files
+2024/06/09-19:32:04.273 b64 Generated table #292@1: 1078 keys, 72263 bytes
+2024/06/09-19:32:04.273 b64 Compacted 1@1 + 1@2 files => 72263 bytes
+2024/06/09-19:32:04.282 b64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/09-19:32:04.283 b64 Delete type=2 #291
+2024/06/09-19:32:04.283 b64 Delete type=2 #288
+2024/06/09-19:32:48.471 b59 Level-0 table #294: started
+2024/06/09-19:32:48.489 b59 Level-0 table #294: 1983573 bytes OK
+2024/06/09-19:32:48.497 b59 Delete type=0 #290
+2024/06/09-19:33:43.140 b59 Compacting 1@1 + 1@2 files
+2024/06/09-19:33:43.164 b59 Generated table #295@1: 1104 keys, 93347 bytes
+2024/06/09-19:33:43.164 b59 Compacted 1@1 + 1@2 files => 93347 bytes
+2024/06/09-19:33:43.173 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/09-19:33:43.173 b59 Delete type=2 #294
+2024/06/09-19:33:43.173 b59 Delete type=2 #292
+2024/06/09-19:45:55.082 b58 Level-0 table #297: started
+2024/06/09-19:45:55.106 b58 Level-0 table #297: 1292097 bytes OK
+2024/06/09-19:45:55.112 b58 Delete type=0 #293
+2024/06/09-19:47:54.633 b59 Compacting 1@1 + 1@2 files
+2024/06/09-19:47:54.654 b59 Generated table #298@1: 1106 keys, 78580 bytes
+2024/06/09-19:47:54.654 b59 Compacted 1@1 + 1@2 files => 78580 bytes
+2024/06/09-19:47:54.658 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/09-19:47:54.658 b59 Delete type=2 #297
+2024/06/09-19:47:54.658 b59 Delete type=2 #295
+2024/06/09-20:30:53.074 b59 Level-0 table #300: started
+2024/06/09-20:30:53.094 b59 Level-0 table #300: 1431406 bytes OK
+2024/06/09-20:30:53.098 b59 Delete type=0 #296
+2024/06/09-20:35:02.075 b58 Compacting 1@1 + 1@2 files
+2024/06/09-20:35:02.095 b58 Generated table #301@1: 1147 keys, 63298 bytes
+2024/06/09-20:35:02.095 b58 Compacted 1@1 + 1@2 files => 63298 bytes
+2024/06/09-20:35:02.099 b58 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/09-20:35:02.099 b58 Delete type=2 #298
+2024/06/09-20:35:02.099 b58 Delete type=2 #300
+2024/06/10-16:44:42.235 b5d Level-0 table #303: started
+2024/06/10-16:44:42.268 b5d Level-0 table #303: 2166079 bytes OK
+2024/06/10-16:44:42.273 b5d Delete type=0 #299
+2024/06/10-17:32:33.233 b59 Compacting 1@1 + 1@2 files
+2024/06/10-17:32:33.257 b59 Generated table #304@1: 1295 keys, 113129 bytes
+2024/06/10-17:32:33.257 b59 Compacted 1@1 + 1@2 files => 113129 bytes
+2024/06/10-17:32:33.261 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/10-17:32:33.261 b59 Delete type=2 #301
+2024/06/10-17:32:33.261 b59 Delete type=2 #303
+2024/06/10-20:00:20.412 b59 Level-0 table #306: started
+2024/06/10-20:00:20.431 b59 Level-0 table #306: 1940591 bytes OK
+2024/06/10-20:00:20.438 b59 Delete type=0 #302
+2024/06/10-20:00:22.482 b59 Compacting 1@1 + 1@2 files
+2024/06/10-20:00:22.496 b59 Generated table #307@1: 1253 keys, 164040 bytes
+2024/06/10-20:00:22.496 b59 Compacted 1@1 + 1@2 files => 164040 bytes
+2024/06/10-20:00:22.502 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/10-20:00:22.502 b59 Delete type=2 #306
+2024/06/10-20:00:22.502 b59 Delete type=2 #304
+2024/06/10-20:26:54.748 b59 Level-0 table #309: started
+2024/06/10-20:26:54.764 b59 Level-0 table #309: 1298180 bytes OK
+2024/06/10-20:26:54.769 b59 Delete type=0 #305
+2024/06/10-20:27:11.515 b59 Compacting 1@1 + 1@2 files
+2024/06/10-20:27:11.530 b59 Generated table #310@1: 1265 keys, 123839 bytes
+2024/06/10-20:27:11.530 b59 Compacted 1@1 + 1@2 files => 123839 bytes
+2024/06/10-20:27:11.533 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/10-20:27:11.534 b59 Delete type=2 #307
+2024/06/10-20:27:11.534 b59 Delete type=2 #309
+2024/06/10-20:28:39.944 b59 Level-0 table #312: started
+2024/06/10-20:28:39.962 b59 Level-0 table #312: 1113904 bytes OK
+2024/06/10-20:28:39.967 b59 Delete type=0 #308
+2024/06/10-20:29:01.505 b59 Compacting 1@1 + 1@2 files
+2024/06/10-20:29:01.519 b59 Generated table #313@1: 1257 keys, 85215 bytes
+2024/06/10-20:29:01.519 b59 Compacted 1@1 + 1@2 files => 85215 bytes
+2024/06/10-20:29:01.523 b59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/10-20:29:01.523 b59 Delete type=2 #310
+2024/06/10-20:29:01.523 b59 Delete type=2 #312

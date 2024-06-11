@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Конструктор"
+   },
+   "description": {
+      "message": "Измените индикатор выполнения YouTube™ на обычай из веселой коллекции. Сделайте свой Youtube™ игроком потрясающим!"
+   },
+   "go_to_site": {
+      "message": "Отрыть YouTube"
+   },
+   "go_to_site_pb": {
+      "message": "Перейти на сайт"
+   },
+   "more": {
+      "message": "Еще"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "Чтобы расширение работало, у вас должен быть открыт YouTube на активной вкладке!"
+   },
+   "noresult": {
+      "message": "Ничего не найдено. Зайдите на наш сайт и найдите свежий, новый и блестящий индикатор выполнения для YouTube! Также его можете сделать сами через конструктор"
+   },
+   "search_placeholder": {
+      "message": "Поиск ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}

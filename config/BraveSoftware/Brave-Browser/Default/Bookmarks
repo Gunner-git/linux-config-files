@@ -1,0 +1,206 @@
+{
+   "checksum": "55956c9e4f9ef461e8ef2a3c6cf34826",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13292486352000000",
+            "date_last_used": "0",
+            "guid": "8b64a268-c7c6-42d0-a922-c1bc0f1eeb08",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13287000977000000",
+            "date_last_used": "0",
+            "guid": "f81f9ec0-4c6a-47a9-8152-39c15f08cdab",
+            "id": "6",
+            "name": "The Top 1,484 Anime Open Source Projects on Github",
+            "type": "url",
+            "url": "https://awesomeopensource.com/projects/anime"
+         }, {
+            "date_added": "13287000998000000",
+            "date_last_used": "0",
+            "guid": "08ca24f2-2d8a-4d2b-8005-1ba616730a9f",
+            "id": "7",
+            "name": "Simple Programming Problems",
+            "type": "url",
+            "url": "https://adriann.github.io/programming_problems.html"
+         }, {
+            "date_added": "13332815459000000",
+            "date_last_used": "0",
+            "guid": "a0c40326-47f8-41e2-b561-c85483931ebd",
+            "id": "8",
+            "name": "Manga 2",
+            "type": "url",
+            "url": "https://reaperscans.com/"
+         }, {
+            "date_added": "13271831086000000",
+            "date_last_used": "0",
+            "guid": "826f0410-a496-4f0a-b234-244e08929254",
+            "id": "9",
+            "name": "Manga",
+            "type": "url",
+            "url": "https://www.mangaread.org/"
+         }, {
+            "date_added": "13286021182000000",
+            "date_last_used": "0",
+            "guid": "5284d757-dc8f-40ca-aea8-8bdbd21dd10f",
+            "id": "10",
+            "name": "Anime 2",
+            "type": "url",
+            "url": "https://simplyaweeb.to/anime/"
+         }, {
+            "date_added": "13317469521000000",
+            "date_last_used": "0",
+            "guid": "58e0ae9e-3d24-48f5-875e-cced1eeb946a",
+            "id": "11",
+            "name": "Anime 3",
+            "type": "url",
+            "url": "https://yugen.to/"
+         }, {
+            "date_added": "13288252406000000",
+            "date_last_used": "0",
+            "guid": "a558938e-c651-4f84-ba25-ca2fb07a334e",
+            "id": "12",
+            "name": "Anime",
+            "type": "url",
+            "url": "https://animixplay.to/"
+         }, {
+            "date_added": "13298376571000000",
+            "date_last_used": "0",
+            "guid": "e75eafeb-e8bd-4e6f-983d-4c50cf100a2b",
+            "id": "13",
+            "name": "Android emulator not starting anymore · Issue #6471 · microsoft/WSL",
+            "type": "url",
+            "url": "https://github.com/microsoft/WSL/issues/6471"
+         }, {
+            "date_added": "13313415444000000",
+            "date_last_used": "0",
+            "guid": "22398627-07b7-4a26-850b-e8a7b88508a4",
+            "id": "14",
+            "name": "wallpapers/gruv-4.jpg at main · FrenzyExists/wallpapers · GitHub",
+            "type": "url",
+            "url": "https://github.com/FrenzyExists/wallpapers/blob/main/Gruv/gruv-4.jpg"
+         }, {
+            "date_added": "13313488635000000",
+            "date_last_used": "0",
+            "guid": "e820a667-ac88-4a76-90c8-d68f0af2d8b3",
+            "id": "15",
+            "name": "Why Gifted Kids Are Actually Special Needs - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=QUjYy4Ksy1E&t=1s"
+         }, {
+            "date_added": "13313488640000000",
+            "date_last_used": "0",
+            "guid": "3eaa1ac2-481d-4fe8-85ad-867113c21093",
+            "id": "16",
+            "name": "Why Being Gifted Actually Makes Life Harder - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=sQC0jfH_rrM"
+         }, {
+            "date_added": "13320576723000000",
+            "date_last_used": "0",
+            "guid": "9d815d66-193f-40dd-938f-e7b0164ebd79",
+            "id": "17",
+            "name": "Learn to Make Beautiful Mobile Apps in Python | KivyMD Tutorial - MDTextField(s) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=o-viUXzkbhU&list=PLy5hjmUzdc0nMkzhphsqgPCX62NFhkell&index=7"
+         }, {
+            "date_added": "13326669913000000",
+            "date_last_used": "0",
+            "guid": "bbb084bb-01d9-41b3-a397-7f941478a615",
+            "id": "18",
+            "name": "Stop moving like a noob | Movement Mastery pt. 1 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=nm_n2lvHbsM"
+         }, {
+            "date_added": "13326669918000000",
+            "date_last_used": "0",
+            "guid": "f722791e-0556-43a5-b462-4da2e75dceb6",
+            "id": "19",
+            "name": "Start moving like a pro | Movement Mastery pt. 2 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=nV0WDAHrqls"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13346487402000000",
+                  "date_last_used": "0",
+                  "guid": "25b24a67-85fa-487b-8d55-80be2f1dfa84",
+                  "id": "22",
+                  "name": "(4) The Incel to Trans Pipeline and Inside Mari - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=IAA1XtDOuH8"
+               }, {
+                  "date_added": "13347185608000000",
+                  "date_last_used": "0",
+                  "guid": "2aeefd17-a888-4f24-b36a-26375421b3ef",
+                  "id": "23",
+                  "name": "I Modded a $54 Keychron to Make it GOOD - Keychron V1 - YouTube",
+                  "type": "url",
+                  "url": "https://www.youtube.com/watch?v=DVeEngrQGv0"
+               }, {
+                  "date_added": "13348545892000000",
+                  "date_last_used": "0",
+                  "guid": "a9b7919e-73ff-4685-a38a-f4edf2196597",
+                  "id": "24",
+                  "name": "Watch Pantheon (2022) Online free on BFLIX",
+                  "type": "url",
+                  "url": "https://bflix.cx/series/pantheon-73355/2-3/"
+               }, {
+                  "date_added": "13361200055000000",
+                  "date_last_used": "0",
+                  "guid": "e2b305fe-d6ff-4108-a735-04d025f3f069",
+                  "id": "25",
+                  "name": "Mastering Object-Oriented Python",
+                  "type": "url",
+                  "url": "https://mongard.s3.ir-thr-at1.arvanstorage.com/steven%20F.Lott%20-%20mastering%20object-oriented%20python-Packt%20Publishing%20Ltd.%20(2019).pdf"
+               } ],
+               "date_added": "13362505399229826",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "f33d5325-4621-4926-a9b2-ea26bf0d4d63",
+               "id": "21",
+               "name": "Other bookmarks",
+               "type": "folder"
+            } ],
+            "date_added": "13362505399229770",
+            "date_last_used": "0",
+            "date_modified": "13362505399229770",
+            "guid": "194cd47c-2fb0-4a26-a530-5f6022415009",
+            "id": "20",
+            "name": "Imported from Google Chrome Person 1.",
+            "type": "folder"
+         } ],
+         "date_added": "13362505341461433",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13362505341461436",
+         "date_last_used": "0",
+         "date_modified": "13362523488701468",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13362505341461437",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

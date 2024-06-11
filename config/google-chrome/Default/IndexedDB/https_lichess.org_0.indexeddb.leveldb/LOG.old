@@ -1,0 +1,15 @@
+2024/06/09-12:14:55.213 bde Reusing MANIFEST /home/light/.config/google-chrome/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-12:14:55.213 bde Recovering log #17
+2024/06/09-12:14:55.213 bde Reusing old log /home/light/.config/google-chrome/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/000017.log 
+2024/06/09-12:29:13.218 bdf Level-0 table #22: started
+2024/06/09-12:29:13.228 bdf Level-0 table #22: 209 bytes OK
+2024/06/09-12:29:13.235 bdf Delete type=0 #17
+2024/06/09-12:29:13.236 bdf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/09-12:29:13.236 bdf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 2863 : 1
+2024/06/09-12:29:13.236 bdf Compacting 1@1 + 1@2 files
+2024/06/09-12:29:13.242 bdf Generated table #23@1: 67 keys, 17255 bytes
+2024/06/09-12:29:13.242 bdf Compacted 1@1 + 1@2 files => 17255 bytes
+2024/06/09-12:29:13.246 bdf compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/09-12:29:13.246 bdf Delete type=2 #19
+2024/06/09-12:29:13.246 bdf Delete type=2 #22
+2024/06/09-12:29:13.246 bdf Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 2863 : 1 .. (end); will stop at (end)

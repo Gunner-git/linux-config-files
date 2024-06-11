@@ -1,0 +1,31 @@
+{
+   "app_description_@chrome@_text": {
+      "description": "The description of the application",
+      "message": "Sigurno spremite i ispunite neograničen broj lozinki u svoj preglednik i brže se prijavite na stranice."
+   },
+   "app_description_@firefox@_text": {
+      "description": "The description of the application",
+      "message": "Sigurno spremite i ispunite neograničen broj lozinki u svoj preglednik i brže se prijavite na stranice."
+   },
+   "app_description_text": {
+      "message": "Sigurno spremite i ispunite neograničen broj lozinki u svoj preglednik i brže se prijavite na stranice."
+   },
+   "app_description_text_alpha": {
+      "message": "Sigurno spremite i ispunite neograničen broj lozinki u svoj preglednik i brže se prijavite na stranice."
+   },
+   "app_description_text_beta": {
+      "message": "Sigurno spremite i ispunite neograničen broj lozinki u svoj preglednik i brže se prijavite na stranice."
+   },
+   "app_name_title": {
+      "description": "The name of the application",
+      "message": "ExpressVPN Keys: Upravitelj lozinki"
+   },
+   "app_name_title_alpha": {
+      "description": "The Alpha name of the application",
+      "message": "ExpressVPN Keys: Upravitelj lozinki Alpha"
+   },
+   "app_name_title_beta": {
+      "description": "The Beta name of the application",
+      "message": "ExpressVPN Keys: Upravitelj lozinki Beta"
+   }
+}

@@ -1,0 +1,32 @@
+{
+   "constructor": {
+      "message": "Constructor"
+   },
+   "description": {
+      "message": "ವಿನೋದ ಸಂಗ್ರಹದಿಂದ ಕಸ್ಟಮೈಸ್ ಮಾಡಲು ಯುಟ್ಯೂಬ್ ™ ಪ್ರಗತಿ ಪಟ್ಟಿಯನ್ನು ಬದಲಿಸಿ. ನಿಮ್ಮ ಯುಟ್ಯೂಬ್ ™ ಪ್ಲೇಯರ್ ಅದ್ಭುತವಾಗಿದೆ!"
+   },
+   "go_to_site": {
+      "message": "Open YouTube page"
+   },
+   "go_to_site_pb": {
+      "message": "Go to site"
+   },
+   "more": {
+      "message": "More"
+   },
+   "name": {
+      "message": "Custom Progress Bar for YouTube™"
+   },
+   "noYouTube": {
+      "message": "You must have YouTube open in the active tab for extension to work!"
+   },
+   "noresult": {
+      "message": "Nothing found? Head over to our website and grab yourself a brand new, shiny progress bar for free!"
+   },
+   "search_placeholder": {
+      "message": "Search ..."
+   },
+   "short_name": {
+      "message": "Custom Progress Bar for YouTube™"
+   }
+}
